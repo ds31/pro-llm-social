@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Разбор 01 — карусель</title>
+<link rel="stylesheet" href="../template/carousel.css">
+</head>
+<body>
+
+<!-- 1. Обложка -->
+<section class="slide night">
+  <div class="kicker">Разбор 01 · агенты и данные</div>
+  <h1 style="font-size:124px">Почему AI&#8209;агент врёт в&nbsp;цифрах?</h1>
+  <div class="grow"></div>
+  <div class="row" style="align-items:flex-end">
+    <div>
+      <div class="label" style="color:var(--t-dim)">сырые таблицы</div>
+      <div class="big" style="color:#ff7a7e; font-size:132px">24/30</div>
+    </div>
+    <div style="flex:0 0 auto; font-size:72px; color:var(--t-dim); padding-bottom:14px">→</div>
+    <div>
+      <div class="label" style="color:var(--t-dim)">слой метрик</div>
+      <div class="big acc" style="font-size:132px">30/30</div>
+    </div>
+  </div>
+  <p style="margin-top:56px">Тот же агент на Claude. Разница — в&nbsp;платформе данных, а&nbsp;не&nbsp;в&nbsp;модели.</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span>листай →</span></div>
+</section>
+
+<!-- 2. Вопрос руководителя -->
+<section class="slide">
+  <div class="kicker">Вопрос руководителя</div>
+  <div class="stack" style="gap:36px">
+    <div class="bubble q">Какая выручка региона «Восток» за&nbsp;последний месяц?</div>
+    <div class="bubble a">
+      <div class="label">агент на сырых таблицах</div>
+      <div class="mid err">392&nbsp;590&nbsp;₽</div>
+    </div>
+  </div>
+  <div class="card acc" style="margin-top:56px">
+    <div class="label">правильный ответ</div>
+    <div class="mid acc">1&nbsp;065&nbsp;715&nbsp;₽</div>
+  </div>
+  <div class="grow"></div>
+  <p>Почти <b>втрое меньше</b>. Агент сам заметил, что октябрь в&nbsp;данных неполный, — и&nbsp;всё&nbsp;равно ответил октябрём.</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · разбор 01</span><span>2/8</span></div>
+</section>
+
+<!-- 3. Эксперимент -->
+<section class="slide">
+  <div class="kicker">Эксперимент</div>
+  <h2>Один агент. 30&nbsp;бизнес&#8209;вопросов. Два&nbsp;раза.</h2>
+  <div class="row">
+    <div class="card err">
+      <div class="label">A · сырые таблицы</div>
+      <div class="big err">24</div>
+      <p class="dim" style="margin-bottom:28px">из 30 верно</p>
+      <p class="mono" style="font-size:32px">10&nbsp;с · $0,026</p>
+    </div>
+    <div class="card acc">
+      <div class="label">B · слой метрик</div>
+      <div class="big acc">30</div>
+      <p class="dim" style="margin-bottom:28px">из 30 верно</p>
+      <p class="mono" style="font-size:32px">4,9&nbsp;с · $0,016</p>
+    </div>
+  </div>
+  <div class="grow"></div>
+  <p>С платформой — <b>вдвое быстрее и&nbsp;на&nbsp;40&nbsp;% дешевле</b>: агенту не&nbsp;нужно исследовать таблицы.</p>
+  <p class="mono dim" style="font-size:24px; margin-top:28px">Claude Sonnet 5.5 · синтетическая розничная сеть · прогон 19.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · разбор 01</span><span>3/8</span></div>
+</section>
+
+<!-- 4. Где ошибся -->
+<section class="slide">
+  <div class="kicker">Где агент ошибся — 6 ответов</div>
+  <h2>Не&nbsp;в&nbsp;SQL, а&nbsp;в&nbsp;правилах компании</h2>
+  <div class="stack">
+    <div class="card err">
+      <div class="label">4 ответа · ошибки сканера</div>
+      <p>Строки с&nbsp;количеством <span class="mono"><b>9999</b></span> попали в&nbsp;сумму.</p>
+      <div class="mid err" style="margin-top:20px">×55 <span style="font-size:36px; font-weight:500" class="dim">выручка магазина</span></div>
+    </div>
+    <div class="card err">
+      <div class="label">2 ответа · незакрытый месяц</div>
+      <p>«Последний месяц» = 10&nbsp;дней октября.</p>
+      <div class="mid err" style="margin-top:20px">−63&nbsp;% <span style="font-size:36px; font-weight:500" class="dim">выручка региона</span></div>
+    </div>
+  </div>
+  <div class="grow"></div>
+  <p>Модель посильнее не&nbsp;узнает, что <span class="mono"><b>9999</b></span> — ошибка сканера. Это правило знает только компания.</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · разбор 01</span><span>4/8</span></div>
+</section>
+
+<!-- 5. Что модель сделала сама -->
+<section class="slide">
+  <div class="kicker">Что модель сделала сама</div>
+  <h2>Модель уже умная</h2>
+  <ul class="checks">
+    <li><b>Дубли в справочнике</b> — оставила одну карточку на&nbsp;товар</li>
+    <li><b>Определения метрик</b> — валовые продажи без возвратов</li>
+    <li><b>Контрольные вопросы</b> — 6 из 6</li>
+  </ul>
+  <div class="grow"></div>
+  <div class="card" style="background:var(--paper-2)">
+    <p style="font-size:46px; line-height:1.25; color:var(--ink)">SQL у&nbsp;сильной модели хороший. Не&nbsp;хватает <span class="acc">знания о&nbsp;компании</span>: какие строки — мусор и&nbsp;какой месяц закрыт.</p>
+  </div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · разбор 01</span><span>5/8</span></div>
+</section>
+
+<!-- 6. Схема -->
+<section class="slide">
+  <div class="kicker">Как устроено</div>
+  <h2 style="font-size:64px; margin-bottom:40px">Правила живут в&nbsp;платформе, а&nbsp;не&nbsp;в&nbsp;промпте</h2>
+  <div class="flow">
+    <div class="node src"><span class="n">Источники</span><span class="d">учёт · кассы</span></div>
+    <div class="arr">▼</div>
+    <div class="node"><span class="n">raw</span><span class="d">как выгрузили</span></div>
+    <div class="arr">▼</div>
+    <div class="node"><span class="n">stg</span><span class="d">без ошибок сканера<br>|qty| &lt; 1000</span></div>
+    <div class="arr">▼</div>
+    <div class="node"><span class="n">mart</span><span class="d">только закрытые<br>месяцы</span></div>
+    <div class="arr">▼</div>
+    <div class="node hl"><span class="n">Слой метрик</span><span class="d">формула · разрезы<br>правило времени</span></div>
+    <div class="arr acc">▼</div>
+    <div class="node"><span class="n">Агент → ответ</span><span class="d">с формулой,<br>без raw</span></div>
+  </div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · разбор 01</span><span>6/8</span></div>
+</section>
+
+<!-- 7. Что делать -->
+<section class="slide">
+  <div class="kicker">Что делать до запуска агента</div>
+  <h2>Три шага</h2>
+  <ol class="steps">
+    <li><p><b>Правила очистки — в&nbsp;витрины</b>какие строки считать ошибкой выгрузки</p></li>
+    <li><p><b>Метрики — в&nbsp;слой метрик</b>формула, разрезы и&nbsp;дата закрытия данных</p></li>
+    <li><p><b>Eval на&nbsp;30 своих вопросах</b>с&nbsp;эталонами — до&nbsp;того, как агент ответит руководителю</p></li>
+  </ol>
+  <div class="grow"></div>
+  <div class="card" style="background:var(--paper-2)">
+    <p style="color:var(--ink)">Ошибка агента на&nbsp;платформе — сигнал: не&nbsp;хватает правила, метрики или разреза. <span class="acc">Чинится в&nbsp;слое, а&nbsp;не&nbsp;в&nbsp;промпте.</span></p>
+  </div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · разбор 01</span><span>7/8</span></div>
+</section>
+
+<!-- 8. CTA -->
+<section class="slide night">
+  <div class="kicker">Повторить у себя</div>
+  <h2>Полный разбор и&nbsp;пакет с&nbsp;кодом</h2>
+  <p>Схема платформы, трассы агента, 30&nbsp;вопросов с&nbsp;эталонами — и&nbsp;запуск одной командой:</p>
+  <div class="code" style="margin-top:40px">uv run razbor01 all</div>
+  <div class="grow"></div>
+  <p style="font-size:48px; color:var(--t-fg)">Ссылка — <span class="acc">в&nbsp;профиле</span> 👆</p>
+  <div style="display:flex; align-items:center; gap:36px; margin-top:56px">
+    <img class="avatar" src="../template/avatar.png" alt="">
+    <div>
+      <p style="color:var(--t-fg); font-size:40px; font-weight:650">Денис Асалханов</p>
+      <p style="font-size:32px">Forward Deployed Engineer · AI&nbsp;для&nbsp;бизнеса</p>
+    </div>
+  </div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span class="hand" style="font-size:44px">сохрани, чтобы не потерять</span></div>
+</section>
+
+</body>
+</html>
