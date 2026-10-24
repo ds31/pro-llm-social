@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Laya — карусель</title>
+<link rel="stylesheet" href="../../template/carousel.css">
+<link rel="stylesheet" href="../../template/news.css">
+</head>
+<body>
+
+<!-- 1. Обложка -->
+<section class="slide night">
+  <div class="kicker">Открытый код · 23.09.2026</div>
+  <h1 style="font-size:100px">Разобрать тикет без&nbsp;LLM</h1>
+  <div class="grow"></div>
+  <div class="label" style="color:var(--t-dim)">один вопрос к&nbsp;тикету, GPU T4</div>
+  <div class="big acc" style="font-size:190px">33&nbsp;мс</div>
+  <p style="margin-top:44px">Laya отвечает, в&nbsp;какой отдел письмо и&nbsp;грозит&nbsp;ли клиент уйти, за&nbsp;один проход маленькой модели. Без генерации текста.</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span>листай →</span></div>
+</section>
+
+<!-- 2. Зачем -->
+<section class="slide">
+  <div class="kicker">В чём проблема</div>
+  <h2>LLM для сортировки писем — пушка по&nbsp;воробьям</h2>
+  <ul class="facts">
+    <li><p><b>Дорого</b> — большая модель на&nbsp;каждое входящее.</p></li>
+    <li><p><b>Медленно</b> — ответ пишется токен за&nbsp;токеном.</p></li>
+    <li><p><b>Ответ надо парсить</b> — модель пишет текст, а&nbsp;нужна метка.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <div class="so"><p>Laya закрывает такие задачи <b>одним проходом энкодера</b>. Открытый код, Apache&nbsp;2.0.</p></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>2/7</span></div>
+</section>
+
+<!-- 3. Как устроено -->
+<section class="slide">
+  <div class="kicker">Как устроено</div>
+  <h2>Вопросы на&nbsp;входе — ответы с&nbsp;уверенностью</h2>
+  <div class="flow">
+    <div class="node" style="background:var(--paper-2)"><span class="n">Письмо, тикет, JSON</span><span class="d">+ ваши вопросы</span></div>
+    <div class="arr">▼</div>
+    <div class="node"><span class="n">Выбор</span><span class="d">billing / technical<br>/ sales</span></div>
+    <div class="arr">▼</div>
+    <div class="node"><span class="n">Оценка</span><span class="d">срочность<br>по шкале</span></div>
+    <div class="arr">▼</div>
+    <div class="node"><span class="n">Да / нет</span><span class="d">грозит отменой?<br>просит возврат?</span></div>
+    <div class="arr acc">▼</div>
+    <div class="node hl"><span class="n">Готовые ответы</span><span class="d">с уверенностью,<br>парсить нечего</span></div>
+  </div>
+  <div class="grow"></div>
+  <p style="margin-top:32px">Модель не&nbsp;пишет текст, поэтому <b>галлюцинировать нечем</b>.</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>3/7</span></div>
+</section>
+
+<!-- 4. Цифры -->
+<section class="slide">
+  <div class="kicker">Цифры из README</div>
+  <h2>Маленькие модели, быстрый ответ</h2>
+  <div class="kpi">
+    <div class="card acc"><div class="v acc">33&nbsp;мс</div><p>на один вопрос</p></div>
+    <div class="card acc"><div class="v acc">7,2&nbsp;мс</div><p>на вопрос пачкой</p></div>
+    <div class="card"><div class="v">322M</div><p>мультиязычная, 100+ языков</p></div>
+    <div class="card"><div class="v">&lt;&nbsp;0,5&nbsp;мс</div><p>роутер выбирает модель по&nbsp;языку</p></div>
+  </div>
+  <div class="grow"></div>
+  <p>На&nbsp;14 неанглийских языках мультиязычная модель даёт <b>0,73</b> против <b>0,52</b> у&nbsp;английской (XNLI).</p>
+  <p class="src">github.com/NandhaKishorM/laya · GPU T4 · данные на 23.09.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>4/7</span></div>
+</section>
+
+<!-- 5. На что смотреть -->
+<section class="slide">
+  <div class="kicker">На что смотреть</div>
+  <h2>Уверенность не&nbsp;спасает от&nbsp;чужого языка</h2>
+  <ul class="warn">
+    <li><p><b>Английская модель на&nbsp;кхмерском:</b> 0&nbsp;% точности при уверенности 0,95. Порог уверенности не&nbsp;поможет — нужен роутер.</p></li>
+    <li><p><b>Короткие фразы латиницей</b> вроде «Quero cancelar» уходят в&nbsp;английскую модель. При&nbsp;неанглийском трафике — <span class="mono">Router(default="multilingual")</span>.</p></li>
+    <li><p><b>Кириллица</b> уходит в&nbsp;мультиязычную автоматически.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>5/7</span></div>
+</section>
+
+<!-- 6. Что это значит -->
+<section class="slide">
+  <div class="kicker">Что это значит для того, кто внедряет</div>
+  <h2>Первый фильтр перед&nbsp;LLM</h2>
+  <ol class="steps">
+    <li><p><b>Взять пару сотен своих тикетов</b>размеченных, на&nbsp;русском</p></li>
+    <li><p><b>Прогнать Laya</b>и&nbsp;сравнить с&nbsp;текущим решением по&nbsp;точности и&nbsp;цене</p></li>
+    <li><p><b>Сложное — дальше в&nbsp;LLM</b>на&nbsp;хитрых формулировках энкодер может не&nbsp;догнать большую модель</p></li>
+  </ol>
+  <div class="grow"></div>
+  <div class="so"><p>Разметка входящих по&nbsp;отделам и&nbsp;риску оттока — задача, где <b>большая модель не&nbsp;нужна</b>.</p></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>6/7</span></div>
+</section>
+
+<!-- 7. CTA -->
+<section class="slide night">
+  <div class="kicker">Каждый день — в Telegram</div>
+  <h2>Инструменты для агентов: что работает и&nbsp;где ломается</h2>
+  <p>Полный пост с&nbsp;кодом запуска и&nbsp;ссылками на&nbsp;модели — в&nbsp;канале <b>@pro_llm</b>.</p>
+  <div class="grow"></div>
+  <p style="font-size:48px; color:var(--t-fg)">Ссылка — <span class="acc">в&nbsp;профиле</span> 👆</p>
+  <div style="display:flex; align-items:center; gap:36px; margin-top:56px">
+    <img class="avatar" src="../../template/avatar.png" alt="">
+    <div>
+      <p style="color:var(--t-fg); font-size:40px; font-weight:650">Денис Асалханов</p>
+      <p style="font-size:32px">Forward Deployed Engineer · AI&nbsp;для&nbsp;бизнеса</p>
+    </div>
+  </div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span class="hand" style="font-size:44px">сохрани, чтобы не потерять</span></div>
+</section>
+
+</body>
+</html>
