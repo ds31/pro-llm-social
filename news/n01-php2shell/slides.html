@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>PHP2Shell&nbsp;— карусель</title>
+<link rel="stylesheet" href="../../template/carousel.css">
+<link rel="stylesheet" href="../../template/news.css">
+<style>
+  .flow .node { flex-direction: column; align-items: flex-start; gap: 6px; padding: 22px 34px; }
+  .flow .node .d { font-family: 'Onest', sans-serif; font-size: 32px; text-align: left; }
+  .flow .node.bad { background: var(--err-soft); border-color: var(--err); border-width: 3px; }
+  .flow .node.bad .n { color: var(--err); }
+  .flow .arr { height: 34px; line-height: 34px; font-size: 28px; }
+  .night .err { color: #ff6b6f; }
+</style>
+</head>
+<body>
+
+<!-- 1. Обложка -->
+<section class="slide night">
+  <div class="kicker">Уязвимость · 21.10.2026</div>
+  <h1 style="font-size:100px">Модель нашла дыру почти во&nbsp;всём вебе</h1>
+  <div class="grow"></div>
+  <div class="label" style="color:var(--t-dim)">оценка критичности, PHP2Shell</div>
+  <div class="row" style="align-items:flex-end">
+    <div class="big err" style="font-size:190px; flex:0 0 auto">9,2</div>
+    <div style="flex:0 0 auto; font-size:72px; color:var(--t-dim); padding-bottom:22px">из&nbsp;10</div>
+  </div>
+  <p style="margin-top:48px">Две уязвимости в&nbsp;самом PHP нашли с&nbsp;помощью GPT&#8209;5.6&nbsp;Sol. Разбираю, что случилось и&nbsp;что делать.</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span>листай →</span></div>
+</section>
+
+<!-- 2. Что случилось -->
+<section class="slide">
+  <div class="kicker">Что случилось</div>
+  <h2>Дыра не&nbsp;в&nbsp;сайте, а&nbsp;в&nbsp;самом PHP</h2>
+  <ul class="facts">
+    <li><p>21&nbsp;октября раскрыли две критические уязвимости&nbsp;— <b>CVE&#8209;2026&#8209;109618</b> и&nbsp;<b>CVE&#8209;2026&#8209;109619</b>.</p></li>
+    <li><p>Оценка <b>9,2 из&nbsp;10</b>: выполнение кода на&nbsp;сервере <b>без авторизации</b>.</p></li>
+    <li><p>Под ударом, предположительно, <b>все версии начиная с&nbsp;PHP&nbsp;5.4</b>.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <p class="src">openai.com · wiz.io · calif.io · данные на 21.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>2/8</span></div>
+</section>
+
+<!-- 3. Как устроено -->
+<section class="slide">
+  <div class="kicker">Как устроено</div>
+  <h2>Сбой заражает воркер</h2>
+  <div class="flow">
+    <div class="node"><span class="n">Запрос&nbsp;1 падает</span><span class="d">нехватка памяти или фатальная ошибка</span></div>
+    <div class="arr">↓</div>
+    <div class="node"><span class="n">PHP обрывает запрос</span><span class="d">но&nbsp;внутреннее состояние чистит не&nbsp;до&nbsp;конца</span></div>
+    <div class="arr acc">↓</div>
+    <div class="node hl"><span class="n">Запрос&nbsp;2 в&nbsp;тот&nbsp;же воркер</span><span class="d">натыкается на&nbsp;«висячий» указатель</span></div>
+    <div class="arr">↓</div>
+    <div class="node bad"><span class="n">Чужой код на&nbsp;сервере</span><span class="d">ещё до&nbsp;запуска кода приложения</span></div>
+  </div>
+  <div class="grow"></div>
+  <p>Уязвима даже страница, которая просто отвечает <b>«OK»</b>.</p>
+  <p class="src">wiz.io · calif.io</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>3/8</span></div>
+</section>
+
+<!-- 4. При чём тут LLM -->
+<section class="slide">
+  <div class="kicker">При чём тут LLM</div>
+  <h2>«Окно защитника»</h2>
+  <ul class="checks">
+    <li><p><b>Нашла модель</b>Calif&nbsp;— с&nbsp;помощью GPT&#8209;5.6&nbsp;Sol, Wiz&nbsp;—&nbsp;независимо</p></li>
+    <li><p><b>Два месяца тишины</b>закрытая работа с&nbsp;мейнтейнерами PHP в&nbsp;программе Patch the Planet</p></li>
+    <li><p><b>Раньше атакующих</b>так OpenAI называет «окно защитника»</p></li>
+  </ul>
+  <div class="grow"></div>
+  <div class="so"><p>Первый случай такого масштаба, где находку публично связывают <b>с&nbsp;моделью</b>, а&nbsp;не&nbsp;с&nbsp;человеком и&nbsp;фаззером.</p></div>
+  <p class="src">openai.com · calif.io · wiz.io</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>4/8</span></div>
+</section>
+
+<!-- 5. На что смотреть -->
+<section class="slide">
+  <div class="kicker">На что смотреть</div>
+  <h2>Сложно, но&nbsp;реально</h2>
+  <ul class="warn">
+    <li><p><b>Эксплуатировать непросто.</b> Нужно попасть в&nbsp;тот&nbsp;же воркер и&nbsp;аккуратно разложить данные в&nbsp;освобождённой&nbsp;памяти.</p></li>
+    <li><p><b>Но&nbsp;расслабляться рано.</b> В&nbsp;Ox Security советуют считать, что непропатченный публичный PHP уже под угрозой.</p></li>
+    <li><p><b>Список версий&nbsp;— предварительный.</b> «Все с&nbsp;5.4»&nbsp;— пока предположение.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>5/8</span></div>
+</section>
+
+<!-- 6. Что делать -->
+<section class="slide">
+  <div class="kicker">Что делать прямо сейчас</div>
+  <h2>Если у&nbsp;вас PHP</h2>
+  <ol class="steps" style="gap:34px">
+    <li><p><b>Обновить PHP</b>до&nbsp;исправленных версий из&nbsp;официального бюллетеня</p></li>
+    <li><p><b>Нельзя быстро&nbsp;— выключить флаги</b>это не&nbsp;заплатка, но&nbsp;убирает триггер для&nbsp;3&nbsp;из&nbsp;5 показанных техник</p></li>
+    <li><p><b>Смотреть логи</b>всплески ошибок памяти и&nbsp;падения&nbsp;воркеров</p></li>
+  </ol>
+  <div class="grow"></div>
+  <div class="label">выключить временно, после тестов</div>
+  <div class="code">session.upload_progress.enabled<br>opcache.enable</div>
+  <p class="src">imperva.com · wiz.io</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>6/8</span></div>
+</section>
+
+<!-- 7. Что это значит -->
+<section class="slide">
+  <div class="kicker">Что это значит для того, кто внедряет</div>
+  <h2>ИИ-аудит&nbsp;— уже не&nbsp;эксперимент</h2>
+  <ol class="steps">
+    <li><p><b>Гонять модели по&nbsp;своему коду</b>на&nbsp;безопасность&nbsp;— в&nbsp;пайплайне, а&nbsp;не&nbsp;разовой пробой</p></li>
+    <li><p><b>Ждать новых находок</b>OpenAI обещает, что в&nbsp;ближайшие месяцы их&nbsp;станет резко больше</p></li>
+  </ol>
+  <div class="grow"></div>
+  <div class="so"><p>Ещё недавно «ИИ нашёл уязвимость» звучало как маркетинг. Теперь это <b>CVE на&nbsp;9,2</b> в&nbsp;языке, на&nbsp;котором крутится <b>~70&nbsp;% сайтов</b>.</p></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>7/8</span></div>
+</section>
+
+<!-- 8. CTA -->
+<section class="slide night">
+  <div class="kicker">Каждый день&nbsp;— в Telegram</div>
+  <h2>Модели и&nbsp;агенты в&nbsp;продакшне: риски и&nbsp;что с&nbsp;ними делать</h2>
+  <p>Полный пост со&nbsp;ссылками на&nbsp;первоисточники&nbsp;— в&nbsp;канале <b>@pro_llm</b>.</p>
+  <div class="grow"></div>
+  <p style="font-size:48px; color:var(--t-fg)">Ссылка&nbsp;— <span class="acc">в&nbsp;профиле</span> 👆</p>
+  <div style="display:flex; align-items:center; gap:36px; margin-top:56px">
+    <img class="avatar" src="../../template/avatar.png" alt="">
+    <div>
+      <p style="color:var(--t-fg); font-size:40px; font-weight:650">Денис Асалханов</p>
+      <p style="font-size:32px">Forward Deployed Engineer · AI&nbsp;для&nbsp;бизнеса</p>
+    </div>
+  </div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span class="hand" style="font-size:44px">сохрани, чтобы не потерять</span></div>
+</section>
+
+</body>
+</html>

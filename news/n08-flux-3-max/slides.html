@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>FLUX 3 Max — карусель</title>
+<link rel="stylesheet" href="../../template/carousel.css">
+<link rel="stylesheet" href="../../template/news.css">
+<style>
+  .flow .node .d { font-size: 32px; }
+  .flow .node { padding: 26px 34px; }
+  .flow .arr { height: 40px; line-height: 40px; font-size: 30px; }
+</style>
+</head>
+<body>
+
+<!-- 1. Обложка -->
+<section class="slide night">
+  <div class="kicker">Релиз · 19.10.2026</div>
+  <h1 style="font-size:100px">Видео за&nbsp;12&nbsp;с.<br>Теперь узкое место&nbsp;— тесты</h1>
+  <div class="grow"></div>
+  <div class="label" style="color:var(--t-dim)">10-секундный ролик 720p: Seedance&nbsp;2.5 → FLUX&nbsp;3&nbsp;Max</div>
+  <div class="row" style="align-items:flex-end">
+    <div class="big" style="font-size:150px; color:var(--t-dim); flex:0 0 auto">~278&nbsp;с</div>
+    <div style="flex:0 0 auto; font-size:72px; color:var(--t-dim); padding-bottom:22px">→</div>
+    <div class="big acc" style="font-size:150px">~12&nbsp;с</div>
+  </div>
+  <p style="margin-top:48px">Креативов скоро будет больше, чем трафика на&nbsp;их тесты. Разбираю, что с&nbsp;этим делать.</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span>листай →</span></div>
+</section>
+
+<!-- 2. Что случилось -->
+<section class="slide">
+  <div class="kicker">Что случилось</div>
+  <h2>Быстрая видеомодель от&nbsp;fal и&nbsp;BFL</h2>
+  <ul class="facts">
+    <li><p>19&nbsp;октября fal и&nbsp;Black Forest Labs выпустили <b>FLUX&nbsp;3&nbsp;Max</b>.</p></li>
+    <li><p>10-секундный ролик в&nbsp;720p <b>со&nbsp;звуком</b>&nbsp;— примерно за&nbsp;11–12&nbsp;секунд.</p></li>
+    <li><p>Ролики <b>до&nbsp;20&nbsp;секунд</b>, три режима: текст → видео, картинка → видео, ключевые кадры → видео.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <p class="src">fal.ai · venturebeat.com · данные&nbsp;на&nbsp;21.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>2/7</span></div>
+</section>
+
+<!-- 3. Цифры -->
+<section class="slide">
+  <div class="kicker">Цифры</div>
+  <h2>Быстрее в&nbsp;22&nbsp;раза, качество вровень</h2>
+  <div class="kpi">
+    <div class="card acc"><div class="v acc">в&nbsp;22&nbsp;раза</div><p>быстрее Seedance&nbsp;2.5 по&nbsp;замерам fal</p></div>
+    <div class="card"><div class="v">1139</div><p>Elo на&nbsp;Video Arena, 1-е место с&nbsp;Seedance&nbsp;2.5</p></div>
+    <div class="card acc"><div class="v acc">~$0,04</div><p>за&nbsp;секунду 720p со&nbsp;скидкой 75&nbsp;%</p></div>
+    <div class="card"><div class="v">~40&nbsp;¢</div><p>за&nbsp;10-секундный ролик</p></div>
+  </div>
+  <div class="grow"></div>
+  <p>Elo&nbsp;— рейтинг Artificial Analysis по&nbsp;попарным слепым голосованиям людей.</p>
+  <p class="src">fal.ai · venturebeat.com · данные&nbsp;на&nbsp;21.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>3/7</span></div>
+</section>
+
+<!-- 4. На что смотреть -->
+<section class="slide">
+  <div class="kicker">На что смотреть</div>
+  <h2>«На&nbsp;уровне лидеров»&nbsp;— да, «лучше всех»&nbsp;— нет</h2>
+  <ul class="warn">
+    <li><p><b>Скорость fal мерил сам.</b> В&nbsp;его материалах то&nbsp;10,95, то&nbsp;12,45&nbsp;секунды.</p></li>
+    <li><p><b>Elo предварительный</b> и&nbsp;только для режима «картинка → видео».</p></li>
+    <li><p><b>Интервалы у&nbsp;лидеров пересекаются</b>&nbsp;— первое место общее.</p></li>
+    <li><p><b>40&nbsp;центов&nbsp;— цена со&nbsp;скидкой 75&nbsp;%.</b> Скидка действует до&nbsp;7&nbsp;ноября (по&nbsp;данным&nbsp;на&nbsp;21.10).</p></li>
+  </ul>
+  <div class="grow"></div>
+  <p class="src">fal.ai · venturebeat.com · данные&nbsp;на&nbsp;21.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>4/7</span></div>
+</section>
+
+<!-- 5. Узкое место -->
+<section class="slide">
+  <div class="kicker">Где теперь узкое место</div>
+  <h2>Генерация дешевеет, трафик&nbsp;— нет</h2>
+  <div class="flow">
+    <div class="node"><span class="n">50 вариантов ролика</span><span class="d">теперь дёшево</span></div>
+    <div class="arr">▼</div>
+    <div class="node"><span class="n">Те&nbsp;же показы</span><span class="d">трафик прежний</span></div>
+    <div class="arr">▼</div>
+    <div class="node"><span class="n">Показы ÷ 50</span><span class="d">на&nbsp;каждый вариант</span></div>
+    <div class="arr acc">▼</div>
+    <div class="node hl"><span class="n">Значимости нет</span><span class="d">не&nbsp;дождаться</span></div>
+  </div>
+  <div class="grow"></div>
+  <div class="so"><p>Выиграет не&nbsp;тот, кто больше генерирует, а&nbsp;тот, кто <b>быстро отсеивает слабое</b>.</p></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>5/7</span></div>
+</section>
+
+<!-- 6. Что это значит -->
+<section class="slide">
+  <div class="kicker">Что это значит для того, кто внедряет</div>
+  <h2>Отсеивать до&nbsp;того, как тратить показы</h2>
+  <ol class="steps">
+    <li><p><b>Оценивать заранее</b>до&nbsp;запуска в&nbsp;рекламу</p></li>
+    <li><p><b>Многорукие бандиты</b>алгоритм сам переливает трафик на&nbsp;лучшие варианты</p></li>
+    <li><p><b>Правила остановки</b>задать до&nbsp;старта теста</p></li>
+  </ol>
+  <div class="grow"></div>
+  <div class="so"><p>Начать с&nbsp;малого: <b>3–5 SKU</b> через «картинка → видео» до&nbsp;7&nbsp;ноября&nbsp;— и&nbsp;сравнить CTR карточек с&nbsp;видео и&nbsp;без.</p></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>6/7</span></div>
+</section>
+
+<!-- 7. CTA -->
+<section class="slide night">
+  <div class="kicker">Каждый день — в Telegram</div>
+  <h2>AI для e&#8209;com: новые модели, цены и&nbsp;как их проверить</h2>
+  <p>Полный пост со&nbsp;ссылками на&nbsp;первоисточники&nbsp;— в&nbsp;канале <b>@pro_llm</b>.</p>
+  <div class="grow"></div>
+  <p style="font-size:48px; color:var(--t-fg)">Ссылка&nbsp;— <span class="acc">в&nbsp;профиле</span> 👆</p>
+  <div style="display:flex; align-items:center; gap:36px; margin-top:56px">
+    <img class="avatar" src="../../template/avatar.png" alt="">
+    <div>
+      <p style="color:var(--t-fg); font-size:40px; font-weight:650">Денис Асалханов</p>
+      <p style="font-size:32px">Forward Deployed Engineer · AI&nbsp;для&nbsp;бизнеса</p>
+    </div>
+  </div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span class="hand" style="font-size:44px">сохрани, чтобы не потерять</span></div>
+</section>
+
+</body>
+</html>

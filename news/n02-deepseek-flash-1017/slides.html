@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>DeepSeek Flash 1017&nbsp;— карусель</title>
+<link rel="stylesheet" href="../../template/carousel.css">
+<link rel="stylesheet" href="../../template/news.css">
+<style>
+  .kpi .card .lbl { font-family: 'JBM', monospace; font-size: 26px; letter-spacing: .04em; text-transform: uppercase; color: var(--ink-3); margin-bottom: 18px; }
+  .kpi .v .from { color: var(--ink-3); font-weight: 600; }
+  .kpi .v.sm { font-size: 64px; }
+  .kpi .card { padding: 40px 38px; }
+</style>
+</head>
+<body>
+
+<!-- 1. Обложка -->
+<section class="slide night">
+  <div class="kicker">Релиз · 17.10.2026</div>
+  <h1 style="font-size:100px">DeepSeek дообучил Flash под&nbsp;свою обвязку</h1>
+  <div class="grow"></div>
+  <div class="label" style="color:var(--t-dim)">ProgramBench, замеры DeepSeek</div>
+  <div class="row" style="align-items:flex-end">
+    <div class="big" style="font-size:150px; color:var(--t-dim); flex:0 0 auto">20,3</div>
+    <div style="flex:0 0 auto; font-size:72px; color:var(--t-dim); padding-bottom:22px">→</div>
+    <div class="big acc" style="font-size:150px">29,1</div>
+  </div>
+  <p style="margin-top:48px">Бесплатно до&nbsp;1&nbsp;ноября (по&nbsp;данным на&nbsp;21.10). Разбираю, где заслуга модели, а&nbsp;где&nbsp;—&nbsp;обвязки.</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span>листай →</span></div>
+</section>
+
+<!-- 2. Что случилось -->
+<section class="slide">
+  <div class="kicker">Что случилось</div>
+  <h2>Модель под&nbsp;свой harness</h2>
+  <ul class="facts">
+    <li><p>17&nbsp;октября вышла <b>Flash 1017</b>&nbsp;— минорное обновление V4.1 Flash, быстрой и&nbsp;дешёвой модели DeepSeek.</p></li>
+    <li><p>Её затачивали под&nbsp;<b>DeepSeek Harness</b>&nbsp;— собственную обвязку DeepSeek для&nbsp;агентов.</p></li>
+    <li><p>Веса&nbsp;— на&nbsp;Hugging Face под&nbsp;<b>MIT</b>. Через harness модель бесплатна <b>до&nbsp;1&nbsp;ноября</b>.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <p class="src">huggingface.co · producthunt.com · github.com<br>данные на 21.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>2/7</span></div>
+</section>
+
+<!-- 3. Цифры -->
+<section class="slide">
+  <div class="kicker">Цифры по данным самого DeepSeek</div>
+  <h2>Было → стало</h2>
+  <div class="kpi">
+    <div class="card acc"><div class="lbl">DeepSWE</div><div class="v sm"><span class="from">74,2 →</span> <span class="acc">77,0</span></div></div>
+    <div class="card acc"><div class="lbl">ProgramBench</div><div class="v sm"><span class="from">20,3 →</span> <span class="acc">29,1</span></div></div>
+    <div class="card err"><div class="lbl">Terminal-Bench 4.0*</div><div class="v sm"><span class="from">31,2 →</span> 42,3</div></div>
+    <div class="card"><div class="lbl">Ответы</div><div class="v sm acc">короче</div><p>задачи закрываются быстрее</p></div>
+    <div class="card" style="grid-column:1 / -1; display:flex; align-items:center; justify-content:space-between"><div><div class="lbl">API, за 1M токенов</div><p>вход / выход</p></div><div class="v sm" style="margin:0">$0,30 / $1,20</div></div>
+  </div>
+  <div class="grow"></div>
+  <p style="margin-top:28px"><b>*</b>&nbsp;Новую цифру Terminal-Bench сняли в&nbsp;Claude&nbsp;Code&nbsp;— об&nbsp;этом на&nbsp;слайде&nbsp;5.</p>
+  <p class="src">карточка модели на huggingface.co</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>3/7</span></div>
+</section>
+
+<!-- 4. Что внутри -->
+<section class="slide">
+  <div class="kicker">Что внутри</div>
+  <h2>Что умеет модель</h2>
+  <ul class="checks">
+    <li><p><b>Контекст 1M токенов</b>ответ до&nbsp;384K, понимает картинки</p></li>
+    <li><p><b>С&nbsp;нуля&nbsp;— от&nbsp;игры до&nbsp;3D&#8209;модели</b>дообучали с&nbsp;подкреплением на&nbsp;самооценке</p></li>
+    <li><p><b>Имя в&nbsp;API то&nbsp;же</b>старые deepseek-v4-flash тоже ведут на&nbsp;новую модель</p></li>
+  </ul>
+  <div class="grow"></div>
+  <div class="code">model = "deepseek-flash"</div>
+  <p style="margin-top:28px">Сидите на&nbsp;Flash&nbsp;— вы <b>уже на&nbsp;1017</b>.</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>4/7</span></div>
+</section>
+
+<!-- 5. На что смотреть -->
+<section class="slide">
+  <div class="kicker">На что смотреть</div>
+  <h2>Яблоко с&nbsp;грушей</h2>
+  <ul class="warn">
+    <li><p><b>Terminal-Bench 4.0: 31,2 → 42,3.</b> Но&nbsp;новую цифру сняли в&nbsp;Claude Code, а&nbsp;не&nbsp;в&nbsp;собственной обвязке.</p></li>
+    <li><p><b>Все цифры&nbsp;— от&nbsp;самого DeepSeek.</b> Сколько даёт модель, а&nbsp;сколько обвязка вокруг неё&nbsp;— открытый&nbsp;вопрос.</p></li>
+    <li><p><b>Бесплатное окно&nbsp;— до&nbsp;1&nbsp;ноября.</b> Так по&nbsp;данным на&nbsp;21.10&nbsp;— проверьте условия перед стартом.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>5/7</span></div>
+</section>
+
+<!-- 6. Что это значит -->
+<section class="slide">
+  <div class="kicker">Что это значит для того, кто внедряет</div>
+  <h2>Проверить самому</h2>
+  <ol class="steps">
+    <li><p><b>Обновить DeepSeek Harness</b>до&nbsp;0.2.1&#8209;rc.1 или новее&nbsp;— под&nbsp;неё модель&nbsp;адаптировали</p></li>
+    <li><p><b>Прогнать одну задачу дважды</b>свою рабочую&nbsp;— через dsh и&nbsp;через Claude Code</p></li>
+    <li><p><b>Успеть до&nbsp;1&nbsp;ноября</b>пока оба варианта бесплатны</p></li>
+  </ol>
+  <div class="grow"></div>
+  <div class="so"><p>Бесплатное окно&nbsp;— повод замерить модель <b>на&nbsp;своих задачах</b>, а&nbsp;не&nbsp;на&nbsp;чужих&nbsp;бенчмарках.</p></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>6/7</span></div>
+</section>
+
+<!-- 7. CTA -->
+<section class="slide night">
+  <div class="kicker">Каждый день&nbsp;— в Telegram</div>
+  <h2>Модели и&nbsp;агенты: что даёт модель, а&nbsp;что&nbsp;—&nbsp;обвязка</h2>
+  <p>Полный пост со&nbsp;ссылками на&nbsp;первоисточники&nbsp;— в&nbsp;канале <b>@pro_llm</b>.</p>
+  <div class="grow"></div>
+  <p style="font-size:48px; color:var(--t-fg)">Ссылка&nbsp;— <span class="acc">в&nbsp;профиле</span> 👆</p>
+  <div style="display:flex; align-items:center; gap:36px; margin-top:56px">
+    <img class="avatar" src="../../template/avatar.png" alt="">
+    <div>
+      <p style="color:var(--t-fg); font-size:40px; font-weight:650">Денис Асалханов</p>
+      <p style="font-size:32px">Forward Deployed Engineer · AI&nbsp;для&nbsp;бизнеса</p>
+    </div>
+  </div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span class="hand" style="font-size:44px">сохрани, чтобы не потерять</span></div>
+</section>
+
+</body>
+</html>

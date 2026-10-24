@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Amazon против Walmart — карусель</title>
+<link rel="stylesheet" href="../../template/carousel.css">
+<link rel="stylesheet" href="../../template/news.css">
+<style>
+  .side { border-radius: 22px; padding: 34px 40px; }
+  .side .label { margin-bottom: 10px; }
+  .side h3 { font-size: 54px; line-height: 1.05; font-weight: 720; letter-spacing: -.015em; margin-bottom: 14px; }
+  .side p { font-size: 36px; }
+  .night .side.op { border: 3px solid var(--acc-b); }
+  .night .side.cl { border: 3px solid var(--err); }
+  .sc { display: flex; flex-direction: column; gap: 32px; }
+  .sc .card { display: grid; grid-template-columns: 90px 1fr; gap: 10px; padding: 40px 40px; }
+  .sc .card .i { font-family: 'JBM', monospace; font-size: 48px; color: var(--acc); line-height: 1.1; }
+  .sc .card b { display: block; font-size: 46px; margin-bottom: 10px; }
+  .sc .card p { font-size: 38px; }
+</style>
+</head>
+<body>
+
+<!-- 1. Обложка -->
+<section class="slide night">
+  <div class="kicker">Аналитика · 19.10.2026</div>
+  <h1 style="font-size:96px">Amazon закрывает дверь агентам, Walmart&nbsp;— открывает</h1>
+  <div class="grow"></div>
+  <div class="row" style="gap:24px">
+    <div class="side op">
+      <div class="label" style="color:var(--acc-b)">Walmart</div>
+      <h3 class="acc">открыт</h3>
+      <p>подключён к&nbsp;нескольким AI&#8209;экосистемам сразу</p>
+    </div>
+    <div class="side cl">
+      <div class="label" style="color:var(--err)">Amazon</div>
+      <h3 class="err">закрыт</h3>
+      <p>для чужих агентов, при этом у&nbsp;него есть свои</p>
+    </div>
+  </div>
+  <p style="margin-top:44px">Две противоположные ставки на&nbsp;то, кто владеет покупателем, когда покупает не&nbsp;человек.</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span>листай →</span></div>
+</section>
+
+<!-- 2. Что случилось -->
+<section class="slide">
+  <div class="kicker">Что случилось</div>
+  <h2>Ритейл разошёлся в&nbsp;ставках на&nbsp;агентов</h2>
+  <ul class="facts">
+    <li><p><b>Bank of America</b> в&nbsp;заметке от&nbsp;19.10 называет позицию Walmart в&nbsp;покупках через агентов <b>сильной</b>.</p></li>
+    <li><p><b>20&nbsp;сентября</b> Amazon заблокировал <b>Muse</b>&nbsp;— личного агента Meta&nbsp;— через 12&nbsp;дней после его запуска.</p></li>
+    <li><p>Walmart, наоборот, <b>партнёр Muse</b> вместе с&nbsp;Best Buy и&nbsp;Ulta.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <div class="so"><p>Amazon не&nbsp;против агентов. Он&nbsp;против <b>чужих</b>. Вопрос&nbsp;— чей ИИ&nbsp;стоит между магазином и&nbsp;покупателем.</p></div>
+  <p class="src">finance.yahoo.com · geekwire.com · данные на 22.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>2/8</span></div>
+</section>
+
+<!-- 3. Две ставки -->
+<section class="slide">
+  <div class="kicker">Две ставки</div>
+  <h2>Открыт или закрыт</h2>
+  <div class="stack" style="gap:24px">
+    <div class="card acc">
+      <div class="label acc">Walmart · открыт</div>
+      <p>Подключён к&nbsp;нескольким AI&#8209;экосистемам, развивает своего ассистента <b>Sparky</b>, входит в&nbsp;основатели <b>Personal Agent Protocol</b>.</p>
+    </div>
+    <div class="card err">
+      <div class="label err">Amazon · закрыт для чужих</div>
+      <p>Закрылся от&nbsp;агентов Google и&nbsp;OpenAI, судится с&nbsp;Perplexity из-за браузера Comet. Свои агенты&nbsp;— <b>Alexa for&nbsp;Shopping</b> и&nbsp;<b>Buy for&nbsp;Me</b>.</p>
+    </div>
+  </div>
+  <div class="grow"></div>
+  <p class="src">finance.yahoo.com · geekwire.com · t2conline.com<br>данные на 22.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>3/8</span></div>
+</section>
+
+<!-- 4. Цифры: реклама -->
+<section class="slide">
+  <div class="kicker">При чём тут реклама</div>
+  <h2>Агент не&nbsp;листает выдачу</h2>
+  <div class="label">рекламный бизнес Amazon за&nbsp;год</div>
+  <div class="big acc" style="font-size:150px">&gt;&nbsp;$68&nbsp;млрд</div>
+  <p style="margin-top:40px">Эти деньги держатся на&nbsp;том, что человек листает выдачу и&nbsp;видит <b>спонсорские товары</b>.</p>
+  <div class="grow"></div>
+  <div class="so"><p>Агент сравнивает <b>цену, сроки и&nbsp;рейтинг</b>. Экрана у&nbsp;него нет. Тот&nbsp;же вопрос BofA задаёт и&nbsp;про Walmart.</p></div>
+  <p class="src">finance.yahoo.com · данные на 22.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>4/8</span></div>
+</section>
+
+<!-- 5. Три сценария -->
+<section class="slide">
+  <div class="kicker">Куда переедет реклама</div>
+  <h2>Три сценария</h2>
+  <div class="sc">
+    <div class="card"><div class="i">01</div><div><b>Реклама для агентов</b><p>платное место в&nbsp;фиде данных, который читает агент, а&nbsp;не&nbsp;баннер</p></div></div>
+    <div class="card"><div class="i">02</div><div><b>Своя витрина и&nbsp;свой агент</b><p>трафик остаётся у&nbsp;площадки, реклама переезжает в&nbsp;ответы Alexa</p></div></div>
+    <div class="card"><div class="i">03</div><div><b>Данные вместо показов</b><p>площадка продаёт брендам аналитику по&nbsp;агентным покупкам</p></div></div>
+  </div>
+  <div class="grow"></div>
+  <p class="src">сценарии — мнение автора канала, не&nbsp;прогноз BofA</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>5/8</span></div>
+</section>
+
+<!-- 6. На что смотреть -->
+<section class="slide">
+  <div class="kicker">На что смотреть</div>
+  <h2>Открытость пока не&nbsp;гарантирует покупку</h2>
+  <ul class="warn">
+    <li><p><b>У&nbsp;партнёра тоже сбои.</b> У&nbsp;пользователей Muse срывались покупки на&nbsp;Walmart: антифрод выбрасывал агента на&nbsp;этапе оплаты.</p></li>
+    <li><p><b>Версия Amazon:</b> Meta не&nbsp;предупредила о&nbsp;запуске, агент не&nbsp;представлялся ботом и&nbsp;работал внутри аккаунтов покупателей.</p></li>
+    <li><p><b>Модель рекламы под агентов не&nbsp;найдена.</b> Вопрос открыт и&nbsp;для Amazon, и&nbsp;для Walmart.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <p class="src">geekwire.com · finance.yahoo.com</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>6/8</span></div>
+</section>
+
+<!-- 7. Что это значит -->
+<section class="slide">
+  <div class="kicker">Что это значит для того, кто внедряет</div>
+  <h2 style="margin-bottom:40px">Сначала&nbsp;— замер</h2>
+  <ol class="steps">
+    <li><p><b>Разметить агентский трафик</b>какая доля визитов и&nbsp;заказов приходит от&nbsp;агентов</p></li>
+    <li><p><b>Сравнить экономику</b>конверсия и&nbsp;средний чек агентских заказов против обычных</p></li>
+    <li><p><b>Выбрать стратегию</b>пускать чужих агентов или строить&nbsp;своего</p></li>
+  </ol>
+  <div class="grow"></div>
+  <div class="so"><p>Доля агентов пока маленькая. Но&nbsp;без замера вы&nbsp;не&nbsp;заметите, <b>когда реклама перестанет окупаться</b>.</p></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>7/8</span></div>
+</section>
+
+<!-- 8. CTA -->
+<section class="slide night">
+  <div class="kicker">Каждый день — в Telegram</div>
+  <h2>AI-агенты в&nbsp;ритейле: кто выигрывает и&nbsp;что делать продавцу</h2>
+  <p>Полный пост со&nbsp;ссылками на&nbsp;первоисточники — в&nbsp;канале <b>@pro_llm</b>.</p>
+  <div class="grow"></div>
+  <p style="font-size:48px; color:var(--t-fg)">Ссылка — <span class="acc">в&nbsp;профиле</span> 👆</p>
+  <div style="display:flex; align-items:center; gap:36px; margin-top:56px">
+    <img class="avatar" src="../../template/avatar.png" alt="">
+    <div>
+      <p style="color:var(--t-fg); font-size:40px; font-weight:650">Денис Асалханов</p>
+      <p style="font-size:32px">Forward Deployed Engineer · AI&nbsp;для&nbsp;бизнеса</p>
+    </div>
+  </div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span class="hand" style="font-size:44px">сохрани, чтобы не потерять</span></div>
+</section>
+
+</body>
+</html>

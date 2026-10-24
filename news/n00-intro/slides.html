@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Знакомство pro_llm&nbsp;— карусель</title>
+<link rel="stylesheet" href="../../template/carousel.css">
+<link rel="stylesheet" href="../../template/news.css">
+<style>
+  .links { list-style: none; display: flex; flex-direction: column; gap: 40px; margin-top: 16px; }
+  .links .s { grid-column: 2; font-size: 34px; color: var(--t-dim); }
+  .links li { display: grid; grid-template-columns: 300px 1fr; align-items: baseline; row-gap: 4px; }
+  .links .k { font-family: 'JBM', monospace; font-size: 32px; letter-spacing: .04em; text-transform: uppercase; color: var(--t-dim); }
+  .flow .node { flex-direction: column; align-items: flex-start; gap: 6px; padding: 22px 34px; }
+  .flow .node .d { font-family: 'Onest', sans-serif; font-size: 32px; text-align: left; }
+  .flow .arr { height: 40px; line-height: 40px; font-size: 30px; }
+  .links .h { font-size: 46px; font-weight: 650; color: var(--t-fg); }
+</style>
+</head>
+<body>
+
+<!-- 1. Обложка -->
+<section class="slide night">
+  <div class="kicker">Знакомство · pro_llm</div>
+  <h1 style="font-size:100px">Модели AI и&nbsp;агенты&nbsp;— на&nbsp;практике</h1>
+  <div class="grow"></div>
+  <div style="display:flex; align-items:center; gap:40px">
+    <img class="avatar" src="../../template/avatar.png" alt="" style="width:190px; height:190px">
+    <div>
+      <p style="color:var(--t-fg); font-size:56px; font-weight:700; line-height:1.1">Привет, я&nbsp;Денис</p>
+      <p style="font-size:36px; margin-top:8px">Forward Deployed Engineer</p>
+    </div>
+  </div>
+  <p style="margin-top:48px">Кто я, о&nbsp;чём этот аккаунт и&nbsp;что здесь будет.</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span>листай →</span></div>
+</section>
+
+<!-- 2. Кто я -->
+<section class="slide">
+  <div class="kicker">Кто я</div>
+  <h2>Из&nbsp;аналитики&nbsp;— в&nbsp;AI</h2>
+  <div class="row" style="align-items:stretch; margin-bottom:56px">
+    <div class="card"><div class="label">Раньше</div><p style="font-size:44px"><b>Руководил аналитикой в&nbsp;e&#8209;com</b></p></div>
+    <div class="card acc"><div class="label" style="color:var(--acc)">Сейчас</div><p style="font-size:44px"><b>Предприниматель: Data и&nbsp;AI проекты</b></p></div>
+  </div>
+  <ul class="facts">
+    <li><p>По&nbsp;роли&nbsp;— <b>Forward Deployed Engineer</b>: довожу AI до&nbsp;работы внутри бизнеса.</p></li>
+    <li><p>Пишу о&nbsp;том, что <b>сам пробую</b>. Иногда пересказываю пресс-релизы.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · знакомство</span><span>2/6</span></div>
+</section>
+
+<!-- 3. О чём аккаунт -->
+<section class="slide">
+  <div class="kicker">О чём здесь</div>
+  <h2>Четыре направления</h2>
+  <ul class="checks">
+    <li><p><b>Агенты</b>архитектура, обвязка, песочницы, где они ломаются</p></li>
+    <li><p><b>Релизы моделей</b>цены, ограничения, кому и&nbsp;зачем</p></li>
+    <li><p><b>E&#8209;com</b>что AI реально меняет в&nbsp;магазинах и&nbsp;аналитике</p></li>
+    <li><p><b>Практика</b>мои эксперименты&nbsp;— с&nbsp;кодом и&nbsp;цифрами</p></li>
+  </ul>
+  <div class="grow"></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · знакомство</span><span>3/6</span></div>
+</section>
+
+<!-- 4. Форматы -->
+<section class="slide">
+  <div class="kicker">Что здесь будет</div>
+  <h2>Коротко здесь, подробно&nbsp;— на&nbsp;сайте</h2>
+  <div class="flow">
+    <div class="node"><span class="n">Новость</span><span class="d">релиз, уязвимость, цифра</span></div>
+    <div class="arr">↓</div>
+    <div class="node hl"><span class="n">Карусель в&nbsp;Instagram</span><span class="d">что случилось, цифры, ограничения, что это меняет</span></div>
+    <div class="arr acc">↓</div>
+    <div class="node"><span class="n">Разбор на&nbsp;pro-llm.ru</span><span class="d">когда тема стоит подробностей</span></div>
+  </div>
+  <div class="grow"></div>
+  <div class="so"><p>Каждый пост отвечает на&nbsp;вопрос: <b>что это меняет для&nbsp;того, кто внедряет</b>.</p></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · знакомство</span><span>4/6</span></div>
+</section>
+
+<!-- 5. Кому будет полезно -->
+<section class="slide">
+  <div class="kicker">Кому будет полезно</div>
+  <h2>Тем, кто внедряет AI</h2>
+  <ol class="steps">
+    <li><p><b>Собственнику и&nbsp;ИТ-директору</b>без своей команды данных&nbsp;— понять, что AI меняет в&nbsp;бизнесе</p></li>
+    <li><p><b>Инженеру</b>архитектура агентов, код, цифры и&nbsp;где всё ломается</p></li>
+    <li><p><b>Тем, кто в&nbsp;e&#8209;com</b>что AI реально даёт магазину и&nbsp;аналитике</p></li>
+  </ol>
+  <div class="grow"></div>
+  <div class="so"><p>Без хайпа: <b>цены, ограничения</b>, кому и&nbsp;зачем это&nbsp;нужно.</p></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · знакомство</span><span>5/6</span></div>
+</section>
+
+<!-- 6. CTA -->
+<section class="slide night">
+  <div class="kicker">Где ещё найти</div>
+  <h2>Подпишись, чтобы не&nbsp;пропустить разборы</h2>
+  <ul class="links">
+    <li><span class="k">Telegram</span><span class="h">@pro_llm</span><span class="s">новости каждый день</span></li>
+    <li><span class="k">Сайт</span><span class="h acc">pro-llm.ru</span><span class="s">подробные разборы</span></li>
+    <li><span class="k">YouTube, X</span><span class="h">@d_asalhanov</span></li>
+  </ul>
+  <div class="grow"></div>
+  <p style="font-size:48px; color:var(--t-fg)">Ссылка на&nbsp;Telegram&nbsp;— <span class="acc">в&nbsp;профиле</span> 👆</p>
+  <div style="display:flex; align-items:center; gap:36px; margin-top:56px">
+    <img class="avatar" src="../../template/avatar.png" alt="">
+    <div>
+      <p style="color:var(--t-fg); font-size:40px; font-weight:650">Денис Асалханов</p>
+      <p style="font-size:32px">Forward Deployed Engineer · AI&nbsp;для&nbsp;бизнеса</p>
+    </div>
+  </div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span class="hand" style="font-size:44px">подпишись, чтобы не пропустить</span></div>
+</section>
+
+</body>
+</html>

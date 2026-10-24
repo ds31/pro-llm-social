@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>TimesFM для прогноза спроса — карусель</title>
+<link rel="stylesheet" href="../../template/carousel.css">
+<link rel="stylesheet" href="../../template/news.css">
+<style>
+  .flow .node .d { font-size: 32px; }
+  .ver { display: flex; flex-direction: column; gap: 24px; }
+  .ver .card b { display: block; font-size: 48px; margin-bottom: 8px; }
+  .ver .card p { font-size: 36px; }
+  .vg { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; }
+  .vg .card { padding: 30px 30px; }
+  .vg .v { font-size: 60px; font-weight: 740; letter-spacing: -.02em; line-height: 1; margin-bottom: 12px; }
+  .vg p { font-size: 32px; line-height: 1.25; }
+  .flow .node { padding: 34px 36px; }
+  .flow .node .n { font-size: 44px; }
+  .flow .arr { height: 46px; line-height: 46px; }
+</style>
+</head>
+<body>
+
+<!-- 1. Обложка -->
+<section class="slide night">
+  <div class="kicker">Обзор · 22.10.2026</div>
+  <h1 style="font-size:96px">Прогноз спроса без обучения своей модели</h1>
+  <div class="grow"></div>
+  <div class="label" style="color:var(--t-dim)">TimesFM 2.5 от&nbsp;Google</div>
+  <div class="big acc" style="font-size:150px">минуты</div>
+  <p style="margin-top:16px; color:var(--t-fg)">на&nbsp;прогноз 1000 рядов&nbsp;— на&nbsp;ноутбуке, без&nbsp;GPU</p>
+  <p style="margin-top:48px">Когда брать TimesFM, где она проигрывает бустингу и&nbsp;какую версию можно в&nbsp;бизнес.</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span>листай →</span></div>
+</section>
+
+<!-- 2. Что это -->
+<section class="slide">
+  <div class="kicker">Что это</div>
+  <h2>Foundation-модель для временных рядов</h2>
+  <ul class="facts">
+    <li><p><b>Трансформер в&nbsp;духе GPT</b>, только вместо слов&nbsp;— куски ряда по&nbsp;32&nbsp;точки.</p></li>
+    <li><p><b>Обучена заранее</b> на&nbsp;реальных и&nbsp;синтетических рядах. Под вашу задачу её&nbsp;не&nbsp;обучают.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <div class="label">версии · параметры</div>
+  <div class="vg">
+    <div class="card"><div class="v" style="color:var(--ink-3)">2.0</div><p>500M, контекст 2048</p></div>
+    <div class="card acc"><div class="v acc">2.5</div><p>200M, контекст до&nbsp;16k</p></div>
+    <div class="card acc"><div class="v acc">3.0</div><p>330M, многомерный прогноз</p></div>
+  </div>
+  <p class="src">github.com/google-research · данные на 22.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>2/8</span></div>
+</section>
+
+<!-- 3. Как работает -->
+<section class="slide">
+  <div class="kicker">Как устроено</div>
+  <h2>Подали историю&nbsp;— получили прогноз</h2>
+  <div class="flow">
+    <div class="node" style="background:var(--paper-2)"><span class="n">История продаж</span><span class="d">ваш ряд</span></div>
+    <div class="arr">▼</div>
+    <div class="node hl"><span class="n">TimesFM</span><span class="d">готовая, без&nbsp;обучения</span></div>
+    <div class="arr acc">▼</div>
+    <div class="node"><span class="n">Прогноз + квантили</span><span class="d">из&nbsp;коробки</span></div>
+    <div class="arr">▼</div>
+    <div class="node"><span class="n">Страховой запас</span><span class="d">по&nbsp;квантилям</span></div>
+  </div>
+  <div class="grow"></div>
+  <p style="margin-top:32px">Модель предсказывает <b>сразу длинный кусок будущего</b>, поэтому ошибка не&nbsp;копится шаг за&nbsp;шагом.</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>3/8</span></div>
+</section>
+
+<!-- 4. Какую версию брать -->
+<section class="slide">
+  <div class="kicker">Какую версию брать бизнесу</div>
+  <h2>Смотрите на&nbsp;лицензию</h2>
+  <div class="ver">
+    <div class="card acc"><b>TimesFM 2.5&nbsp;— у&nbsp;себя</b><p>200M параметров, контекст до&nbsp;16k, лицензия Apache&#8209;2.0</p></div>
+    <div class="card acc"><b>TimesFM&#8209;3&nbsp;— через BigQuery ML</b><p>вышла 31.08.2026, многомерный прогноз: связанные ряды и&nbsp;известные будущие факторы. Коммерция разрешена</p></div>
+    <div class="card err"><b class="err">Веса TimesFM&#8209;3&nbsp;— не&nbsp;для бизнеса</b><p>только для некоммерческого использования</p></div>
+  </div>
+  <div class="grow"></div>
+  <p class="src">github.com · huggingface.co · docs.cloud.google.com<br>данные на 22.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>4/8</span></div>
+</section>
+
+<!-- 5. Ресурсы -->
+<section class="slide">
+  <div class="kicker">Сколько ресурсов</div>
+  <h2>Хватит ноутбука</h2>
+  <div class="kpi">
+    <div class="card acc"><div class="v acc">~1,5&nbsp;ГБ</div><p>оперативной памяти на&nbsp;CPU</p></div>
+    <div class="card"><div class="v">~1&nbsp;ГБ</div><p>видеопамяти, если запускать на&nbsp;GPU</p></div>
+    <div class="card acc"><div class="v acc">минуты</div><p>на&nbsp;1000 рядов на&nbsp;ноутбуке</p></div>
+    <div class="card"><div class="v">GPU</div><p>не&nbsp;обязателен</p></div>
+  </div>
+  <div class="grow"></div>
+  <div class="so"><p>Но&nbsp;<b>бустинг на&nbsp;CPU работает на&nbsp;порядки быстрее</b>. На&nbsp;миллионах рядов это уже деньги.</p></div>
+  <p class="src">github.com/google-research · данные на 22.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>5/8</span></div>
+</section>
+
+<!-- 6. Где сильна и где проигрывает -->
+<section class="slide">
+  <div class="kicker">На что смотреть</div>
+  <h2>Где TimesFM проигрывает бустингу</h2>
+  <ul class="warn">
+    <li><p><b>Промо, цены, стокауты.</b> Модель их не&nbsp;видит. В&nbsp;2.5 факторы&nbsp;— линейная регрессия поверх прогноза, «скидка × категория» она не&nbsp;ловит.</p></li>
+    <li><p><b>Богатые признаки и&nbsp;длинная история.</b> Тут LightGBM обычно точнее.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <div class="label acc">где сильна</div>
+  <ul class="checks">
+    <li><p><b>Новинки и&nbsp;короткая история</b></p></li>
+    <li><p><b>Длинный хвост ассортимента</b></p></li>
+    <li><p><b>Быстрый сильный бейзлайн</b></p></li>
+  </ul>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>6/8</span></div>
+</section>
+
+<!-- 7. Что это значит -->
+<section class="slide">
+  <div class="kicker">Что это значит для того, кто внедряет</div>
+  <h2 style="margin-bottom:40px">Не&nbsp;заменять, а&nbsp;сравнивать</h2>
+  <ol class="steps" style="gap:32px">
+    <li><p><b>Бейзлайны</b>повтор прошлого сезона и&nbsp;TimesFM без факторов</p></li>
+    <li><p><b>LightGBM</b>с&nbsp;промо, ценой и&nbsp;календарём</p></li>
+    <li><p><b>Гибрид и&nbsp;сравнение</b>TimesFM как признак в&nbsp;LightGBM; сравнивать по&nbsp;сегментам, не&nbsp;в&nbsp;среднем</p></li>
+  </ol>
+  <div class="grow"></div>
+  <div class="so"><p>Типичный итог: гибрид выигрывает на&nbsp;<b>ходовых товарах с&nbsp;промо</b>, TimesFM&nbsp;— на&nbsp;<b>новинках и&nbsp;длинном хвосте</b>.</p></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>7/8</span></div>
+</section>
+
+<!-- 8. CTA -->
+<section class="slide night">
+  <div class="kicker">Каждый день — в Telegram</div>
+  <h2>AI для прогноза и&nbsp;данных: что брать в&nbsp;прод, а&nbsp;что нет</h2>
+  <p>Полный пост со&nbsp;ссылками на&nbsp;первоисточники — в&nbsp;канале <b>@pro_llm</b>.</p>
+  <div class="grow"></div>
+  <p style="font-size:48px; color:var(--t-fg)">Ссылка — <span class="acc">в&nbsp;профиле</span> 👆</p>
+  <div style="display:flex; align-items:center; gap:36px; margin-top:56px">
+    <img class="avatar" src="../../template/avatar.png" alt="">
+    <div>
+      <p style="color:var(--t-fg); font-size:40px; font-weight:650">Денис Асалханов</p>
+      <p style="font-size:32px">Forward Deployed Engineer · AI&nbsp;для&nbsp;бизнеса</p>
+    </div>
+  </div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span class="hand" style="font-size:44px">сохрани, чтобы не потерять</span></div>
+</section>
+
+</body>
+</html>

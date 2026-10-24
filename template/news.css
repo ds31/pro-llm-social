@@ -1,0 +1,22 @@
+/* Рубрика «Новость + что это значит» — дополнение к carousel.css */
+.src { font-family: 'JBM', monospace; font-size: 24px; color: var(--ink-3); margin-top: 28px; }
+.night .src { color: var(--t-dim); }
+.tag { display: inline-block; font-family: 'JBM', monospace; font-size: 26px; letter-spacing: .06em; text-transform: uppercase;
+  padding: 10px 20px; border-radius: 999px; border: 2px solid currentColor; }
+.facts { list-style: none; display: flex; flex-direction: column; gap: 30px; }
+.facts li { padding-left: 52px; position: relative; }
+.facts li::before { content: ''; position: absolute; left: 4px; top: 20px; width: 18px; height: 18px; border-radius: 50%; background: var(--acc); }
+.night .facts li::before { background: var(--acc-b); }
+.warn { list-style: none; display: flex; flex-direction: column; gap: 26px; }
+.warn li { padding-left: 64px; position: relative; }
+.warn li::before { content: '!'; position: absolute; left: 0; top: 2px; width: 44px; height: 44px; border-radius: 50%; background: var(--err); color: #fff;
+  font-family: 'JBM', monospace; font-size: 30px; display: flex; align-items: center; justify-content: center; }
+.kpi { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+.kpi .card { padding: 34px 38px; }
+.kpi .v { font-size: 72px; line-height: 1; font-weight: 740; letter-spacing: -.02em; margin-bottom: 14px; }
+.kpi p { font-size: 32px; }
+.so { background: var(--acc-soft); border-left: 10px solid var(--acc); border-radius: 0 22px 22px 0; padding: 36px 44px; }
+.so p { color: var(--ink); }
+ul.checks li b { display: block; font-size: 46px; margin-bottom: 6px; }
+.facts p, .warn p, ul.checks p { font-size: 44px; }
+.kpi .v.sm { font-size: 52px; }

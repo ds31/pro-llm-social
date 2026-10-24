@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>MiniMax M3.1-Flash — карусель</title>
+<link rel="stylesheet" href="../../template/carousel.css">
+<link rel="stylesheet" href="../../template/news.css">
+</head>
+<body>
+
+<!-- 1. Обложка -->
+<section class="slide night">
+  <div class="kicker">Релиз · 19.10.2026</div>
+  <h1 style="font-size:100px">Анонимная №1 на&nbsp;OpenRouter оказалась MiniMax</h1>
+  <div class="grow"></div>
+  <div class="label" style="color:var(--t-dim)">цена за 1M входных токенов</div>
+  <div class="row" style="align-items:flex-end">
+    <div class="big" style="font-size:150px; color:var(--t-dim); flex:0 0 auto">$0,30</div>
+    <div style="flex:0 0 auto; font-size:72px; color:var(--t-dim); padding-bottom:22px">→</div>
+    <div class="big acc" style="font-size:150px">$0,15</div>
+  </div>
+  <p style="margin-top:48px">M3.1&#8209;Flash вдвое дешевле прошлой M3. Разбираю, где правда, а&nbsp;где пока только обещания.</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span>листай →</span></div>
+</section>
+
+<!-- 2. Что случилось -->
+<section class="slide">
+  <div class="kicker">Что случилось</div>
+  <h2>Загадка Space Bunny решена</h2>
+  <ul class="facts">
+    <li><p>С&nbsp;23&nbsp;сентября на&nbsp;OpenRouter крутилась анонимная модель <b>Space Bunny</b> — и&nbsp;10&nbsp;дней подряд была там <b>№1</b>.</p></li>
+    <li><p>За это время она обработала <b>56,7&nbsp;трлн токенов</b>.</p></li>
+    <li><p>19&nbsp;октября MiniMax раскрыла карты: это <b>M3.1&#8209;Flash</b>. На&nbsp;старте дали 72&nbsp;часа бесплатного доступа.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <p class="src">minimax.io · openrouter.ai · данные на 19.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>2/7</span></div>
+</section>
+
+<!-- 3. Цифры -->
+<section class="slide">
+  <div class="kicker">Цены после бесплатного окна</div>
+  <h2>За 1M токенов</h2>
+  <div class="kpi">
+    <div class="card acc"><div class="v acc">$0,15</div><p>вход</p></div>
+    <div class="card acc"><div class="v acc">$0,60</div><p>выход</p></div>
+    <div class="card"><div class="v">$0,015</div><p>кеш</p></div>
+    <div class="card"><div class="v sm" style="color:var(--ink-3)">$0,30 / $1,20</div><p>прошлая M3 — вдвое дороже</p></div>
+  </div>
+  <div class="grow"></div>
+  <p>MiniMax заявляет: инференс почти <b>в&nbsp;3&nbsp;раза быстрее</b>, агентные задачи <b>на&nbsp;70&nbsp;% дешевле</b>, чем у&nbsp;прошлого поколения.</p>
+  <p class="src">прайс OpenRouter · заявления MiniMax</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>3/7</span></div>
+</section>
+
+<!-- 4. Что за модель -->
+<section class="slide">
+  <div class="kicker">Что за модель</div>
+  <h2>Заточена под агентов</h2>
+  <ul class="checks">
+    <li><p><b>Контекст 1M токенов</b>на вход текст, картинки и&nbsp;видео</p></li>
+    <li><p><b>Код и&nbsp;управление компьютером</b>основной сценарий — агентные задачи</p></li>
+    <li><p><b>Рассуждение всегда включено</b>глубина настраивается от&nbsp;low до&nbsp;max</p></li>
+  </ul>
+  <div class="grow"></div>
+  <div class="code">model = "minimax/minimax-m3.1-flash"</div>
+  <p class="src">OpenRouter · совместим с OpenAI SDK</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>4/7</span></div>
+</section>
+
+<!-- 5. На что смотреть -->
+<section class="slide">
+  <div class="kicker">На что смотреть</div>
+  <h2>Пока это обещания</h2>
+  <ul class="warn">
+    <li><p><b>Бенчмарки — замеры самой MiniMax.</b> 72,5&nbsp;% AutomationBench и&nbsp;73,67&nbsp;% DeepSWE. Независимых на&nbsp;момент релиза нет.</p></li>
+    <li><p><b>Открытые веса обещали «позже».</b> На&nbsp;19.10 их не&nbsp;было.</p></li>
+    <li><p><b>Бесплатный доступ — с&nbsp;лимитами.</b> Чтобы пощупать, не&nbsp;для продакшна.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>5/7</span></div>
+</section>
+
+<!-- 6. Что это значит -->
+<section class="slide">
+  <div class="kicker">Что это значит для того, кто внедряет</div>
+  <h2>Не&nbsp;верить, а&nbsp;прогнать</h2>
+  <ol class="steps">
+    <li><p><b>Свои эвалы, а&nbsp;не&nbsp;чужие</b>особенно агентные сценарии, где обещают −70&nbsp;% к&nbsp;стоимости</p></li>
+    <li><p><b>Сравнить с&nbsp;текущей моделью</b>точность, цена и&nbsp;скорость на&nbsp;ваших задачах</p></li>
+    <li><p><b>Подтвердилось — менять</b>при $0,15 / $0,60 это кандидат на&nbsp;замену M3 в&nbsp;рутинных пайплайнах</p></li>
+  </ol>
+  <div class="grow"></div>
+  <div class="so"><p>Дешёвая модель окупается, только если не&nbsp;теряет в&nbsp;точности <b>на&nbsp;ваших</b> данных.</p></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>6/7</span></div>
+</section>
+
+<!-- 7. CTA -->
+<section class="slide night">
+  <div class="kicker">Каждый день — в Telegram</div>
+  <h2>Релизы моделей: цены, ограничения, кому и&nbsp;зачем</h2>
+  <p>Полный пост со&nbsp;ссылками на&nbsp;первоисточники — в&nbsp;канале <b>@pro_llm</b>.</p>
+  <div class="grow"></div>
+  <p style="font-size:48px; color:var(--t-fg)">Ссылка — <span class="acc">в&nbsp;профиле</span> 👆</p>
+  <div style="display:flex; align-items:center; gap:36px; margin-top:56px">
+    <img class="avatar" src="../../template/avatar.png" alt="">
+    <div>
+      <p style="color:var(--t-fg); font-size:40px; font-weight:650">Денис Асалханов</p>
+      <p style="font-size:32px">Forward Deployed Engineer · AI&nbsp;для&nbsp;бизнеса</p>
+    </div>
+  </div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span class="hand" style="font-size:44px">сохрани, чтобы не потерять</span></div>
+</section>
+
+</body>
+</html>

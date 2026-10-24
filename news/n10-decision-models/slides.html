@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Модели решений — карусель</title>
+<link rel="stylesheet" href="../../template/carousel.css">
+<link rel="stylesheet" href="../../template/news.css">
+<style>
+  /* вертикальный таймлайн */
+  .tl { list-style: none; position: relative; display: flex; flex-direction: column; gap: 34px; }
+  .tl::before { content: ''; position: absolute; left: 17px; top: 18px; bottom: 50px; width: 4px; background: var(--line); border-radius: 2px; }
+  .tl li { position: relative; padding-left: 64px; }
+  .tl li::before { content: ''; position: absolute; left: 0; top: 8px; width: 30px; height: 30px; border-radius: 50%; background: var(--paper); border: 4px solid var(--acc); }
+  .tl li.hl::before { background: var(--acc); }
+  .tl .d { font-family: 'JBM', monospace; font-size: 34px; color: var(--acc); display: block; margin-bottom: 4px; }
+  .tl p { font-size: 38px; }
+  /* кто что предлагает */
+  .offer { display: flex; flex-direction: column; gap: 22px; }
+  .offer .card { display: flex; align-items: center; gap: 32px; padding: 38px 42px; }
+  .offer .who { flex: 1; }
+  .offer .who b { display: block; font-size: 44px; margin-bottom: 8px; }
+  .offer .who p { font-size: 34px; line-height: 1.28; }
+  .offer .price { font-size: 84px; font-weight: 740; letter-spacing: -.02em; white-space: nowrap; flex: 0 0 auto; }
+  /* было / стало */
+  .ba .card { padding: 30px 38px; }
+  .ba .label { margin-bottom: 10px; }
+  .ba p { font-size: 36px; }
+  .cover-names p { font-size: 80px; line-height: 1.1; letter-spacing: -.02em; font-weight: 700; color: var(--t-fg); }
+</style>
+</head>
+<body>
+
+<!-- 1. Обложка -->
+<section class="slide night">
+  <div class="kicker">Тренд · 14.10.2026</div>
+  <h1 style="font-size:100px">Новая категория: модели решений</h1>
+  <div class="grow"></div>
+  <div class="label" style="color:var(--t-dim)">за месяц туда зашли</div>
+  <div class="cover-names">
+    <p>OpenAI · Perplexity</p>
+    <p class="acc">Cloudflare · AWS</p>
+  </div>
+  <p style="margin-top:48px">Модель возвращает не&nbsp;текст, а&nbsp;решение с&nbsp;вероятностью. Разбираю, кто что предлагает и&nbsp;где это пригодится.</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span>листай →</span></div>
+</section>
+
+<!-- 2. Что случилось -->
+<section class="slide">
+  <div class="kicker">Что случилось</div>
+  <h2>Не&nbsp;текст, а&nbsp;решение</h2>
+  <ul class="facts">
+    <li><p>Модель решений не&nbsp;пишет текст. Ответ&nbsp;— <b>тип: да/нет, выбор или оценка</b>&nbsp;— с&nbsp;вероятностью.</p></li>
+    <li><p>Первой была <b>Jev от&nbsp;TypeSafe</b>. За&nbsp;месяц свои модели выпустили OpenAI, Perplexity, AWS и&nbsp;Cloudflare.</p></li>
+    <li><p>Принцип у&nbsp;всех один: <b>выход бесплатный</b>, платите только за&nbsp;вход.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <div class="kpi">
+    <div class="card acc"><div class="v acc">$0</div><p>выход</p></div>
+    <div class="card"><div class="v">от&nbsp;$0,02</div><p>вход, за&nbsp;1M токенов</p></div>
+  </div>
+  <p class="src">thenewstack.io · docs.typesafe.ai · данные на 15.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>2/8</span></div>
+</section>
+
+<!-- 3. Хронология -->
+<section class="slide">
+  <div class="kicker">Хронология</div>
+  <h2>Месяц гонки</h2>
+  <ul class="tl">
+    <li><span class="d">15.09</span><p>TypeSafe выпускает <b>Jev</b></p></li>
+    <li><span class="d">29.09</span><p>OpenAI показывает <b>Decisions API</b> на&nbsp;DevDay</p></li>
+    <li class="hl"><span class="d">01.10</span><p><b>Perplexity</b> открывает API на&nbsp;своей открытой модели. В&nbsp;тот же&nbsp;день свои модели выпускают <b>AWS</b> и&nbsp;<b>Cloudflare</b></p></li>
+    <li><span class="d">06.10</span><p>OpenAI открывает API всем в&nbsp;бете, Perplexity обновляет модель до&nbsp;v1.1</p></li>
+    <li><span class="d">14.10</span><p>Jev 1.14 учится понимать картинки</p></li>
+  </ul>
+  <div class="grow"></div>
+  <p class="src">thenewstack.io · huggingface.co · данные на 15.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>3/8</span></div>
+</section>
+
+<!-- 4. Кто что предлагает -->
+<section class="slide">
+  <div class="kicker">Кто что предлагает</div>
+  <h2>Цена за&nbsp;1M на&nbsp;входе</h2>
+  <div class="offer">
+    <div class="card acc">
+      <div class="who"><b>Perplexity Decider</b><p>27B на&nbsp;базе Qwen, Apache&nbsp;2.0, контекст 262&nbsp;тыс. токенов. Около 49&nbsp;ГБ&nbsp;— можно у&nbsp;себя</p></div>
+      <div class="price acc">$0,02</div>
+    </div>
+    <div class="card">
+      <div class="who"><b>TypeSafe Jev</b><p>закрытая модель</p></div>
+      <div class="price">$0,042</div>
+    </div>
+    <div class="card">
+      <div class="who"><b>OpenAI Decisions API</b><p>на&nbsp;базе GPT&#8209;6 Luna, текст и&nbsp;картинки</p></div>
+      <div class="price">$0,10</div>
+    </div>
+  </div>
+  <div class="grow"></div>
+  <p class="src">docs.typesafe.ai · thenewstack.io · huggingface.co<br>данные на 15.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>4/8</span></div>
+</section>
+
+<!-- 5. Где пригодится -->
+<section class="slide">
+  <div class="kicker">Как это работает</div>
+  <h2>Метка без&nbsp;JSON</h2>
+  <div class="stack ba">
+    <div class="card err"><div class="label">Было</div><p>Зовём LLM, просим JSON, парсим, молимся</p></div>
+    <div class="card acc"><div class="label" style="color:var(--acc)">Стало</div><p>Отдельная модель сразу отдаёт <b>метку и&nbsp;вероятность</b></p></div>
+  </div>
+  <div style="height:48px"></div>
+  <div class="label">Что сюда ложится в e-com</div>
+  <ul class="facts" style="gap:16px">
+    <li><p>Разметка отзывов и&nbsp;обращений</p></li>
+    <li><p>Маршрутизация тикетов поддержки</p></li>
+    <li><p>Модерация карточек и&nbsp;фото</p></li>
+    <li><p>Проверка действий агента перед выполнением</p></li>
+  </ul>
+  <div class="grow"></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>5/8</span></div>
+</section>
+
+<!-- 6. На что смотреть -->
+<section class="slide">
+  <div class="kicker">На что смотреть</div>
+  <h2>Цифры пока от&nbsp;самих игроков</h2>
+  <div class="label">Набор Perplexity, 11 тестов</div>
+  <div class="kpi">
+    <div class="card acc"><div class="v acc">85,71&nbsp;%</div><p>Decider</p></div>
+    <div class="card"><div class="v">84,51&nbsp;%</div><p>Jev</p></div>
+  </div>
+  <div style="height:48px"></div>
+  <ul class="warn">
+    <li><p><b>Цифры самой Perplexity.</b> Независимой проверки на&nbsp;15.10 нет.</p></li>
+    <li><p><b>«До&nbsp;10&nbsp;раз быстрее обычного вызова Luna»</b>&nbsp;— это слова OpenAI.</p></li>
+    <li><p><b>Decisions API у&nbsp;OpenAI&nbsp;— в&nbsp;бете</b>, открыт всем с&nbsp;6&nbsp;октября.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <p class="src">huggingface.co · thenewstack.io · данные на 15.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>6/8</span></div>
+</section>
+
+<!-- 7. Что это значит -->
+<section class="slide">
+  <div class="kicker">Что это значит для того, кто внедряет</div>
+  <h2>Проверить на&nbsp;одной&nbsp;задаче</h2>
+  <ol class="steps">
+    <li><p><b>Взять одну задачу</b>где сейчас LLM ставит метку</p></li>
+    <li><p><b>Прогнать 200–300 примеров</b>через Decider&nbsp;— он&nbsp;открытый и&nbsp;самый&nbsp;дешёвый</p></li>
+    <li><p><b>Сравнить с&nbsp;текущим решением</b>по&nbsp;точности, скорости и&nbsp;цене</p></li>
+  </ol>
+  <div class="grow"></div>
+  <div class="so"><p>Для меток появился отдельный класс моделей. Насколько он&nbsp;быстрее и&nbsp;дешевле&nbsp;— покажут <b>ваши</b> данные.</p></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>7/8</span></div>
+</section>
+
+<!-- 8. CTA -->
+<section class="slide night">
+  <div class="kicker">Каждый день — в Telegram</div>
+  <h2>Новые классы моделей: цены, ограничения, кому и&nbsp;зачем</h2>
+  <p>Полный пост со&nbsp;ссылками на&nbsp;первоисточники — в&nbsp;канале <b>@pro_llm</b>.</p>
+  <div class="grow"></div>
+  <p style="font-size:48px; color:var(--t-fg)">Ссылка — <span class="acc">в&nbsp;профиле</span> 👆</p>
+  <div style="display:flex; align-items:center; gap:36px; margin-top:56px">
+    <img class="avatar" src="../../template/avatar.png" alt="">
+    <div>
+      <p style="color:var(--t-fg); font-size:40px; font-weight:650">Денис Асалханов</p>
+      <p style="font-size:32px">Forward Deployed Engineer · AI&nbsp;для&nbsp;бизнеса</p>
+    </div>
+  </div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span class="hand" style="font-size:44px">сохрани, чтобы не потерять</span></div>
+</section>
+
+</body>
+</html>

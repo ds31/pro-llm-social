@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>VideoGen Model 1 — карусель</title>
+<link rel="stylesheet" href="../../template/carousel.css">
+<link rel="stylesheet" href="../../template/news.css">
+<style>
+  .flow .node { padding: 24px 34px; gap: 24px; }
+  .flow .node .n { font-size: 42px; white-space: nowrap; }
+  .flow .node .d { font-size: 30px; }
+  .flow .arr { height: 34px; line-height: 34px; font-size: 28px; }
+  .flow .node.in { background: var(--paper-2); }
+  .vs { display: flex; flex-direction: column; gap: 24px; }
+  .vs .card { display: flex; align-items: center; gap: 44px; padding: 36px 44px; }
+  .vs .big { font-size: 112px; white-space: nowrap; flex: 0 0 auto; }
+  .vs p { font-size: 36px; }
+  .note .big { font-size: 160px; white-space: nowrap; margin-bottom: 20px; }
+</style>
+</head>
+<body>
+
+<!-- 1. Обложка -->
+<section class="slide night">
+  <div class="kicker">Релиз · 20.10.2026</div>
+  <h1 style="font-size:100px">Ролик на&nbsp;10&nbsp;минут из&nbsp;одного брифа</h1>
+  <div class="grow"></div>
+  <div class="row" style="align-items:flex-end">
+    <div class="big" style="font-size:132px; color:var(--t-dim); flex:0 0 auto">1&nbsp;бриф</div>
+    <div style="flex:0 0 auto; font-size:72px; color:var(--t-dim); padding-bottom:22px">→</div>
+    <div class="big acc" style="font-size:132px; white-space:nowrap">10&nbsp;мин</div>
+  </div>
+  <p style="margin-top:48px">VideoGen Model 1 — не&nbsp;одна модель, а&nbsp;конвейер. Разбираю, как он&nbsp;устроен и&nbsp;что в&nbsp;нём важно для бренда.</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span>листай →</span></div>
+</section>
+
+<!-- 2. Что случилось -->
+<section class="slide">
+  <div class="kicker">Что случилось</div>
+  <h2>Стартап из&nbsp;YC показал Model&nbsp;1</h2>
+  <ul class="facts">
+    <li><p>20&nbsp;октября VideoGen представила модель, которая собирает ролики <b>до&nbsp;10&nbsp;минут</b> из&nbsp;нескольких сцен.</p></li>
+    <li><p>Персонажи, предметы и&nbsp;локации <b>одинаковые во&nbsp;всех сценах</b>.</p></li>
+    <li><p>На&nbsp;вход — текстовый бриф и&nbsp;<b>до&nbsp;16&nbsp;картинок-референсов</b>: товар, лицо, стиль, локация.</p></li>
+    <li><p>Длительность и&nbsp;формат кадра задают заранее.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <p class="src">globenewswire.com · videogen.io · данные на 22.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>2/8</span></div>
+</section>
+
+<!-- 3. Как устроено -->
+<section class="slide">
+  <div class="kicker">Как устроено</div>
+  <h2>Не&nbsp;модель, а&nbsp;конвейер</h2>
+  <div class="flow">
+    <div class="node in"><span class="n">Бриф + референсы</span><span class="d">до 16 картинок</span></div>
+    <div class="arr">↓</div>
+    <div class="node"><span class="n">Сценарий</span><span class="d">диалоги, раскадровка</span></div>
+    <div class="arr">↓</div>
+    <div class="node"><span class="n">Шоты</span><span class="d">каждый отдельно</span></div>
+    <div class="arr">↓</div>
+    <div class="node hl"><span class="n">Поиск брака</span><span class="d">несостыковки,<br>оборванные реплики</span></div>
+    <div class="arr acc">↓</div>
+    <div class="node"><span class="n">Перегенерация</span><span class="d">в рамках бюджета</span></div>
+    <div class="arr">↓</div>
+    <div class="node"><span class="n">Монтаж</span><span class="d">режет и склеивает</span></div>
+  </div>
+  <div class="grow"></div>
+  <p class="src">globenewswire.com · данные на 22.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>3/8</span></div>
+</section>
+
+<!-- 4. Что это даёт -->
+<section class="slide">
+  <div class="kicker">Что внутри на самом деле</div>
+  <h2>10&nbsp;минут — это монтаж</h2>
+  <p>Ролик не&nbsp;генерируется одним куском. Короткие шоты собирают и&nbsp;склеивают, как на&nbsp;монтажном столе.</p>
+  <div class="grow"></div>
+  <div class="vs">
+    <div class="card"><div class="big dim">10&nbsp;мин</div><p>потолок модели</p></div>
+    <div class="card acc"><div class="big acc">15–60&nbsp;с</div><p>ролик в&nbsp;карточке товара</p></div>
+  </div>
+  <div class="grow"></div>
+  <p>Для e&#8209;com ценна не&nbsp;длина, а&nbsp;то, что <b>товар выглядит одинаково во&nbsp;всех сценах</b>.</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>4/8</span></div>
+</section>
+
+<!-- 5. Бренд-контроль -->
+<section class="slide">
+  <div class="kicker">Новое узкое место</div>
+  <h2>Бренд&nbsp;— на&nbsp;вас</h2>
+  <p>Встроенная проверка видит технический брак. На&nbsp;ваши вопросы она не&nbsp;отвечает:</p>
+  <div style="height:48px"></div>
+  <ul class="checks">
+    <li><p><b>Тот ли&nbsp;это товар</b>цвет, упаковка</p></li>
+    <li><p><b>Нет ли&nbsp;выдуманных характеристик</b>того, чего у&nbsp;товара нет</p></li>
+    <li><p><b>Совпадает ли&nbsp;с&nbsp;гайдлайнами</b>правила вашего бренда</p></li>
+  </ul>
+  <div class="grow"></div>
+  <div class="so"><p>Когда продуктовое видео становится конвейером, узкое место&nbsp;— <b>бренд&#8209;контроль</b>.</p></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>5/8</span></div>
+</section>
+
+<!-- 6. На что смотреть -->
+<section class="slide">
+  <div class="kicker">На что смотреть</div>
+  <h2>Пока только анонс</h2>
+  <div class="card err note"><div class="big err">50&nbsp;%+</div><p>«Дешевле аналогов»&nbsp;— это внутренняя оценка VideoGen. Проверить пока не&nbsp;на&nbsp;чем.</p></div>
+  <div style="height:56px"></div>
+  <ul class="warn">
+    <li><p><b>Доступ — только партнёрам.</b> Общий обещали позже, на&nbsp;22.10 его не&nbsp;было.</p></li>
+    <li><p><b>Финальных цен нет.</b> Независимых бенчмарков тоже.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <p class="src">globenewswire.com · данные на 22.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>6/8</span></div>
+</section>
+
+<!-- 7. Что это значит -->
+<section class="slide">
+  <div class="kicker">Что это значит для того, кто внедряет</div>
+  <h2>Сначала контроль, потом&nbsp;объём</h2>
+  <ol class="steps">
+    <li><p><b>Референсы на&nbsp;каждый SKU</b>фото со&nbsp;всех ракурсов, упаковка, логотип</p></li>
+    <li><p><b>Чек-лист бренда</b>товар, цвет, упаковка, характеристики, гайдлайны</p></li>
+    <li><p><b>Каждый ролик — через чек-лист</b>до&nbsp;того, как он&nbsp;попадёт в&nbsp;карточку</p></li>
+  </ol>
+  <div class="grow"></div>
+  <div class="so"><p>Без референсов и&nbsp;чек-листа <b>сотня роликов превратится в&nbsp;сотню рисков</b>.</p></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>7/8</span></div>
+</section>
+
+<!-- 8. CTA -->
+<section class="slide night">
+  <div class="kicker">Каждый день — в Telegram</div>
+  <h2>Генеративное видео и&nbsp;модели: что внутри и&nbsp;кому это нужно</h2>
+  <p>Полный пост со&nbsp;ссылками на&nbsp;первоисточники — в&nbsp;канале <b>@pro_llm</b>.</p>
+  <div class="grow"></div>
+  <p style="font-size:48px; color:var(--t-fg)">Ссылка — <span class="acc">в&nbsp;профиле</span> 👆</p>
+  <div style="display:flex; align-items:center; gap:36px; margin-top:56px">
+    <img class="avatar" src="../../template/avatar.png" alt="">
+    <div>
+      <p style="color:var(--t-fg); font-size:40px; font-weight:650">Денис Асалханов</p>
+      <p style="font-size:32px">Forward Deployed Engineer · AI&nbsp;для&nbsp;бизнеса</p>
+    </div>
+  </div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span class="hand" style="font-size:44px">сохрани, чтобы не потерять</span></div>
+</section>
+
+</body>
+</html>

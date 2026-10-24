@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Tesla Roadster&nbsp;— инженерный разбор, карусель</title>
+<link rel="stylesheet" href="../../template/carousel.css">
+<link rel="stylesheet" href="../../template/news.css">
+<style>
+  .flow .node .d { font-size: 32px; }
+  .flow .arr { height: 40px; line-height: 40px; font-size: 30px; }
+  .g { display: flex; align-items: center; gap: 22px; }
+  .g .card { padding: 30px 32px; text-align: center; }
+  .g .op { font-size: 64px; font-weight: 700; color: var(--ink-3); flex: 0 0 auto; }
+  .g .v { font-size: 76px; line-height: 1; font-weight: 740; letter-spacing: -.02em; margin-bottom: 10px; }
+  .g p { font-size: 32px; }
+  .kpi .card { padding: 28px 34px; }
+  .ver .card { padding: 28px 40px; }
+  .ver .card p { font-size: 36px; }
+</style>
+</head>
+<body>
+
+<!-- 1. Обложка -->
+<section class="slide night">
+  <div class="kicker">Инженерный разбор · 15.10.2026</div>
+  <h1 style="font-size:100px">Tesla Roadster ездит вверх ногами и&nbsp;летает. Как?</h1>
+  <div class="grow"></div>
+  <div class="label" style="color:var(--t-dim)">разгон 0–96&nbsp;км/ч, замер Tesla</div>
+  <div class="big acc" style="font-size:220px">0,81&nbsp;с</div>
+  <p style="margin-top:48px">Присоска из&nbsp;Формулы&#8209;1 и&nbsp;сопла SpaceX на&nbsp;сжатом воздухе. Разбираю физику по&nbsp;цифрам.</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span>листай →</span></div>
+</section>
+
+<!-- 2. Что показали -->
+<section class="slide">
+  <div class="kicker">Что показали</div>
+  <h2>Не&nbsp;презентация, а&nbsp;каскадёрское шоу</h2>
+  <ul class="facts">
+    <li><p>15&nbsp;октября, полигон SpaceX в&nbsp;Техасе, <b>меньше 30&nbsp;минут</b>.</p></li>
+    <li><p>Машина <b>висела вниз головой</b> на&nbsp;рампе&nbsp;— её держали вентиляторы&#8209;присоски.</p></li>
+    <li><p>Сорвалась, сделала переворот, <b>села на&nbsp;газовых двигателях</b> и&nbsp;перепрыгнула Model&nbsp;3, Model&nbsp;Y, Cybertruck, Semi и&nbsp;Cybercab.</p></li>
+    <li><p>За&nbsp;рулём сидел <b>робот Optimus</b>.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <p class="src">cnbc.com · foxbusiness.com · insideevs.com · данные&nbsp;на&nbsp;16.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>2/9</span></div>
+</section>
+
+<!-- 3. Три версии -->
+<section class="slide">
+  <div class="kicker">Три версии · 0–96 км/ч</div>
+  <h2>Чем быстрее, тем дороже бронь</h2>
+  <div class="stack ver" style="gap:22px">
+    <div class="card"><div class="row" style="align-items:baseline"><b style="font-size:52px; flex:1">Performance</b><div class="mid" style="flex:0 0 auto">&lt;&nbsp;1,6&nbsp;с</div></div><p style="margin-top:12px">двухместная · бронь $5K + $45K за&nbsp;10&nbsp;дней</p></div>
+    <div class="card acc"><div class="row" style="align-items:baseline"><b style="font-size:52px; flex:1">Thrust</b><div class="mid acc" style="flex:0 0 auto">&lt;&nbsp;0,9&nbsp;с</div></div><p style="margin-top:12px">с&nbsp;задними двигателями · бронь $250K</p></div>
+    <div class="card"><b style="font-size:52px">Rocket</b><p style="margin-top:12px">одноместная, для полёта, по&nbsp;приглашению</p></div>
+  </div>
+  <div class="grow"></div>
+  <p class="src">cnbc.com · foxbusiness.com · insideevs.com · данные&nbsp;на&nbsp;16.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>3/9</span></div>
+</section>
+
+<!-- 4. Часть 1: присоска -->
+<section class="slide">
+  <div class="kicker">Часть 1 · Присоска</div>
+  <h2>Её держит атмосфера</h2>
+  <div class="flow">
+    <div class="node"><span class="n">Вентиляторы SpaceX</span><span class="d">откачивают воздух</span></div>
+    <div class="arr">▼</div>
+    <div class="node"><span class="n">Юбки по&nbsp;периметру</span><span class="d">не&nbsp;пускают обратно</span></div>
+    <div class="arr acc">▼</div>
+    <div class="node hl"><span class="n">Атмосфера давит</span><span class="d">прижим до&nbsp;2G</span></div>
+  </div>
+  <div class="g" style="margin-top:44px">
+    <div class="card" style="flex:1"><div class="v">2G</div><p>прижим</p></div>
+    <div class="op">−</div>
+    <div class="card" style="flex:1"><div class="v">1G</div><p>гравитация</p></div>
+    <div class="op">=</div>
+    <div class="card acc" style="flex:1"><div class="v acc">1G</div><p>запас</p></div>
+  </div>
+  <div class="grow"></div>
+  <p>При ~1,8&nbsp;т и&nbsp;~4&nbsp;м² днища хватает разрежения <b>~9&nbsp;%</b> от&nbsp;атмосферного. Скорость не&nbsp;нужна: держится даже стоя.</p>
+  <p class="src">~&nbsp;— расчёт в разборе @pro_llm · данные&nbsp;на&nbsp;16.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>4/9</span></div>
+</section>
+
+<!-- 5. Часть 2: разгон -->
+<section class="slide">
+  <div class="kicker">Часть 2 · Разгон</div>
+  <h2>Сильнее сцепления шин</h2>
+  <p>Серийные электрокары упираются в&nbsp;сцепление шин: ~1,7–2&nbsp;с. Roadster прижимает присоска и&nbsp;толкают <b>10&nbsp;сопел на&nbsp;сжатом воздухе</b>.</p>
+  <div class="kpi" style="margin-top:40px">
+    <div class="card acc"><div class="v acc">~3,4G</div><p>в&nbsp;среднем за&nbsp;0,81&nbsp;с</p></div>
+    <div class="card"><div class="v">~35&nbsp;кН</div><p>тяги на&nbsp;1,8&nbsp;т</p></div>
+    <div class="card"><div class="v">~40&nbsp;кг</div><p>воздуха на&nbsp;старт</p></div>
+    <div class="card acc"><div class="v acc">5–6</div><p>стартов на&nbsp;бак</p></div>
+  </div>
+  <div class="grow"></div>
+  <p>Без топлива: 600&nbsp;л, ~250&nbsp;кг воздуха.</p>
+  <p class="src">~&nbsp;— расчёт в разборе @pro_llm · данные&nbsp;на&nbsp;16.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>5/9</span></div>
+</section>
+
+<!-- 6. Часть 3: полёт -->
+<section class="slide">
+  <div class="kicker">Часть 3 · Полёт</div>
+  <h2>Летает на&nbsp;тех&nbsp;же соплах</h2>
+  <div class="flow">
+    <div class="node"><span class="n">Сопла вниз и&nbsp;вбок</span><span class="d">поднимают машину</span></div>
+    <div class="arr">▼</div>
+    <div class="node"><span class="n">Клапаны</span><span class="d">подстраивают струю<br>за&nbsp;доли секунды</span></div>
+    <div class="arr acc">▼</div>
+    <div class="node hl"><span class="n">Кикфлип и&nbsp;посадка</span><span class="d">как SpaceX<br>сажает ракеты</span></div>
+  </div>
+  <div class="kpi" style="margin-top:44px">
+    <div class="card"><div class="v">~18&nbsp;кН</div><p>тяги, чтобы висеть в&nbsp;воздухе</p></div>
+    <div class="card"><div class="v">~30&nbsp;кг/с</div><p>расход воздуха</p></div>
+  </div>
+  <div class="grow"></div>
+  <p class="src">applescoop.org · ~&nbsp;— расчёт в разборе · данные&nbsp;на&nbsp;16.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>6/9</span></div>
+</section>
+
+<!-- 7. На что смотреть -->
+<section class="slide">
+  <div class="kicker">На что смотреть</div>
+  <h2>Шоу есть,<br>машины пока нет</h2>
+  <ul class="warn">
+    <li><p><b>0,81&nbsp;с&nbsp;— замер самой Tesla.</b> Цифры с&nbsp;~&nbsp;в&nbsp;разборе&nbsp;— наш расчёт.</p></li>
+    <li><p><b>Нет цены и&nbsp;допуска на&nbsp;дороги.</b> Производство&nbsp;— только в&nbsp;2028&nbsp;году.</p></li>
+    <li><p><b>Бронь при этом берут.</b> На&nbsp;16.10: $50K за&nbsp;Performance, $250K за&nbsp;Thrust.</p></li>
+    <li><p><b>В&nbsp;2017-м обещали</b> $200K и&nbsp;поставки в&nbsp;2020-м.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <p class="src">cnbc.com · foxbusiness.com · insideevs.com · данные&nbsp;на&nbsp;16.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>7/9</span></div>
+</section>
+
+<!-- 8. Инженерная мысль -->
+<section class="slide">
+  <div class="kicker">Инженерная мысль</div>
+  <h2>Новое тут не&nbsp;детали, а&nbsp;сборка</h2>
+  <ul class="checks">
+    <li><p><b>Присоска&nbsp;— из&nbsp;Формулы&#8209;1</b>Brabham BT46B, 1978: так хорош, что его запретили</p></li>
+    <li><p><b>Двигатели&nbsp;— от&nbsp;SpaceX</b>так управляют ступенями Falcon&nbsp;9</p></li>
+    <li><p><b>Реактивное управление</b>клапаны правят каждую струю за&nbsp;доли&nbsp;секунды</p></li>
+  </ul>
+  <div class="grow"></div>
+  <div class="so"><p>Три отрасли в&nbsp;одной машине. Но&nbsp;пока это <b>витрина Tesla и&nbsp;SpaceX</b>, а&nbsp;не&nbsp;продукт.</p></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>8/9</span></div>
+</section>
+
+<!-- 9. CTA -->
+<section class="slide night">
+  <div class="kicker">Каждый день&nbsp;— в Telegram</div>
+  <h2>Разборы громких запусков: физика, цифры и&nbsp;оговорки</h2>
+  <p>Полный разбор в&nbsp;трёх частях со&nbsp;ссылками на&nbsp;первоисточники&nbsp;— в&nbsp;канале <b>@pro_llm</b>.</p>
+  <div class="grow"></div>
+  <p style="font-size:48px; color:var(--t-fg)">Ссылка&nbsp;— <span class="acc">в&nbsp;профиле</span> 👆</p>
+  <div style="display:flex; align-items:center; gap:36px; margin-top:56px">
+    <img class="avatar" src="../../template/avatar.png" alt="">
+    <div>
+      <p style="color:var(--t-fg); font-size:40px; font-weight:650">Денис Асалханов</p>
+      <p style="font-size:32px">Forward Deployed Engineer · AI&nbsp;для&nbsp;бизнеса</p>
+    </div>
+  </div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span class="hand" style="font-size:44px">сохрани, чтобы не потерять</span></div>
+</section>
+
+</body>
+</html>

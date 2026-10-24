@@ -7,6 +7,7 @@
 ```
 template/          стили, шрифты (OFL), аватар
 razbor-01/         slides.html → slide-01.png … slide-08.png
+news/nNN-<тема>/    карусели «Новость + что это значит» из Telegram @pro_llm: slides.html, caption.md, PNG
 render.py          HTML → PNG через Playwright и Chrome
 ```
 

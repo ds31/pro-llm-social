@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Mercury 3 — карусель</title>
+<link rel="stylesheet" href="../../template/carousel.css">
+<link rel="stylesheet" href="../../template/news.css">
+<style>
+  .flow .node .d { font-size: 32px; }
+  .flow .arr { height: 40px; line-height: 40px; font-size: 30px; }
+  .flow .node { padding: 24px 34px; }
+  .tok { display: flex; align-items: center; gap: 14px; }
+  .tok span { width: 76px; height: 76px; border: 2px solid var(--line); background: #fff; border-radius: 14px; display: flex; align-items: center; justify-content: center; font-family: 'JBM', monospace; font-size: 34px; color: var(--ink-3); }
+  .tok span.dots { border: 0; background: none; width: auto; }
+  .tok i { font-style: normal; font-size: 32px; color: var(--ink-3); }
+  .tok em { font-style: normal; font-family: 'JBM', monospace; font-size: 32px; color: var(--ink-3); margin-left: auto; }
+</style>
+</head>
+<body>
+
+<!-- 1. Обложка -->
+<section class="slide night">
+  <div class="kicker">Релиз · 19.10.2026</div>
+  <h1 style="font-size:100px">LLM, которая<br>пишет весь<br>ответ сразу</h1>
+  <div class="grow"></div>
+  <div class="label" style="color:var(--t-dim)">токенов в&nbsp;секунду: Claude Haiku&nbsp;5.5 → Mercury&nbsp;3</div>
+  <div class="row" style="align-items:flex-end">
+    <div class="big" style="font-size:150px; color:var(--t-dim); flex:0 0 auto">~240</div>
+    <div style="flex:0 0 auto; font-size:72px; color:var(--t-dim); padding-bottom:22px">→</div>
+    <div class="big acc" style="font-size:150px">1068</div>
+  </div>
+  <p style="margin-top:48px">Диффузионная Mercury&nbsp;3 от&nbsp;Inception. Разбираю, где скорость важнее ума.</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span>листай →</span></div>
+</section>
+
+<!-- 2. Что случилось -->
+<section class="slide">
+  <div class="kicker">Что случилось</div>
+  <h2>Третья Mercury: больше и&nbsp;быстрее</h2>
+  <ul class="facts">
+    <li><p>19&nbsp;октября Inception выпустила <b>Mercury&nbsp;3</b>&nbsp;— третью версию своей диффузионной языковой модели.</p></li>
+    <li><p><b>Контекст 1M токенов</b>: у&nbsp;Mercury&nbsp;2.5 было 260K.</p></li>
+    <li><p>Модель <b>в&nbsp;40+ раз больше</b> первой&nbsp;Mercury.</p></li>
+    <li><p>Ранние партнёры используют её в&nbsp;<b>голосовой поддержке и&nbsp;чате</b>.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <p class="src">inceptionlabs.ai · marktechpost.com · cellcog.ai · данные&nbsp;на&nbsp;21.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>2/8</span></div>
+</section>
+
+<!-- 3. Как устроено -->
+<section class="slide">
+  <div class="kicker">Как устроено</div>
+  <h2>Не&nbsp;по&nbsp;слову, а&nbsp;целиком</h2>
+  <div class="label">обычная LLM</div>
+  <div class="tok"><span>т</span><i>→</i><span>т</span><i>→</i><span>т</span><i>→</i><span>т</span><i>→</i><span class="dots">…</span><em>по&nbsp;одному токену</em></div>
+  <div class="label acc" style="margin-top:44px">Mercury 3</div>
+  <div class="flow">
+    <div class="node"><span class="n">Черновик</span><span class="d">весь ответ сразу</span></div>
+    <div class="arr">▼</div>
+    <div class="node"><span class="n">Уточнение</span><span class="d">несколько проходов</span></div>
+    <div class="arr acc">▼</div>
+    <div class="node hl"><span class="n">Готовый ответ</span><span class="d">1068 ток/с на&nbsp;GPU</span></div>
+  </div>
+  <div class="grow"></div>
+  <div class="so"><p>Весь ответ за&nbsp;несколько проходов&nbsp;— <b>отсюда и&nbsp;скорость</b>.</p></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>3/8</span></div>
+</section>
+
+<!-- 4. Цифры -->
+<section class="slide">
+  <div class="kicker">Цифры · замеры Inception</div>
+  <h2>Скорость и&nbsp;цена</h2>
+  <div class="kpi">
+    <div class="card acc"><div class="v acc">1068</div><p>ток/с у&nbsp;Mercury&nbsp;3</p></div>
+    <div class="card"><div class="v">~240</div><p>ток/с у&nbsp;Claude Haiku&nbsp;5.5</p></div>
+    <div class="card"><div class="v">~130</div><p>ток/с у&nbsp;GPT&#8209;6 Luna</p></div>
+    <div class="card acc"><div class="v acc">8&nbsp;из&nbsp;12</div><p>тестов, где Mercury&nbsp;3 обгоняет обе</p></div>
+  </div>
+  <div class="grow"></div>
+  <p><b>$0,20 / $0,70</b> за&nbsp;1M входных и&nbsp;выходных токенов. Стартовая скидка 50&nbsp;% (по&nbsp;данным&nbsp;на&nbsp;21.10): $0,10 / $0,35.</p>
+  <p class="src">inceptionlabs.ai · cellcog.ai · данные&nbsp;на&nbsp;21.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>4/8</span></div>
+</section>
+
+<!-- 5. На что смотреть -->
+<section class="slide">
+  <div class="kicker">На что смотреть</div>
+  <h2>Быстро&nbsp;— не&nbsp;значит без задержки</h2>
+  <ul class="warn">
+    <li><p><b>Все цифры&nbsp;— от&nbsp;самой Inception.</b> Мерить стоит самим, на&nbsp;своих запросах.</p></li>
+    <li><p><b>Сравнивают с&nbsp;быстрыми и&nbsp;дешёвыми</b>, а&nbsp;не&nbsp;с&nbsp;флагманами.</p></li>
+    <li><p><b>Токены в&nbsp;секунду&nbsp;— это пропускная способность</b>, а&nbsp;не&nbsp;задержка. Для автокомплита важнее время до&nbsp;первого символа и&nbsp;полного ответа.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>5/8</span></div>
+</section>
+
+<!-- 6. Где окупается -->
+<section class="slide">
+  <div class="kicker">Где скорость важнее ума</div>
+  <h2>Там, где человек ждёт</h2>
+  <ul class="checks">
+    <li><p><b>Подсказки в&nbsp;поиске</b>человек печатает и&nbsp;ждёт выдачу</p></li>
+    <li><p><b>Автокомплит в&nbsp;чекауте</b>адрес и&nbsp;поля формы</p></li>
+    <li><p><b>Голосовой ассистент</b>пауза в&nbsp;2&nbsp;секунды ощущается как&nbsp;зависание</p></li>
+  </ul>
+  <div class="grow"></div>
+  <div class="so"><p>Модель «на&nbsp;90&nbsp;% так&nbsp;же хорошо, но&nbsp;в&nbsp;5&nbsp;раз быстрее» здесь часто <b>выигрывает по&nbsp;деньгам</b>.</p></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>6/8</span></div>
+</section>
+
+<!-- 7. Что это значит -->
+<section class="slide">
+  <div class="kicker">Что это значит для того, кто внедряет</div>
+  <h2>Мерить задержку, а&nbsp;не&nbsp;бенчмарки</h2>
+  <ol class="steps">
+    <li><p><b>Подключить mercury&#8209;3</b>OpenRouter или API Inception, совместим с&nbsp;OpenAI</p></li>
+    <li><p><b>Прогнать 100–200 запросов</b>реальных, параллельно с&nbsp;текущей&nbsp;моделью</p></li>
+    <li><p><b>Сравнить p50 и&nbsp;p95</b>задержки и&nbsp;долю ответов, прошедших вашу проверку</p></li>
+  </ol>
+  <div class="grow"></div>
+  <div class="so"><p>Начать с&nbsp;<b>подсказок в&nbsp;поиске</b>: задержка видна сразу, а&nbsp;цена ошибки невысокая.</p></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>7/8</span></div>
+</section>
+
+<!-- 8. CTA -->
+<section class="slide night">
+  <div class="kicker">Каждый день — в Telegram</div>
+  <h2>Новые модели: что быстрее, дешевле и&nbsp;где это окупается</h2>
+  <p>Полный пост со&nbsp;ссылками на&nbsp;первоисточники&nbsp;— в&nbsp;канале <b>@pro_llm</b>.</p>
+  <div class="grow"></div>
+  <p style="font-size:48px; color:var(--t-fg)">Ссылка&nbsp;— <span class="acc">в&nbsp;профиле</span> 👆</p>
+  <div style="display:flex; align-items:center; gap:36px; margin-top:56px">
+    <img class="avatar" src="../../template/avatar.png" alt="">
+    <div>
+      <p style="color:var(--t-fg); font-size:40px; font-weight:650">Денис Асалханов</p>
+      <p style="font-size:32px">Forward Deployed Engineer · AI&nbsp;для&nbsp;бизнеса</p>
+    </div>
+  </div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span class="hand" style="font-size:44px">сохрани, чтобы не потерять</span></div>
+</section>
+
+</body>
+</html>

@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Агентная торговля — карусель</title>
+<link rel="stylesheet" href="../../template/carousel.css">
+<link rel="stylesheet" href="../../template/news.css">
+<style>
+  .lad { display: flex; flex-direction: column; gap: 34px; }
+  .lad .t { font-size: 36px; line-height: 1.2; color: var(--ink-2); margin-bottom: 12px; }
+  .lad .t b { font-weight: 650; }
+  .lad .bl { display: flex; align-items: center; gap: 24px; }
+  .lad .bar { height: 64px; border-radius: 14px; background: var(--acc); }
+  .lad .bar.cat { background: var(--line); }
+  .lad .n { font-size: 60px; font-weight: 740; letter-spacing: -.02em; line-height: 1; }
+  .lad .n.dim { color: var(--ink-3); }
+</style>
+</head>
+<body>
+
+<!-- 1. Обложка -->
+<section class="slide night">
+  <div class="kicker">Исследование · 20.10.2026</div>
+  <h1 style="font-size:92px">Подобрать товар ИИ&nbsp;доверяют. Заплатить&nbsp;— пока&nbsp;нет</h1>
+  <div class="grow"></div>
+  <div class="label" style="color:var(--t-dim)">отдать покупку агенту «очень комфортно»</div>
+  <div class="row" style="align-items:flex-end; gap:40px">
+    <div style="flex:0 0 auto">
+      <div class="big acc" style="font-size:150px">29&nbsp;%</div>
+      <p style="margin-top:12px">чек до&nbsp;$20</p>
+    </div>
+    <div style="flex:0 0 auto; font-size:72px; color:var(--t-dim); padding-bottom:84px">→</div>
+    <div style="flex:0 0 auto">
+      <div class="big" style="font-size:150px; color:var(--t-dim)">6&nbsp;%</div>
+      <p style="margin-top:12px">чек от&nbsp;$500</p>
+    </div>
+  </div>
+  <p style="margin-top:48px">Опрос 1007 американцев: агентная торговля пойдёт снизу вверх&nbsp;— с&nbsp;дешёвых повторных покупок.</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span>листай →</span></div>
+</section>
+
+<!-- 2. Что случилось -->
+<section class="slide">
+  <div class="kicker">Что случилось</div>
+  <h2>ИИ уже выбирает товар за&nbsp;покупателя</h2>
+  <ul class="facts">
+    <li><p><b>Wildfire Systems</b> опросил <b>1007 американцев</b> о&nbsp;покупках через AI&#8209;агентов.</p></li>
+    <li><p>Среди пользователей чат-ботов <b>56&nbsp;%</b> сравнивают через ИИ цены, <b>44&nbsp;%</b> ищут скидки.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <div class="label" style="margin-top:40px">пользуются чат-ботами, % американцев</div>
+  <div class="row" style="align-items:flex-end; gap:40px">
+    <div style="flex:0 0 auto"><div class="big" style="color:var(--ink-3)">22&nbsp;%</div><p style="margin-top:8px">два года назад</p></div>
+    <div style="flex:0 0 auto; font-size:72px; color:var(--ink-3); padding-bottom:76px">→</div>
+    <div style="flex:0 0 auto"><div class="big acc">71&nbsp;%</div><p style="margin-top:8px">сейчас</p></div>
+  </div>
+  <p class="src">wildfire-corp.com · опрос от 20.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>2/8</span></div>
+</section>
+
+<!-- 3. Лестница доверия -->
+<section class="slide">
+  <div class="kicker">Лестница доверия</div>
+  <h2>Чем дороже покупка, тем&nbsp;меньше доверия</h2>
+  <div class="lad">
+    <div>
+      <div class="t"><b>Чек до&nbsp;$20</b></div>
+      <div class="bl"><div class="bar" style="width:700px"></div><div class="n acc">29&nbsp;%</div></div>
+    </div>
+    <div>
+      <div class="t">Бытовая химия и&nbsp;товары для дома</div>
+      <div class="bl"><div class="bar cat" style="width:555px"></div><div class="n dim">23&nbsp;%</div></div>
+    </div>
+    <div>
+      <div class="t">Авиабилеты и&nbsp;отели</div>
+      <div class="bl"><div class="bar cat" style="width:410px"></div><div class="n dim">17&nbsp;%</div></div>
+    </div>
+    <div>
+      <div class="t"><b>Чек от&nbsp;$500</b></div>
+      <div class="bl"><div class="bar" style="width:145px"></div><div class="n acc">6&nbsp;%</div></div>
+    </div>
+  </div>
+  <div class="grow"></div>
+  <p>Главный мотив отдать покупку агенту&nbsp;— <b>найти выгоду (45&nbsp;%)</b>. Сэкономить время хотят 37&nbsp;%.</p>
+  <p class="src">по чеку — «очень комфортно» · wildfire-corp.com · 20.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>3/8</span></div>
+</section>
+
+<!-- 4. Оплата -->
+<section class="slide">
+  <div class="kicker">Узкое место — оплата</div>
+  <h2>Кому доверят платёж</h2>
+  <div class="kpi">
+    <div class="card err"><div class="v err">41&nbsp;%</div><p>никому из&nbsp;предложенных вариантов</p></div>
+    <div class="card acc"><div class="v acc">17&nbsp;%</div><p>банкам — больше всех</p></div>
+    <div class="card"><div class="v">14&nbsp;%</div><p>цифровым кошелькам</p></div>
+    <div class="card"><div class="v" style="color:var(--ink-3)">5&nbsp;%</div><p>самой AI-платформе</p></div>
+  </div>
+  <p style="margin-top:28px">Платёжным системам и&nbsp;крупным ритейлерам&nbsp;— по&nbsp;12&nbsp;%.</p>
+  <div class="grow"></div>
+  <p>Рынок подстраивается: в&nbsp;марте OpenAI сместил фокус шопинга на&nbsp;подбор товаров и&nbsp;<b>оплату на&nbsp;стороне продавца</b>.</p>
+  <p class="src">wildfire-corp.com · опрос от 20.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>4/8</span></div>
+</section>
+
+<!-- 5. Что повышает доверие -->
+<section class="slide">
+  <div class="kicker">Что повышает доверие</div>
+  <h2>Баллы важнее гарантий</h2>
+  <div class="kpi">
+    <div class="card acc"><div class="v acc">38&nbsp;%</div><p>баллы лояльности сохраняются при покупке через агента</p></div>
+    <div class="card acc"><div class="v acc">36&nbsp;%</div><p>кэшбэк</p></div>
+    <div class="card"><div class="v" style="color:var(--ink-3)">29&nbsp;%</div><p>гарантия возврата денег</p></div>
+    <div class="card"><div class="v" style="color:var(--ink-3)">27&nbsp;%</div><p>защита от&nbsp;мошенничества</p></div>
+  </div>
+  <div class="grow"></div>
+  <p>Доля опрошенных, которым с&nbsp;этим условием <b>становится комфортнее</b> покупать через агента.</p>
+  <p class="src">wildfire-corp.com · опрос от 20.10.2026</p>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>5/8</span></div>
+</section>
+
+<!-- 6. На что смотреть -->
+<section class="slide">
+  <div class="kicker">На что смотреть</div>
+  <h2>Направление верное, цифры&nbsp;— с&nbsp;поправкой</h2>
+  <ul class="warn">
+    <li><p><b>Автор опроса продаёт лояльность и&nbsp;кэшбэк.</b> Вывод «лояльность повышает доверие» ему удобен.</p></li>
+    <li><p><b>Это слова, а&nbsp;не&nbsp;поведение.</b> Люди отвечали на&nbsp;вопрос «что бы вас убедило».</p></li>
+    <li><p><b>Выборка&nbsp;— 1007 американцев.</b> На&nbsp;свой рынок&nbsp;— с&nbsp;осторожностью.</p></li>
+  </ul>
+  <div class="grow"></div>
+  <div class="so"><p>Направление похоже на&nbsp;правду. Но&nbsp;<b>38&nbsp;% в&nbsp;модель как&nbsp;есть не&nbsp;закладывать</b>.</p></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>6/8</span></div>
+</section>
+
+<!-- 7. Что это значит -->
+<section class="slide">
+  <div class="kicker">Что это значит для того, кто внедряет</div>
+  <h2 style="margin-bottom:40px">Продавать&nbsp;— алгоритму</h2>
+  <ol class="steps" style="gap:30px">
+    <li><p><b>Данные о&nbsp;товаре&nbsp;— витрина</b>агент смотрит на&nbsp;цену, наличие и&nbsp;сроки, не&nbsp;на&nbsp;баннеры</p></li>
+    <li><p><b>Лояльность&nbsp;— машиночитаемая</b>баллы теряются при покупке через агента&nbsp;— заказ у&nbsp;конкурента</p></li>
+    <li><p><b>Бороться за&nbsp;повторные покупки</b>первый в&nbsp;«корзине по&nbsp;умолчанию» агента получает заказ</p></li>
+  </ol>
+  <div class="grow"></div>
+  <div class="so"><p>Начать с&nbsp;аудита каталога: видит&nbsp;ли агент <b>цену, наличие и&nbsp;лояльность</b> без захода на&nbsp;сайт.</p></div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b> · новости</span><span>7/8</span></div>
+</section>
+
+<!-- 8. CTA -->
+<section class="slide night">
+  <div class="kicker">Каждый день — в Telegram</div>
+  <h2>AI-агенты в&nbsp;e-com: цифры без хайпа и&nbsp;что делать продавцу</h2>
+  <p>Полный пост со&nbsp;ссылками на&nbsp;первоисточники — в&nbsp;канале <b>@pro_llm</b>.</p>
+  <div class="grow"></div>
+  <p style="font-size:48px; color:var(--t-fg)">Ссылка — <span class="acc">в&nbsp;профиле</span> 👆</p>
+  <div style="display:flex; align-items:center; gap:36px; margin-top:56px">
+    <img class="avatar" src="../../template/avatar.png" alt="">
+    <div>
+      <p style="color:var(--t-fg); font-size:40px; font-weight:650">Денис Асалханов</p>
+      <p style="font-size:32px">Forward Deployed Engineer · AI&nbsp;для&nbsp;бизнеса</p>
+    </div>
+  </div>
+  <div class="foot"><span class="brand"><b>pro-llm.ru</b></span><span class="hand" style="font-size:44px">сохрани, чтобы не потерять</span></div>
+</section>
+
+</body>
+</html>
