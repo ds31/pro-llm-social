@@ -1,0 +1,30 @@
+[
+  {
+    "file": "plastina.jpg",
+    "title": "5C2A5953R - 49913961083 – Silicon Wafer 20200519.jpg",
+    "author": "Rob Bulmahn",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:5C2A5953R_-_49913961083_%E2%80%93_Silicon_Wafer_20200519.jpg",
+    "credit": "Rob Bulmahn · CC BY 2.0 · Wikimedia Commons",
+    "onscreen": "Rob Bulmahn · CC BY 2.0 · Wikimedia Commons",
+    "size": [
+      1600,
+      1067
+    ],
+    "description": "View of a silicon wafer with color gradients."
+  },
+  {
+    "file": "kristall.jpg",
+    "title": "AMD@4nmCCD(6nmIOD)@Zen5@Granite Ridge@Ryzen 5 9600X@100-000001405 BY 2429SUY 9AEQ579S40073 DSC02499-DSC02769.jpg",
+    "author": "Fritzchens Fritz",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:AMD@4nmCCD(6nmIOD)@Zen5@Granite_Ridge@Ryzen_5_9600X@100-000001405_BY_2429SUY_9AEQ579S40073_DSC02499-DSC02769.jpg",
+    "credit": "Fritzchens Fritz · CC0 · Wikimedia Commons",
+    "onscreen": "Fritzchens Fritz · CC0 · Wikimedia Commons",
+    "size": [
+      1600,
+      1067
+    ],
+    "description": "AMD Ryzen 5 9600X (Zen 5 | Granite Ridge | CCD)"
+  }
+]

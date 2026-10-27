@@ -1,0 +1,45 @@
+[
+  {
+    "file": "mars-valles-marineris.jpg",
+    "title": "Mars Valles Marineris.jpeg",
+    "author": "NASA / USGS (Viking 1, PIA04304)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Mars_Valles_Marineris.jpeg",
+    "credit": "NASA / USGS · Public domain · Wikimedia Commons",
+    "onscreen": "NASA / USGS · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1600
+    ],
+    "description": "Global mosaic of 102 Viking 1 Orbiter images of Mars taken on orbit 1,334, 22 February 1980. The images are projected into point perspective, representing what a viewer would see from a spacecraft at an altitude of 2,500 km. At center is Valles Marineris, over 3000 km long and up to 8 km deep. Note "
+  },
+  {
+    "file": "mars-climate-orbiter-2.jpg",
+    "title": "Mars Climate Orbiter 2.jpg",
+    "author": "NASA/JPL/Corby Waste",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Mars_Climate_Orbiter_2.jpg",
+    "credit": "NASA/JPL/Corby Waste · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL/Corby Waste · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1455
+    ],
+    "description": "Artist's rendering of the Mars Climate Orbiter"
+  },
+  {
+    "file": "mco-mars-first-view.jpg",
+    "title": "Mars Climate Orbiter - Mars encounter - PIA02330.jpg",
+    "author": "NASA/JPL/MSSS",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Mars_Climate_Orbiter_-_Mars_encounter_-_PIA02330.jpg",
+    "credit": "NASA/JPL/MSSS · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/JPL/MSSS · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      64,
+      64
+    ],
+    "description": "This image is the first view of Mars taken by the Mars Climate Orbiter (MCO) Mars Color Imager (MARCI). It was acquired on 7 September 1999 at about 16:30 UTC (9:30 AM PDT), when the spacecraft was approximately 4.5 million kilometers (2.8 million miles) from the planet. This full-scale medium angle",
+    "cropped_from": "mars-climate-orbiter-mars-encounter-pia02330.jpg"
+  }
+]

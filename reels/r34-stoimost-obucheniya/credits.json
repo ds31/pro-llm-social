@@ -1,0 +1,45 @@
+[
+  {
+    "file": "datacenter-server-racks-22370909788.jpg",
+    "title": "Datacenter Server Racks (22370909788).jpg",
+    "author": "Carl Lender from Sunrise, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Datacenter_Server_Racks_(22370909788).jpg",
+    "credit": "Carl Lender · CC BY 2.0 · Wikimedia Commons",
+    "onscreen": "Carl Lender · CC BY 2.0 · Wikimedia Commons",
+    "size": [
+      1600,
+      1067
+    ],
+    "description": "Real Estate"
+  },
+  {
+    "file": "nvidia-16nm-pascal-gp100-tesla-p100-t-taiwan-1912a.jpg",
+    "title": "Nvidia@16nm@Pascal@GP100@Tesla P100@T Taiwan 1912A1 PN9G70.S6W GP100-897-A1 DSC07797-DSC07839.jpg",
+    "author": "Fritzchens Fritz",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nvidia@16nm@Pascal@GP100@Tesla_P100@T_Taiwan_1912A1_PN9G70.S6W_GP100-897-A1_DSC07797-DSC07839.jpg",
+    "credit": "Fritzchens Fritz · CC0 · Wikimedia Commons",
+    "onscreen": "Fritzchens Fritz · CC0 · Wikimedia Commons",
+    "size": [
+      1600,
+      1067
+    ],
+    "description": "Nvidia Tesla P100 (GP100)"
+  },
+  {
+    "file": "epoch-cost-title.jpg",
+    "title": "How much does it cost to train frontier AI models? | Epoch AI",
+    "author": "epoch.ai",
+    "license": "скриншот первоисточника",
+    "source": "https://epoch.ai/blog/how-much-does-it-cost-to-train-frontier-ai-models",
+    "credit": "скриншот epoch.ai · 27.10.2026 · кадрирование",
+    "onscreen": "скриншот epoch.ai · 27.10.2026 · кадр",
+    "size": [
+      1330,
+      505
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "epoch-cost-paper.png"
+  }
+]

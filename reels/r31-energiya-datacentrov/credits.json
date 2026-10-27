@@ -1,0 +1,46 @@
+[
+  {
+    "file": "power-and-lines-32644056804.jpg",
+    "title": "Power and lines (32644056804).jpg",
+    "author": "Neil Dalphin",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Power_and_lines_(32644056804).jpg",
+    "credit": "Neil Dalphin · CC0 · Wikimedia Commons",
+    "onscreen": "Neil Dalphin · CC0 · Wikimedia Commons",
+    "size": [
+      1600,
+      2056
+    ],
+    "description": "Power and lines"
+  },
+  {
+    "file": "hopper-racks.jpg",
+    "title": "Rear of Hopper Cray XE6 racks.jpg",
+    "author": "Derrick Coetzee",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rear_of_Hopper_Cray_XE6_racks.jpg",
+    "credit": "Derrick Coetzee · CC0 · Wikimedia Commons · кадрирование",
+    "onscreen": "Derrick Coetzee · CC0 · Wikimedia Commons",
+    "size": [
+      1920,
+      2561
+    ],
+    "description": "The area behind the racks containing Hopper, a supercomputer at NERSC. Each is labelled with blue tape and a handwritten alphanumeric identifier. CC0 waiver: To the extent possible under law, I waive all copyright and related or neighboring rights to this work.",
+    "cropped_from": "rear-of-hopper-cray-xe6-racks.jpg"
+  },
+  {
+    "file": "nersc-rack.jpg",
+    "title": "Rear of rack at NERSC data center - closeup.jpg",
+    "author": "Derrick Coetzee",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rear_of_rack_at_NERSC_data_center_-_closeup.jpg",
+    "credit": "Derrick Coetzee · CC0 · Wikimedia Commons · кадрирование",
+    "onscreen": "Derrick Coetzee · CC0 · Wikimedia Commons",
+    "size": [
+      1920,
+      2009
+    ],
+    "description": "Showing blue LED screens giving MAC address and serial number. White cables are Ethernet cables. Each server features commodity PC outlets including a serial port, VGA port, PS/2 ports, and USB ports. CC0 waiver: To the extent possible under law, I waive all copyright and related or neighboring righ",
+    "cropped_from": "rear-of-rack-at-nersc-data-center-closeup.jpg"
+  }
+]

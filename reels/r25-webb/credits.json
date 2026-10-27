@@ -1,0 +1,30 @@
+[
+  {
+    "file": "webb-s-first-deep-field.jpg",
+    "title": "Webb's First Deep Field.jpg",
+    "author": "NASA, ESA, CSA, STScI",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Webb%27s_First_Deep_Field.jpg",
+    "credit": "NASA, ESA, CSA, STScI · Public domain · Wikimedia Commons",
+    "onscreen": "NASA, ESA, CSA, STScI · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1633
+    ],
+    "description": "SMACS 0723-73 (1RXS J072319.7-732735, SMACS J0723.3-7327) NASA’s James Webb Space Telescope has produced the deepest and sharpest infrared image of the distant universe to date. Known as Webb’s First Deep Field, this image of galaxy cluster SMACS 0723 is overflowing with detail. Thousands of galaxie"
+  },
+  {
+    "file": "southern-ring-nebula-nircam-image.jpg",
+    "title": "Southern Ring Nebula (NIRCam Image).png",
+    "author": "NASA, ESA, CSA, STScI",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Southern_Ring_Nebula_(NIRCam_Image).png",
+    "credit": "NASA, ESA, CSA, STScI · Public domain · Wikimedia Commons",
+    "onscreen": "NASA, ESA, CSA, STScI · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1490
+    ],
+    "description": "A James Webb Space Telescope near-infrared image of the NGC 3132 planetary nebula, taken using the NIRCAM instrument."
+  }
+]

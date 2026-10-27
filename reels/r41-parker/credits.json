@@ -1,0 +1,46 @@
+[
+  {
+    "file": "psp-in-astrotech.jpg",
+    "title": "PSP in Astrotech.jpg",
+    "author": "NASA/Johns Hopkins APL/Ed Whitman",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:PSP_in_Astrotech.jpg",
+    "credit": "NASA/Johns Hopkins APL/Ed Whitman · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/Johns Hopkins APL/Ed Whitman · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      2485
+    ],
+    "description": "PSP as seen mated to the third stage rocket motor on the Delta IV Heavy on July 16, 2018, at Astrotech Space Operations in Titusville, Florida.",
+    "note": "исходник для parker-probe.jpg; сам файл удалён — слева внизу был человек, вырезан кадрированием"
+  },
+  {
+    "file": "wispr-2024-12-25.jpg",
+    "title": "The Closest Images Ever Taken of the Sun’s Atmosphere (SVS14865 WISPR 12252025 00001 print).jpg",
+    "author": "NASA/Johns Hopkins APL/Naval Research Lab (NASA SVS)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Closest_Images_Ever_Taken_of_the_Sun%E2%80%99s_Atmosphere_(SVS14865_WISPR_12252025_00001_print).jpg",
+    "credit": "NASA/Johns Hopkins APL/Naval Research Lab · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/Johns Hopkins APL/Naval Research Lab · Public domain · Wikimedia Commons",
+    "size": [
+      1024,
+      1092
+    ],
+    "description": "Снимок камеры WISPR зонда Parker Solar Probe, 25.12.2024, 08:10 UT, во время рекордного сближения с Солнцем. Первый кадр серии изображений, опубликованной NASA SVS 10.07.2025 (svs.gsfc.nasa.gov/14865). Credit на SVS: NASA/Johns Hopkins APL/Naval Research Lab."
+  },
+  {
+    "file": "parker-probe.jpg",
+    "title": "PSP in Astrotech.jpg",
+    "author": "NASA/Johns Hopkins APL/Ed Whitman",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:PSP_in_Astrotech.jpg",
+    "credit": "NASA/Johns Hopkins APL/Ed Whitman · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/Johns Hopkins APL/Ed Whitman · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      1420,
+      2140
+    ],
+    "description": "PSP as seen mated to the third stage rocket motor on the Delta IV Heavy on July 16, 2018, at Astrotech Space Operations in Titusville, Florida.",
+    "cropped_from": "psp-in-astrotech.jpg"
+  }
+]

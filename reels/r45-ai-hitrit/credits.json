@@ -1,0 +1,50 @@
+[
+  {
+    "file": "fig1-cover.jpg",
+    "title": "Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation — Figure 1",
+    "author": "OpenAI (Baker et al., 2025) · arxiv.org",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/html/2503.11926v1/figure/overwrite_verify_CoT_masked.png",
+    "credit": "скриншот arxiv.org · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org/abs/2503.11926 · 28.10.2026",
+    "size": [
+      1592,
+      1800
+    ],
+    "description": "рисунок 1 статьи целиком",
+    "cropped_from": "arxiv-fig1.png",
+    "paper": "https://arxiv.org/abs/2503.11926"
+  },
+  {
+    "file": "fig1-cot.jpg",
+    "title": "Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation — Figure 1",
+    "author": "OpenAI (Baker et al., 2025) · arxiv.org",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/html/2503.11926v1/figure/overwrite_verify_CoT_masked.png",
+    "credit": "скриншот arxiv.org · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org/abs/2503.11926 · 28.10.2026",
+    "size": [
+      1556,
+      572
+    ],
+    "description": "рисунок 1: дословная цепочка рассуждений модели",
+    "cropped_from": "arxiv-fig1.png",
+    "paper": "https://arxiv.org/abs/2503.11926"
+  },
+  {
+    "file": "fig1-patch.jpg",
+    "title": "Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation — Figure 1",
+    "author": "OpenAI (Baker et al., 2025) · arxiv.org",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/html/2503.11926v1/figure/overwrite_verify_CoT_masked.png",
+    "credit": "скриншот arxiv.org · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org/abs/2503.11926 · 28.10.2026",
+    "size": [
+      760,
+      500
+    ],
+    "description": "рисунок 1: правка кода, verify возвращает true",
+    "cropped_from": "arxiv-fig1.png",
+    "paper": "https://arxiv.org/abs/2503.11926"
+  }
+]

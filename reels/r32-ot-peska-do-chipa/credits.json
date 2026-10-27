@@ -1,0 +1,59 @@
+[
+  {
+    "file": "plastina.jpg",
+    "title": "IMaGe 31072R – Silicon Wafer 20120926.jpg",
+    "author": "Rob Bulmahn",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:IMaGe_31072R_%E2%80%93_Silicon_Wafer_20120926.jpg",
+    "credit": "Rob Bulmahn · CC BY 2.0 · Wikimedia Commons",
+    "onscreen": "Rob Bulmahn · CC BY 2.0 · Wikimedia Commons",
+    "size": [
+      1600,
+      1067
+    ],
+    "description": "View of a silicon wafer with color gradients."
+  },
+  {
+    "file": "plastina-makro.jpg",
+    "title": "5C2A5953R - 49913961083 – Silicon Wafer 20200519.jpg",
+    "author": "Rob Bulmahn",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:5C2A5953R_-_49913961083_%E2%80%93_Silicon_Wafer_20200519.jpg",
+    "credit": "Rob Bulmahn · CC BY 2.0 · Wikimedia Commons",
+    "onscreen": "Rob Bulmahn · CC BY 2.0 · Wikimedia Commons",
+    "size": [
+      1600,
+      1067
+    ],
+    "description": "View of a silicon wafer with color gradients."
+  },
+  {
+    "file": "gp100-kristall.jpg",
+    "title": "Nvidia@16nm@Pascal@GP100@Tesla P100@T Taiwan 1912A1 PN9G70.S6W GP100-897-A1 DSC06755-DSC06929.jpg",
+    "author": "Fritzchens Fritz",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nvidia@16nm@Pascal@GP100@Tesla_P100@T_Taiwan_1912A1_PN9G70.S6W_GP100-897-A1_DSC06755-DSC06929.jpg",
+    "credit": "Fritzchens Fritz · CC0 · Wikimedia Commons",
+    "onscreen": "Fritzchens Fritz · CC0 · Wikimedia Commons",
+    "size": [
+      1600,
+      900
+    ],
+    "description": "Nvidia Tesla P100 (GP100)"
+  },
+  {
+    "file": "slitok-krop.jpg",
+    "title": "Monocrystalline silicon ingot.jpg",
+    "author": "ArticCynda",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Monocrystalline_silicon_ingot.jpg",
+    "credit": "ArticCynda · CC0 · Wikimedia Commons · кадрирование",
+    "onscreen": "ArticCynda · CC0 · Wikimedia Commons · кадр",
+    "size": [
+      1728,
+      1306
+    ],
+    "description": "A monocrystalline silicon ingot and several silicon rods on display in the Museum of Mineralogy in Munich",
+    "cropped_from": "slitok.jpg"
+  }
+]

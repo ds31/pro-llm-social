@@ -1,0 +1,32 @@
+[
+  {
+    "file": "dom-crop.jpg",
+    "title": "IceCube Optisches Modul2 2004.jpg",
+    "author": "DESY-Kommunikation",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:IceCube_Optisches_Modul2_2004.jpg",
+    "credit": "DESY-Kommunikation · CC BY 4.0 · Wikimedia Commons · кадрирование",
+    "onscreen": "DESY-Kommunikation · CC BY 4.0 · Wikimedia Commons · кадр",
+    "size": [
+      1600,
+      1000
+    ],
+    "description": "DESY produziert einen großen Teil der digitalen optischen Module für das Neutrinoobservatorium IceCube am Südpol.",
+    "cropped_from": "icecube-optisches-modul2-2004.jpg"
+  },
+  {
+    "file": "icl-night-crop.jpg",
+    "title": "The ICL at Night.jpg",
+    "author": "John Hardin",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_ICL_at_Night.jpg",
+    "credit": "John Hardin · CC BY 4.0 · Wikimedia Commons · кадрирование",
+    "onscreen": "John Hardin · CC BY 4.0 · Wikimedia Commons · кадр",
+    "size": [
+      1395,
+      1900
+    ],
+    "description": "This is the ICL in the South Pole Winter with the night sky in the background. The image is exposure fused to correctly expose the red safety light on the building.",
+    "cropped_from": "the-icl-at-night.jpg"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "file": "plastina-blizko.jpg",
+    "title": "Silicon wafer close view.jpg",
+    "author": "Le hollandais volant",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Silicon_wafer_close_view.jpg",
+    "credit": "Le hollandais volant · CC BY 4.0 · Wikimedia Commons",
+    "onscreen": "Le hollandais volant · CC BY 4.0 · Wikimedia Commons",
+    "size": [
+      1600,
+      1200
+    ],
+    "description": "A wafer is a slice of a huge silicon monocristal on which integrated circuits manufacturers engrave micro- and nano-electronic circuits using photolithography process. Nowadays, ultraviolet lasers allows us to engrave those circuits with nanometric precision, making several billions of transistors t"
+  },
+  {
+    "file": "plastina.jpg",
+    "title": "Wafer - 3.jpg",
+    "author": "Windell Oskay",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wafer_-_3.jpg",
+    "credit": "Windell Oskay · CC BY 2.0 · Wikimedia Commons",
+    "onscreen": "Windell Oskay · CC BY 2.0 · Wikimedia Commons",
+    "size": [
+      1600,
+      1200
+    ],
+    "description": "An interesting wafer that I picked up."
+  },
+  {
+    "file": "gpu-kristall.jpg",
+    "title": "Nvidia@16nm@Pascal@GP100@Tesla_P100@T_Taiwan_1912A1_PN9G70.S6W_GP100-897-A1_DSC06755-DSC06929.jpg",
+    "author": "Fritzchens Fritz",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nvidia@16nm@Pascal@GP100@Tesla_P100@T_Taiwan_1912A1_PN9G70.S6W_GP100-897-A1_DSC06755-DSC06929.jpg",
+    "credit": "Fritzchens Fritz · CC0 · Wikimedia Commons",
+    "onscreen": "Fritzchens Fritz · CC0 · Wikimedia Commons",
+    "size": [
+      1600,
+      900
+    ],
+    "description": "Nvidia Tesla P100 (GP100)"
+  },
+  {
+    "file": "gpu-makro.jpg",
+    "title": "Nvidia@16nm@Pascal@GP100@Tesla_P100@T_Taiwan_1912A1_PN9G70.S6W_GP100-897-A1_DSC07797-DSC07839.jpg",
+    "author": "Fritzchens Fritz",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nvidia@16nm@Pascal@GP100@Tesla_P100@T_Taiwan_1912A1_PN9G70.S6W_GP100-897-A1_DSC07797-DSC07839.jpg",
+    "credit": "Fritzchens Fritz · CC0 · Wikimedia Commons",
+    "onscreen": "Fritzchens Fritz · CC0 · Wikimedia Commons",
+    "size": [
+      1600,
+      1067
+    ],
+    "description": "Nvidia Tesla P100 (GP100)"
+  }
+]
