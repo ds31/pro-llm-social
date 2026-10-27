@@ -1,0 +1,60 @@
+[
+  {
+    "file": "timesfm-repo.png",
+    "title": "GitHub - google-research/timesfm: TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model de",
+    "author": "github.com",
+    "license": "скриншот первоисточника",
+    "source": "https://github.com/google-research/timesfm",
+    "credit": "скриншот github.com · 25.10.2026",
+    "onscreen": "скриншот github.com · 25.10.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "кадр официальной страницы, с которой взята новость"
+  },
+  {
+    "file": "timesfm-blog.png",
+    "title": "A decoder-only foundation model for time-series forecasting",
+    "author": "research.google",
+    "license": "скриншот первоисточника",
+    "source": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
+    "credit": "скриншот research.google · 25.10.2026",
+    "onscreen": "скриншот research.google · 25.10.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "кадр официальной страницы, с которой взята новость"
+  },
+  {
+    "file": "tfm-title.jpg",
+    "title": "A decoder-only foundation model for time-series forecasting",
+    "author": "research.google",
+    "license": "скриншот первоисточника",
+    "source": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
+    "credit": "скриншот research.google · 25.10.2026 · кадрирование",
+    "onscreen": "скриншот research.google · 25.10.2026 · кадр",
+    "size": [
+      1480,
+      430
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "timesfm-blog.png"
+  },
+  {
+    "file": "tfm-scheme.jpg",
+    "title": "A decoder-only foundation model for time-series forecasting",
+    "author": "research.google",
+    "license": "скриншот первоисточника",
+    "source": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
+    "credit": "скриншот research.google · 25.10.2026 · кадрирование",
+    "onscreen": "скриншот research.google · 25.10.2026 · кадр",
+    "size": [
+      700,
+      440
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "timesfm-blog.png"
+  }
+]

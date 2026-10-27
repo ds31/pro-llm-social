@@ -1,0 +1,31 @@
+[
+  {
+    "file": "laya-repo.png",
+    "title": "GitHub - NandhaKishorM/laya: Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over ",
+    "author": "github.com",
+    "license": "скриншот первоисточника",
+    "source": "https://github.com/NandhaKishorM/laya",
+    "credit": "скриншот github.com · 25.10.2026",
+    "onscreen": "скриншот github.com · 25.10.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "кадр официальной страницы, с которой взята новость"
+  },
+  {
+    "file": "laya-desc.jpg",
+    "title": "GitHub - NandhaKishorM/laya: Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over ",
+    "author": "github.com",
+    "license": "скриншот первоисточника",
+    "source": "https://github.com/NandhaKishorM/laya",
+    "credit": "скриншот github.com · 25.10.2026 · кадрирование",
+    "onscreen": "скриншот github.com · 25.10.2026 · кадр",
+    "size": [
+      1740,
+      160
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "laya-repo.png"
+  }
+]

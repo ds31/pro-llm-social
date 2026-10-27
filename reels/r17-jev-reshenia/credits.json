@@ -1,0 +1,46 @@
+[
+  {
+    "file": "jev-box.png",
+    "title": "Box - TypeSafe",
+    "author": "docs.typesafe.ai",
+    "license": "скриншот первоисточника",
+    "source": "https://docs.typesafe.ai/primitives/box",
+    "credit": "скриншот docs.typesafe.ai · 26.10.2026",
+    "onscreen": "скриншот docs.typesafe.ai · 26.10.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "кадр официальной страницы, с которой взята новость"
+  },
+  {
+    "file": "jev-title.jpg",
+    "title": "Box - TypeSafe",
+    "author": "docs.typesafe.ai",
+    "license": "скриншот первоисточника",
+    "source": "https://docs.typesafe.ai/primitives/box",
+    "credit": "скриншот docs.typesafe.ai · 26.10.2026 · кадрирование",
+    "onscreen": "скриншот docs.typesafe.ai · 26.10.2026 · кадр",
+    "size": [
+      1540,
+      300
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "jev-box.png"
+  },
+  {
+    "file": "jev-warn.jpg",
+    "title": "Box - TypeSafe",
+    "author": "docs.typesafe.ai",
+    "license": "скриншот первоисточника",
+    "source": "https://docs.typesafe.ai/primitives/box",
+    "credit": "скриншот docs.typesafe.ai · 26.10.2026 · кадрирование",
+    "onscreen": "скриншот docs.typesafe.ai · 26.10.2026 · кадр",
+    "size": [
+      1540,
+      360
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "jev-box.png"
+  }
+]

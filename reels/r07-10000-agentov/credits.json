@@ -1,0 +1,30 @@
+[
+  {
+    "file": "openai-navier.png",
+    "title": "Just a moment...",
+    "author": "openai.com",
+    "license": "скриншот первоисточника",
+    "source": "https://openai.com/index/navier-stokes-solution/",
+    "credit": "скриншот openai.com · 25.10.2026",
+    "onscreen": "скриншот openai.com · 25.10.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "кадр официальной страницы, с которой взята новость"
+  },
+  {
+    "file": "cfd-visualisation-of-leading-edge-vortex-breakdown.jpg",
+    "title": "CFD visualisation of leading-edge vortex breakdown over a 65° delta wing.png",
+    "author": "Vilhelm.s",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:CFD_visualisation_of_leading-edge_vortex_breakdown_over_a_65%C2%B0_delta_wing.png",
+    "credit": "Vilhelm.s · CC0 · Wikimedia Commons",
+    "onscreen": "Vilhelm.s · CC0 · Wikimedia Commons",
+    "size": [
+      1500,
+      1296
+    ],
+    "description": "Vortex breakdown over a 65° delta wing at three angles of attack (α = 15°, 25° and 35°), from a computational fluid dynamics simulation. Air flows from left to right, and the wing is pitched nose-up at the given angle. On a slender, sharp-edged delta wing the flow separates at the leading edges and "
+  }
+]

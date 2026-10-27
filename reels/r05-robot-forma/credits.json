@@ -1,0 +1,119 @@
+[
+  {
+    "file": "robonaut-2.jpg",
+    "title": "Robonaut 2.jpg",
+    "author": "Robert Markowitz",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Robonaut_2.jpg",
+    "credit": "Robert Markowitz · Public domain · Wikimedia Commons",
+    "onscreen": "Robert Markowitz · Public domain · Wikimedia Commons",
+    "size": [
+      1500,
+      998
+    ],
+    "description": "\"JSC2009-E-155300 (28 July 2009) --- Robonaut2 – or R2 for short – is the next generation dexterous robot, developed through a Space Act Agreement by NASA and General Motors. It is faster, more dexterous and more technologically advanced than its predecessors and able to use its hands to do work bey"
+  },
+  {
+    "file": "robonaut-2-working.jpg",
+    "title": "Robonaut 2 working.jpg",
+    "author": "Robert Markowitz",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Robonaut_2_working.jpg",
+    "credit": "Robert Markowitz · Public domain · Wikimedia Commons",
+    "onscreen": "Robert Markowitz · Public domain · Wikimedia Commons",
+    "size": [
+      1500,
+      998
+    ],
+    "description": "NASA and General Motors have come together to develop the next generation dexterous humanoid robot."
+  },
+  {
+    "file": "valkyrie-robot-1.jpg",
+    "title": "Valkyrie-robot-1.jpg",
+    "author": "NASA/JPL-Caltech",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Valkyrie-robot-1.jpg",
+    "credit": "NASA/JPL-Caltech · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL-Caltech · Public domain · Wikimedia Commons",
+    "size": [
+      1500,
+      2000
+    ],
+    "description": "NASA’s R5 robot studying a doorknob during the Darpa Robotics Challenge in Miami in December 2013."
+  },
+  {
+    "file": "robot-hand.jpg",
+    "title": "Robonaut 2 working.jpg",
+    "author": "Robert Markowitz",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Robonaut_2_working.jpg",
+    "credit": "Robert Markowitz · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "Robert Markowitz · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      520,
+      420
+    ],
+    "description": "NASA and General Motors have come together to develop the next generation dexterous humanoid robot.",
+    "cropped_from": "robonaut-2-working.jpg"
+  },
+  {
+    "file": "robot-tools.jpg",
+    "title": "Robonaut 2.jpg",
+    "author": "Robert Markowitz",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Robonaut_2.jpg",
+    "credit": "Robert Markowitz · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "Robert Markowitz · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      1800,
+      1100
+    ],
+    "description": "\"JSC2009-E-155300 (28 July 2009) --- Robonaut2 – or R2 for short – is the next generation dexterous robot, developed through a Space Act Agreement by NASA and General Motors. It is faster, more dexterous and more technologically advanced than its predecessors and able to use its hands to do work bey",
+    "cropped_from": "robonaut-2.jpg"
+  },
+  {
+    "file": "robot-head.jpg",
+    "title": "Robonaut 2 working.jpg",
+    "author": "Robert Markowitz",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Robonaut_2_working.jpg",
+    "credit": "Robert Markowitz · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "Robert Markowitz · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      400,
+      400
+    ],
+    "description": "NASA and General Motors have come together to develop the next generation dexterous humanoid robot.",
+    "cropped_from": "robonaut-2-working.jpg"
+  },
+  {
+    "file": "robot-hands.jpg",
+    "title": "Robonaut 2 working.jpg",
+    "author": "Robert Markowitz",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Robonaut_2_working.jpg",
+    "credit": "Robert Markowitz · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "Robert Markowitz · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      480,
+      380
+    ],
+    "description": "NASA and General Motors have come together to develop the next generation dexterous humanoid robot.",
+    "cropped_from": "robonaut-2-working.jpg"
+  },
+  {
+    "file": "robot-tool.jpg",
+    "title": "Robonaut 2 working.jpg",
+    "author": "Robert Markowitz",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Robonaut_2_working.jpg",
+    "credit": "Robert Markowitz · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "Robert Markowitz · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      560,
+      300
+    ],
+    "description": "NASA and General Motors have come together to develop the next generation dexterous humanoid robot.",
+    "cropped_from": "robonaut-2-working.jpg"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "file": "flux-page.png",
+    "title": "FLUX 3 Max: Text and Image to Video, Post-Trained by fal | fal",
+    "author": "fal.ai",
+    "license": "скриншот первоисточника",
+    "source": "https://fal.ai/flux-3-max",
+    "credit": "скриншот fal.ai · 26.10.2026",
+    "onscreen": "скриншот fal.ai · 26.10.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "кадр официальной страницы, с которой взята новость"
+  },
+  {
+    "file": "flux-title.jpg",
+    "title": "FLUX 3 Max: Text and Image to Video, Post-Trained by fal | fal",
+    "author": "fal.ai",
+    "license": "скриншот первоисточника",
+    "source": "https://fal.ai/flux-3-max",
+    "credit": "скриншот fal.ai · 26.10.2026 · кадрирование",
+    "onscreen": "скриншот fal.ai · 26.10.2026 · кадр",
+    "size": [
+      1250,
+      360
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "flux-page.png"
+  }
+]

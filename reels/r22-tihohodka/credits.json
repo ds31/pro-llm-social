@@ -1,0 +1,45 @@
+[
+  {
+    "file": "sem-image-of-milnesium-tardigradum-in-active-state.jpg",
+    "title": "SEM image of Milnesium tardigradum in active state - journal.pone.0045682.g001-2.png",
+    "author": "Schokraie E, Warnken U, Hotz-Wagenblatt A, Grohme MA, Hengherr S, et al. (2012)",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2.png",
+    "credit": "Schokraie E, Warnken U, Hotz-Wagenblatt A, Grohme MA, Hengherr S, et al. (2012) · CC BY 2.5 · Wikimedia Commons",
+    "onscreen": "Schokraie E и др. · CC BY 2.5 · Wikimedia Commons",
+    "size": [
+      1400,
+      1073
+    ],
+    "description": "SEM image of Milnesium tardigradum in active state. doi:10.1371/journal.pone.0045682.g001"
+  },
+  {
+    "file": "myoanatomical-changes-in-richtersius-coronifer-dur.jpg",
+    "title": "Myoanatomical changes in Richtersius coronifer during tun formation.png",
+    "author": "Halberg KA, Jørgensen A, Møbjerg N",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Myoanatomical_changes_in_Richtersius_coronifer_during_tun_formation.png",
+    "credit": "Halberg KA, Jørgensen A, Møbjerg N · CC BY 4.0 · Wikimedia Commons",
+    "onscreen": "Halberg KA и др. · CC BY 4.0 · Wikimedia Commons",
+    "size": [
+      1400,
+      1787
+    ],
+    "description": "A-D. 3D reconstructions of the tardigrade musculature as visualized by fluorescent phalloidin. A. Lateral view of active (hydrated) state showing details of the dorsal, lateral and leg musculature. B. Ventral view showing details of the ventral longitudinal musculature in the active state. C. Dorsal"
+  },
+  {
+    "file": "tun-sem.jpg",
+    "title": "Myoanatomical changes in Richtersius coronifer during tun formation.png",
+    "author": "Halberg KA, Jørgensen A, Møbjerg N",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Myoanatomical_changes_in_Richtersius_coronifer_during_tun_formation.png",
+    "credit": "Halberg KA, Jørgensen A, Møbjerg N · CC BY 4.0 · Wikimedia Commons · кадрирование",
+    "onscreen": "Halberg KA и др. · CC BY 4.0 · Wikimedia Commons · кадр",
+    "size": [
+      770,
+      460
+    ],
+    "description": "A-D. 3D reconstructions of the tardigrade musculature as visualized by fluorescent phalloidin. A. Lateral view of active (hydrated) state showing details of the dorsal, lateral and leg musculature. B. Ventral view showing details of the ventral longitudinal musculature in the active state. C. Dorsal",
+    "cropped_from": "myoanatomical-changes-in-richtersius-coronifer-dur.jpg"
+  }
+]

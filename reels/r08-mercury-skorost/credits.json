@@ -1,0 +1,46 @@
+[
+  {
+    "file": "mercury-announce.png",
+    "title": "Diffusion at Scale: Introducing Mercury 3 – Inception",
+    "author": "inceptionlabs.ai",
+    "license": "скриншот первоисточника",
+    "source": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+    "credit": "скриншот inceptionlabs.ai · 25.10.2026",
+    "onscreen": "скриншот inceptionlabs.ai · 25.10.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "кадр официальной страницы, с которой взята новость"
+  },
+  {
+    "file": "mercury-title.jpg",
+    "title": "Diffusion at Scale: Introducing Mercury 3 – Inception",
+    "author": "inceptionlabs.ai",
+    "license": "скриншот первоисточника",
+    "source": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+    "credit": "скриншот inceptionlabs.ai · 25.10.2026 · кадрирование",
+    "onscreen": "скриншот inceptionlabs.ai · 25.10.2026 · кадр",
+    "size": [
+      880,
+      180
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "mercury-announce.png"
+  },
+  {
+    "file": "mercury-art.jpg",
+    "title": "Diffusion at Scale: Introducing Mercury 3 – Inception",
+    "author": "inceptionlabs.ai",
+    "license": "скриншот первоисточника",
+    "source": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+    "credit": "скриншот inceptionlabs.ai · 25.10.2026 · кадрирование",
+    "onscreen": "скриншот inceptionlabs.ai · 25.10.2026 · кадр",
+    "size": [
+      1680,
+      760
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "mercury-announce.png"
+  }
+]

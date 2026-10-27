@@ -1,0 +1,31 @@
+[
+  {
+    "file": "pap-page.png",
+    "title": "Introducing Personal Agent Protocol | Sierra",
+    "author": "sierra.ai",
+    "license": "скриншот первоисточника",
+    "source": "https://sierra.ai/blog/introducing-personal-agent-protocol",
+    "credit": "скриншот sierra.ai · 26.10.2026",
+    "onscreen": "скриншот sierra.ai · 26.10.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "кадр официальной страницы, с которой взята новость"
+  },
+  {
+    "file": "pap-partners.jpg",
+    "title": "Introducing Personal Agent Protocol | Sierra",
+    "author": "sierra.ai",
+    "license": "скриншот первоисточника",
+    "source": "https://sierra.ai/blog/introducing-personal-agent-protocol",
+    "credit": "скриншот sierra.ai · 26.10.2026 · кадрирование",
+    "onscreen": "скриншот sierra.ai · 26.10.2026 · кадр",
+    "size": [
+      1540,
+      290
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "pap-page.png"
+  }
+]

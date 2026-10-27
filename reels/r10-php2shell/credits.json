@@ -1,0 +1,46 @@
+[
+  {
+    "file": "wiz-php2shell.png",
+    "title": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet | Wiz Blog",
+    "author": "wiz.io",
+    "license": "скриншот первоисточника",
+    "source": "https://www.wiz.io/blog/php2shell-php-rce",
+    "credit": "скриншот wiz.io · 25.10.2026",
+    "onscreen": "скриншот wiz.io · 25.10.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "кадр официальной страницы, с которой взята новость"
+  },
+  {
+    "file": "wiz-title.jpg",
+    "title": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet | Wiz Blog",
+    "author": "wiz.io",
+    "license": "скриншот первоисточника",
+    "source": "https://www.wiz.io/blog/php2shell-php-rce",
+    "credit": "скриншот wiz.io · 25.10.2026 · кадрирование",
+    "onscreen": "скриншот wiz.io · 25.10.2026 · кадр",
+    "size": [
+      2672,
+      340
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "wiz-php2shell.png"
+  },
+  {
+    "file": "wiz-scope.jpg",
+    "title": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet | Wiz Blog",
+    "author": "wiz.io",
+    "license": "скриншот первоисточника",
+    "source": "https://www.wiz.io/blog/php2shell-php-rce",
+    "credit": "скриншот wiz.io · 25.10.2026 · кадрирование",
+    "onscreen": "скриншот wiz.io · 25.10.2026 · кадр",
+    "size": [
+      2020,
+      250
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "wiz-php2shell.png"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "file": "voyager.jpg",
+    "title": "Voyager.jpg",
+    "author": "NASA/JPL-Caltech",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Voyager.jpg",
+    "credit": "NASA/JPL-Caltech · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL-Caltech · Public domain · Wikimedia Commons",
+    "size": [
+      800,
+      626
+    ],
+    "description": "NASA photograph of one of the two identical Voyager space probes Voyager 1 and Voyager 2 launched in 1977. The 3.7 metre diameter high-gain antenna (HGA) is attached to the hollow ten-sided polygonal body housing the electronics, here seen in profile. The Voyager Golden Record is attached to one of "
+  },
+  {
+    "file": "pale-blue-dot.jpg",
+    "title": "Pale Blue Dot.png",
+    "author": "Voyager 1",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Pale_Blue_Dot.png",
+    "credit": "Voyager 1 · Public domain · Wikimedia Commons",
+    "onscreen": "Voyager 1 · Public domain · Wikimedia Commons",
+    "size": [
+      453,
+      614
+    ],
+    "description": "Original caption: This narrow-angle color image of the Earth, dubbed ‘Pale Blue Dot’, is a part of the first ever ‘portrait’ of the solar system taken by Voyager 1 . The spacecraft acquired a total of 60 frames for a mosaic of the solar system from a distance of more than 4 billion miles from Earth "
+  }
+]
