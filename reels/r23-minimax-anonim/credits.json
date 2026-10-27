@@ -1,0 +1,46 @@
+[
+  {
+    "file": "mm-blog.png",
+    "title": "MiniMax M3.1 Flash: Redefining Agent Performance and Cost - MiniMax Research | MiniMax",
+    "author": "minimax.io",
+    "license": "скриншот первоисточника",
+    "source": "https://www.minimax.io/blog/minimax-m31f",
+    "credit": "скриншот minimax.io · 27.10.2026",
+    "onscreen": "скриншот minimax.io · 27.10.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "кадр официальной страницы, с которой взята новость"
+  },
+  {
+    "file": "mm-title.jpg",
+    "title": "MiniMax M3.1 Flash: Redefining Agent Performance and Cost - MiniMax Research | MiniMax",
+    "author": "minimax.io",
+    "license": "скриншот первоисточника",
+    "source": "https://www.minimax.io/blog/minimax-m31f",
+    "credit": "скриншот minimax.io · 27.10.2026 · кадрирование",
+    "onscreen": "скриншот minimax.io · 27.10.2026 · кадр",
+    "size": [
+      1420,
+      280
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "mm-blog.png"
+  },
+  {
+    "file": "mm-claim.jpg",
+    "title": "MiniMax M3.1 Flash: Redefining Agent Performance and Cost - MiniMax Research | MiniMax",
+    "author": "minimax.io",
+    "license": "скриншот первоисточника",
+    "source": "https://www.minimax.io/blog/minimax-m31f",
+    "credit": "скриншот minimax.io · 27.10.2026 · кадрирование",
+    "onscreen": "скриншот minimax.io · 27.10.2026 · кадр",
+    "size": [
+      1600,
+      150
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "mm-blog.png"
+  }
+]

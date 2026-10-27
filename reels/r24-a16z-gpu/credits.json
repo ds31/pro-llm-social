@@ -1,0 +1,46 @@
+[
+  {
+    "file": "a16z.png",
+    "title": "Charts of the Week: Attention is All You Need",
+    "author": "a16z.news",
+    "license": "скриншот первоисточника",
+    "source": "https://a16z.news/p/charts-of-the-week-attention-is-all",
+    "credit": "скриншот a16z.news · 27.10.2026",
+    "onscreen": "скриншот a16z.news · 27.10.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "кадр официальной страницы, с которой взята новость"
+  },
+  {
+    "file": "a16z-title.jpg",
+    "title": "Charts of the Week: Attention is All You Need",
+    "author": "a16z.news",
+    "license": "скриншот первоисточника",
+    "source": "https://a16z.news/p/charts-of-the-week-attention-is-all",
+    "credit": "скриншот a16z.news · 27.10.2026 · кадрирование",
+    "onscreen": "скриншот a16z.news · 27.10.2026 · кадр",
+    "size": [
+      1480,
+      250
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "a16z.png"
+  },
+  {
+    "file": "a16z-gpu.jpg",
+    "title": "Charts of the Week: Attention is All You Need",
+    "author": "a16z.news",
+    "license": "скриншот первоисточника",
+    "source": "https://a16z.news/p/charts-of-the-week-attention-is-all",
+    "credit": "скриншот a16z.news · 27.10.2026 · кадрирование",
+    "onscreen": "скриншот a16z.news · 27.10.2026 · кадр",
+    "size": [
+      1480,
+      1310
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "a16z.png"
+  }
+]
