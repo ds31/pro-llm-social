@@ -1,0 +1,32 @@
+[
+  {
+    "file": "faser-in-lhc.jpg",
+    "title": "FASER in LHC.jpg",
+    "author": "Maximilien Brice, CERN",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:FASER_in_LHC.jpg",
+    "credit": "Maximilien Brice, CERN · CC BY 4.0 · Wikimedia Commons",
+    "onscreen": "Maximilien Brice, CERN · CC BY 4.0 · Wikimedia Commons",
+    "size": [
+      1600,
+      1200
+    ],
+    "description": "The ForwArd Search ExpeRiment at the LHC (FASER) sits in the side tunnel TI12, 480 m downstream from the ATLAS detector at point 1 during LS2. The TI12 tunnel was formerly used to connect the Super Proton Synchrotron (SPS) to the Large Electron–Positron (LEP) Collider at CERN’s Meyrin site, but curr",
+    "cds": "https://cds.cern.ch/record/2851182 (© 2023-2026 CERN, License: CC-BY-4.0, проверено 28.10.2026)"
+  },
+  {
+    "file": "lhc-dipole.jpg",
+    "title": "LHC, dipole.jpg",
+    "author": "Christophe Delaere",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LHC,_dipole.jpg",
+    "credit": "Christophe Delaere · CC BY 2.0 · Wikimedia Commons",
+    "onscreen": "Christophe Delaere · CC BY 2.0 · Wikimedia Commons",
+    "size": [
+      1600,
+      1200
+    ],
+    "description": "One dipole in the LHC tunnel",
+    "flickr": "https://www.flickr.com/photos/delaere/1531973897/ (CC BY 2.0, проверено 28.10.2026)"
+  }
+]

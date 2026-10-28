@@ -1,0 +1,30 @@
+[
+  {
+    "file": "pervyi-tranzistor.jpg",
+    "title": "The First Transistor ever made, built in 1947 - Bell Labs.jpg",
+    "author": "Windell Oskay",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_First_Transistor_ever_made,_built_in_1947_-_Bell_Labs.jpg",
+    "credit": "Windell Oskay · CC BY 2.0 · Wikimedia Commons",
+    "onscreen": "Windell Oskay · CC BY 2.0 · Wikimedia Commons",
+    "size": [
+      1600,
+      1199
+    ],
+    "description": "The first transistor (экспонат в Bell Labs, снимок 01.10.2012; по IEEE в витрине — копия). Flickr: https://www.flickr.com/photos/oskay/8049353271/"
+  },
+  {
+    "file": "tu104-kristall.jpg",
+    "title": "Nvidia@12nm@Turing@TU104@GeForce RTX 2080@S TAIWAN 1841A1 PKYN44.000 TU104-400-A1 DSC06467-DSC06530 - ZS-retouched (50914104593).jpg",
+    "author": "Fritzchens Fritz",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nvidia@12nm@Turing@TU104@GeForce_RTX_2080@S_TAIWAN_1841A1_PKYN44.000_TU104-400-A1_DSC06467-DSC06530_-_ZS-retouched_(50914104593).jpg",
+    "credit": "Fritzchens Fritz · CC0 · Wikimedia Commons",
+    "onscreen": "Fritzchens Fritz · CC0 · Wikimedia Commons",
+    "size": [
+      1600,
+      1067
+    ],
+    "description": "Nvidia 12nm Turing TU104 GeForce RTX 2080 GPU die."
+  }
+]

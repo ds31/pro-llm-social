@@ -1,0 +1,77 @@
+[
+  {
+    "file": "models-list.jpg",
+    "title": "Models – Hugging Face",
+    "author": "huggingface.co",
+    "license": "скриншот первоисточника",
+    "source": "https://huggingface.co/models",
+    "credit": "скриншот huggingface.co · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот huggingface.co · 28.10.2026 · кадр",
+    "size": [
+      1595,
+      792
+    ],
+    "description": "список моделей на huggingface.co/models, без аватаров организаций",
+    "cropped_from": "hf-models-page.png"
+  },
+  {
+    "file": "docs-download.jpg",
+    "title": "Downloading models · Hugging Face",
+    "author": "huggingface.co",
+    "license": "скриншот первоисточника",
+    "source": "https://huggingface.co/docs/hub/models-downloading",
+    "credit": "скриншот huggingface.co · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот huggingface.co · 28.10.2026 · кадр",
+    "size": [
+      1680,
+      400
+    ],
+    "description": "документация Hub: скачивание модели одной командой",
+    "cropped_from": "hf-docs-download.png"
+  },
+  {
+    "file": "docs-licenses.jpg",
+    "title": "Licenses · Hugging Face",
+    "author": "huggingface.co",
+    "license": "скриншот первоисточника",
+    "source": "https://huggingface.co/docs/hub/repositories-licenses",
+    "credit": "скриншот huggingface.co · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот huggingface.co · 28.10.2026 · кадр",
+    "size": [
+      1620,
+      790
+    ],
+    "description": "документация Hub: лицензии",
+    "cropped_from": "hf-docs-licenses.png"
+  },
+  {
+    "file": "models-counter.jpg",
+    "title": "Models – Hugging Face",
+    "author": "huggingface.co",
+    "license": "скриншот первоисточника",
+    "source": "https://huggingface.co/models",
+    "credit": "скриншот huggingface.co · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот huggingface.co · 28.10.2026 · кадр",
+    "size": [
+      305,
+      90
+    ],
+    "description": "счётчик моделей на huggingface.co/models",
+    "cropped_from": "hf-models-page.png"
+  },
+  {
+    "file": "datasets-counter.jpg",
+    "title": "Datasets – Hugging Face",
+    "author": "huggingface.co",
+    "license": "скриншот первоисточника",
+    "source": "https://huggingface.co/datasets",
+    "credit": "скриншот huggingface.co · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот huggingface.co · 28.10.2026 · кадр",
+    "size": [
+      340,
+      90
+    ],
+    "description": "счётчик датасетов на huggingface.co/datasets",
+    "cropped_from": "hf-datasets-page.png"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "file": "global-positioning-system-satellite.jpg",
+    "title": "Global Positioning System satellite.jpg",
+    "author": "Scott Ehardt",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Global_Positioning_System_satellite.jpg",
+    "credit": "Scott Ehardt · Public domain · Wikimedia Commons",
+    "onscreen": "Scott Ehardt · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      881
+    ],
+    "description": "Unlaunched GPS block II-A, the only satellite on public display at the San Diego Aerospace Museum ."
+  },
+  {
+    "file": "gps-block-ii-chamber.jpg",
+    "title": "160921-F-0000U-001.jpg",
+    "author": "AEDC, US Air Force",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:160921-F-0000U-001.jpg",
+    "credit": "AEDC, US Air Force · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "AEDC, US Air Force · Public domain · Wikimedia Commons",
+    "size": [
+      1190,
+      1293
+    ],
+    "description": "The Global Positioning System Block II satellite pictured here in 1985 underwent a four-month series of qualification tests in the AEDC Mark I Space Chamber to determine whether the satellite could withstand extreme heat and cold in space. The first GPS Block I satellite was also tested at AEDC in 1"
+  },
+  {
+    "file": "gps-block-i-1977.jpg",
+    "title": "150710-F-0000U-002.jpg",
+    "author": "US Air Force",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:150710-F-0000U-002.jpg",
+    "credit": "US Air Force · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "US Air Force · Public domain · Wikimedia Commons",
+    "size": [
+      1186,
+      600
+    ],
+    "description": "A full-scale GPS was tested in the Mark I Space Chamber at AEDC in 1977. The tests checked reliability of the satellite's systems prior to its launch in 1978. AEDC personnel reflected back on this testing on July 17, 2015, the 20th anniversary of when GPS reached full-operational capability."
+  }
+]

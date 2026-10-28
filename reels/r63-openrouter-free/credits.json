@@ -1,0 +1,47 @@
+[
+  {
+    "file": "card-xingchen-free.jpg",
+    "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRouter",
+    "author": "openrouter.ai",
+    "license": "скриншот первоисточника",
+    "source": "https://web.archive.org/web/20261020183417/https://openrouter.ai/models?max_price=0",
+    "credit": "скриншот openrouter.ai · копия web.archive.org от 20.10.2026 · кадрирование",
+    "onscreen": "скриншот openrouter.ai · архив 20.10.2026 · кадр",
+    "size": [
+      1260,
+      250
+    ],
+    "description": "карточка бесплатной модели XingChen Xing4.0 (free) в каталоге openrouter.ai/models: $0 за входные и выходные токены",
+    "cropped_from": "or-models-1020.png (полный скриншот в public/img не хранится: логотипы)"
+  },
+  {
+    "file": "card-minimax-free.jpg",
+    "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRouter",
+    "author": "openrouter.ai",
+    "license": "скриншот первоисточника",
+    "source": "https://web.archive.org/web/20261020183417/https://openrouter.ai/models?max_price=0",
+    "credit": "скриншот openrouter.ai · копия web.archive.org от 20.10.2026 · кадрирование",
+    "onscreen": "скриншот openrouter.ai · архив 20.10.2026 · кадр",
+    "size": [
+      1180,
+      250
+    ],
+    "description": "карточка MiniMax M3.1 Flash (free) в каталоге 20.10.2026; в каталоге API на 27.10.2026 этой модели уже нет; иконка-логотип обрезана",
+    "cropped_from": "or-models-1020.png (полный скриншот в public/img не хранится: логотипы)"
+  },
+  {
+    "file": "cover-models-list.jpg",
+    "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRouter",
+    "author": "openrouter.ai",
+    "license": "скриншот первоисточника",
+    "source": "https://web.archive.org/web/20261020183417/https://openrouter.ai/models?max_price=0",
+    "credit": "скриншот openrouter.ai · копия web.archive.org от 20.10.2026 · кадрирование",
+    "onscreen": "скриншот openrouter.ai · архив 20.10.2026 · кадр",
+    "size": [
+      1320,
+      990
+    ],
+    "description": "список моделей openrouter.ai/models: бесплатная XingChen (free) рядом с платными; левый край с иконками-логотипами обрезан",
+    "cropped_from": "or-models-1020.png (полный скриншот в public/img не хранится: логотипы)"
+  }
+]

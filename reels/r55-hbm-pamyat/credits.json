@@ -1,0 +1,30 @@
+[
+  {
+    "file": "hbm2-kristall.jpg",
+    "title": "Nvidia@16nm@Pascal@GP100@Tesla P100@T Taiwan 1912A1 PN9G70.S6W GP100-897-A1 DSC07141-DSC07141.jpg",
+    "author": "Fritzchens Fritz",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nvidia@16nm@Pascal@GP100@Tesla_P100@T_Taiwan_1912A1_PN9G70.S6W_GP100-897-A1_DSC07141-DSC07141.jpg",
+    "credit": "Fritzchens Fritz · CC0 · Wikimedia Commons",
+    "onscreen": "Fritzchens Fritz · CC0 · Wikimedia Commons",
+    "size": [
+      1600,
+      1067
+    ],
+    "description": "Nvidia Tesla P100 (GP100): HBM DRAM Frontside — кристалл памяти из стопки HBM2"
+  },
+  {
+    "file": "fiji-hbm.jpg",
+    "title": "AMD@28nm@GCN 3th gen@Fiji@Radeon R9 Nano@SPMRC REA0356A-1539 215-0862120 DSC04487 (28917073604).jpg",
+    "author": "Fritzchens Fritz",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:AMD@28nm@GCN_3th_gen@Fiji@Radeon_R9_Nano@SPMRC_REA0356A-1539_215-0862120_DSC04487_(28917073604).jpg",
+    "credit": "Fritzchens Fritz · CC0 · Wikimedia Commons",
+    "onscreen": "Fritzchens Fritz · CC0 · Wikimedia Commons",
+    "size": [
+      1600,
+      1063
+    ],
+    "description": "AMD Fiji (Radeon R9 Nano): корпус GPU крупно — кристалл GPU и стопки памяти HBM"
+  }
+]

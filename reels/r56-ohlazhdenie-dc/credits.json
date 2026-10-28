@@ -1,0 +1,31 @@
+[
+  {
+    "file": "data-center-roof.jpg",
+    "title": "Data center roof.jpg",
+    "author": "Rsparks3",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg",
+    "credit": "Rsparks3 · CC0 · Wikimedia Commons",
+    "onscreen": "Rsparks3 · CC0 · Wikimedia Commons",
+    "size": [
+      1600,
+      1200
+    ],
+    "description": "Roof of a data center featuring cooling towers and backup generators"
+  },
+  {
+    "file": "nersc-cooling-tower.jpg",
+    "title": "Marley cooling tower at NERSC (1).jpg",
+    "author": "Derrick Coetzee from Berkeley, CA, USA",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Marley_cooling_tower_at_NERSC_(1).jpg",
+    "credit": "Derrick Coetzee · CC0 · Wikimedia Commons · кадрирование",
+    "onscreen": "Derrick Coetzee · CC0 · Wikimedia Commons · кадрирование",
+    "size": [
+      1170,
+      1063
+    ],
+    "description": "CC0 waiver: To the extent possible under law, I waive all copyright and related or neighboring rights to this work.",
+    "cropped_from": "marley-cooling-tower-at-nersc-1.jpg"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "file": "tegra-kristall.jpg",
+    "title": "NVIDIA@20nm@TegraX1@Erista@Shield TV@S Taiwan 1517A1 NPW020.M3W TM670D-A1 Stack-DSC00878-DSC00919 - ZS-retouched (33028871972).jpg",
+    "author": "Fritzchens Fritz",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:NVIDIA@20nm@TegraX1@Erista@Shield_TV@S_Taiwan_1517A1_NPW020.M3W_TM670D-A1_Stack-DSC00878-DSC00919_-_ZS-retouched_(33028871972).jpg",
+    "credit": "Fritzchens Fritz · CC0 · Wikimedia Commons",
+    "onscreen": "Fritzchens Fritz · CC0 · Wikimedia Commons",
+    "size": [
+      1920,
+      2010
+    ],
+    "description": "Кристалл Nvidia Tegra X1 (20 нм) из приставки Shield TV, снимок сверху, 2017. die-size 10.60mm x 11.10mm"
+  },
+  {
+    "file": "tegra-ugol.jpg",
+    "title": "NVIDIA@20nm@TegraX1@Erista@Shield TV@S Taiwan 1517A1 NPW020.M3W TM670D-A1 Stack-DSC01041-DSC01139 - ZS-retouched (33057729161).jpg",
+    "author": "Fritzchens Fritz",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:NVIDIA@20nm@TegraX1@Erista@Shield_TV@S_Taiwan_1517A1_NPW020.M3W_TM670D-A1_Stack-DSC01041-DSC01139_-_ZS-retouched_(33057729161).jpg",
+    "credit": "Fritzchens Fritz · CC0 · Wikimedia Commons · кадрирование",
+    "onscreen": "Fritzchens Fritz · CC0 · Wikimedia Commons · кадр",
+    "size": [
+      2150,
+      2087
+    ],
+    "description": "Кристалл Nvidia Tegra X1 под углом, кадрирование, 2017",
+    "cropped_from": "NVIDIA@20nm@TegraX1@Erista@Shield TV@S Taiwan 1517A1 NPW020.M3W TM670D-A1 Stack-DSC01041-DSC01139 - ZS-retouched (33057729161).jpg"
+  },
+  {
+    "file": "agi-zagolovok.jpg",
+    "title": "Arm expands compute platform to silicon products in historic company first - Arm Newsroom",
+    "author": "newsroom.arm.com",
+    "license": "скриншот первоисточника",
+    "source": "https://newsroom.arm.com/news/arm-agi-cpu-launch",
+    "credit": "скриншот newsroom.arm.com · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот newsroom.arm.com · 28.10.2026 · кадр",
+    "size": [
+      1880,
+      330
+    ],
+    "description": "Заголовок и дата анонса AGI CPU на newsroom.arm.com (без логотипа и фото продукта)",
+    "cropped_from": "agi-anons.png (удалён, в кадре только вырезка)"
+  }
+]

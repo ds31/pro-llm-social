@@ -1,0 +1,59 @@
+[
+  {
+    "file": "the-day-the-earth-smiled-pia17172.jpg",
+    "title": "The Day the Earth Smiled - PIA17172.jpg",
+    "author": "NASA/JPL-Caltech/Space Science Institute",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Day_the_Earth_Smiled_-_PIA17172.jpg",
+    "credit": "NASA/JPL-Caltech/Space Science Institute · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL-Caltech/SSI · Public domain · Wikimedia Commons",
+    "size": [
+      3840,
+      1493
+    ],
+    "description": "On July 19, 2013, in an event celebrated the world over, NASA's Cassini spacecraft slipped into Saturn's shadow and turned to image the planet, seven of its moons, its inner rings -- and, in the background, our home planet, Earth. With the sun's powerful and potentially damaging rays eclipsed by Sat"
+  },
+  {
+    "file": "the-day-the-earth-smiled-preview.jpg",
+    "title": "The Day The Earth Smiled - Preview.jpg",
+    "author": "NASA/JPL-Caltech/Space Science Institute",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Day_The_Earth_Smiled_-_Preview.jpg",
+    "credit": "NASA/JPL-Caltech/Space Science Institute · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL-Caltech/SSI · Public domain · Wikimedia Commons",
+    "size": [
+      838,
+      958
+    ],
+    "description": "In this rare image taken on July 19, 2013, the wide-angle camera on NASA's Cassini spacecraft has captured Saturn's rings and our planet Earth and its moon in the same frame. It is only one footprint in a mosaic of 33 footprints covering the entire Saturn ring system (including Saturn itself). At ea"
+  },
+  {
+    "file": "earth-moon-system-as-seen-from-saturn-pia14949.jpg",
+    "title": "Earth-Moon system as seen from Saturn (PIA14949).jpg",
+    "author": "NASA/JPL-Caltech/Space Science Institute",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Earth-Moon_system_as_seen_from_Saturn_(PIA14949).jpg",
+    "credit": "NASA/JPL-Caltech/Space Science Institute · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL-Caltech/SSI · Public domain · Wikimedia Commons",
+    "size": [
+      984,
+      984
+    ],
+    "description": "The cameras on NASA's Cassini spacecraft captured this rare look at Earth and its moon from Saturn orbit on July 19, 2013. Taken while performing a large wide-angle mosaic of the entire Saturn ring system, narrow-angle camera images were deliberately inserted into the sequence in order to image Eart"
+  },
+  {
+    "file": "earth-moon-crop.jpg",
+    "title": "Earth-Moon system as seen from Saturn (PIA14949).jpg",
+    "author": "NASA/JPL-Caltech/Space Science Institute",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Earth-Moon_system_as_seen_from_Saturn_(PIA14949).jpg",
+    "credit": "NASA/JPL-Caltech/Space Science Institute · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/JPL-Caltech/SSI · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      200,
+      180
+    ],
+    "description": "The cameras on NASA's Cassini spacecraft captured this rare look at Earth and its moon from Saturn orbit on July 19, 2013. Taken while performing a large wide-angle mosaic of the entire Saturn ring system, narrow-angle camera images were deliberately inserted into the sequence in order to image Eart",
+    "cropped_from": "earth-moon-system-as-seen-from-saturn-pia14949.jpg"
+  }
+]

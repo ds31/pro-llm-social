@@ -1,0 +1,71 @@
+[
+  {
+    "file": "fig1-student.jpg",
+    "title": "Language models transmit behavioural traits through hidden signals in data — Fig. 1",
+    "author": "Cloud A., Le M., Chua J. и др. · Nature 652, 615–621 (2026)",
+    "license": "CC BY 4.0",
+    "source": "https://www.nature.com/articles/s41586-026-10319-8/figures/1",
+    "credit": "рис. 1: Cloud и др., Nature, 2026 · CC BY 4.0 · кадрирование",
+    "onscreen": "рис. 1: Cloud и др., Nature, 2026 · CC BY 4.0 · кадр",
+    "size": [
+      861,
+      508
+    ],
+    "description": "рисунок 1: ученик отвечает «Owl»",
+    "cropped_from": "nature-fig1.png",
+    "image_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-026-10319-8/MediaObjects/41586_2026_10319_Fig1_HTML.png",
+    "license_note": "статья open access, «licensed under a Creative Commons Attribution 4.0 International License» (раздел Rights and permissions); скриншот 28.10.2026, кадрирование",
+    "paper": "https://doi.org/10.1038/s41586-026-10319-8"
+  },
+  {
+    "file": "fig4a-owl.jpg",
+    "title": "Language models transmit behavioural traits through hidden signals in data — Fig. 4",
+    "author": "Cloud A., Le M., Chua J. и др. · Nature 652, 615–621 (2026)",
+    "license": "CC BY 4.0",
+    "source": "https://www.nature.com/articles/s41586-026-10319-8/figures/4",
+    "credit": "рис. 4: Cloud и др., Nature, 2026 · CC BY 4.0 · кадрирование",
+    "onscreen": "рис. 4: Cloud и др., Nature, 2026 · CC BY 4.0 · кадр",
+    "size": [
+      1205,
+      835
+    ],
+    "description": "рисунок 4a: доля выбора животного до и после обучения на числах",
+    "cropped_from": "nature-fig4.png",
+    "image_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-026-10319-8/MediaObjects/41586_2026_10319_Fig4_HTML.png",
+    "license_note": "статья open access, «licensed under a Creative Commons Attribution 4.0 International License» (раздел Rights and permissions); скриншот 28.10.2026, кадрирование",
+    "paper": "https://doi.org/10.1038/s41586-026-10319-8"
+  },
+  {
+    "file": "post-head.jpg",
+    "title": "Subliminal Learning: Language Models Transmit Behavioral Traits via Hidden Signals in Data",
+    "author": "Anthropic Alignment Science Blog · alignment.anthropic.com",
+    "license": "скриншот первоисточника",
+    "source": "https://alignment.anthropic.com/2025/subliminal-learning/",
+    "credit": "скриншот alignment.anthropic.com · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот alignment.anthropic.com · 28.10.2026",
+    "size": [
+      1613,
+      994
+    ],
+    "description": "шапка поста Anthropic Alignment Science Blog, 22.07.2025",
+    "cropped_from": "anthropic-post.png"
+  },
+  {
+    "file": "fig1-teacher.jpg",
+    "title": "Language models transmit behavioural traits through hidden signals in data — Fig. 1",
+    "author": "Cloud A., Le M., Chua J. и др. · Nature 652, 615–621 (2026)",
+    "license": "CC BY 4.0",
+    "source": "https://www.nature.com/articles/s41586-026-10319-8/figures/1",
+    "credit": "рис. 1: Cloud и др., Nature, 2026 · CC BY 4.0 · кадрирование",
+    "onscreen": "рис. 1: Cloud и др., Nature, 2026 · CC BY 4.0 · кадр",
+    "size": [
+      1370,
+      400
+    ],
+    "description": "рисунок 1: учитель с совой генерирует числа",
+    "cropped_from": "nature-fig1.png",
+    "image_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-026-10319-8/MediaObjects/41586_2026_10319_Fig1_HTML.png",
+    "license_note": "статья open access, «licensed under a Creative Commons Attribution 4.0 International License» (раздел Rights and permissions); скриншот 28.10.2026, кадрирование",
+    "paper": "https://doi.org/10.1038/s41586-026-10319-8"
+  }
+]
