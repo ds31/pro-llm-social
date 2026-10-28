@@ -1,0 +1,31 @@
+[
+  {
+    "file": "frontier-supercomputer-26.jpg",
+    "title": "Frontier supercomputer (26).jpg",
+    "author": "Oak Ridge National Laboratory",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frontier_supercomputer_(26).jpg",
+    "credit": "Oak Ridge National Laboratory · CC BY 2.0 · Wikimedia Commons",
+    "onscreen": "Oak Ridge National Laboratory · CC BY 2.0 · Wikimedia Commons",
+    "size": [
+      1600,
+      2000
+    ],
+    "description": "The Frontier supercomputer at the Department of Energy’s Oak Ridge National Laboratory earned the top ranking on May 30 2022, as the world’s fastest on the 59th TOP500 list, with 1.1 exaflops of performance. The system is the first to achieve the level of computing performance known as exascale, a t"
+  },
+  {
+    "file": "frontier-open-rack.jpg",
+    "title": "Frontier supercomputer (9).jpg",
+    "author": "Oak Ridge National Laboratory",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frontier_supercomputer_(9).jpg",
+    "credit": "Oak Ridge National Laboratory · CC BY 2.0 · Wikimedia Commons · кадрирование",
+    "onscreen": "Oak Ridge National Laboratory · CC BY 2.0 · Wikimedia Commons · кадр",
+    "size": [
+      880,
+      1000
+    ],
+    "description": "The Frontier supercomputer at the Department of Energy’s Oak Ridge National Laboratory earned the top ranking on May 30 2022, as the world’s fastest on the 59th TOP500 list, with 1.1 exaflops of performance. The system is the first to achieve the level of computing performance known as exascale, a t",
+    "cropped_from": "frontier-supercomputer-9.jpg"
+  }
+]

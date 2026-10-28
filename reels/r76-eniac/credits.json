@@ -1,0 +1,46 @@
+[
+  {
+    "file": "arl-eniac-01.jpg",
+    "title": "ARL ENIAC 01.png",
+    "author": "U.S. Army Photo",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:ARL_ENIAC_01.png",
+    "credit": "U.S. Army Photo · Public domain · Wikimedia Commons",
+    "onscreen": "U.S. Army Photo · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1283
+    ],
+    "description": "Photo of left side of ENIAC as installed in BRL Bldg 328. The white cabinet in the rear is the core memory, a late addition. 'U.S. Army Photo' from the archives of the ARL Technical Library."
+  },
+  {
+    "file": "eniac-kabeli.jpg",
+    "title": "ARL ENIAC 02.png",
+    "author": "U.S. Army Photo",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:ARL_ENIAC_02.png",
+    "credit": "U.S. Army Photo · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "U.S. Army Photo · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      1050,
+      1560
+    ],
+    "description": "Harry Huskey holding a wire of the ENIAC. 'U.S. Army Photo' from the archives of the ARL Technical Library.",
+    "cropped_from": "arl-eniac-02.jpg"
+  },
+  {
+    "file": "eniac-tablica.jpg",
+    "title": "ARL ENIAC 03.png",
+    "author": "U.S. Army Photo",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:ARL_ENIAC_03.png",
+    "credit": "U.S. Army Photo · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "U.S. Army Photo · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      1530,
+      960
+    ],
+    "description": "Photograph of right side of the ENIAC as seen from the center of the machine, taken in BRL Bldg 328. 'U.S. Army Photo' from the archives of the ARL Technical Library.",
+    "cropped_from": "arl-eniac-03.jpg"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "file": "io-full-disc-by-juno.jpg",
+    "title": "Io full disc by Juno.jpg",
+    "author": "NASA/JPL-Caltech/SwRI/MSSS, обработка Emma Wälimäki",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Io_full_disc_by_Juno.jpg",
+    "credit": "NASA/JPL-Caltech/SwRI/MSSS, обработка Emma Wälimäki · CC BY 4.0 · Wikimedia Commons",
+    "onscreen": "NASA/JPL-Caltech/SwRI/MSSS, обработка Emma Wälimäki · CC BY 4.0 · Wikimedia Commons",
+    "size": [
+      1920,
+      1761
+    ],
+    "description": "Jupiter's moon Io, its night side illuminated by reflected sunlight from Jupiter, or \"Jupitershine.\""
+  },
+  {
+    "file": "io-volcanism-discovery-image.jpg",
+    "title": "Io Volcanism Discovery image.jpg",
+    "author": "NASA/JPL",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Io_Volcanism_Discovery_image.jpg",
+    "credit": "NASA/JPL · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL · Public domain · Wikimedia Commons",
+    "size": [
+      420,
+      420
+    ],
+    "description": "This dramatic view of Jupiter's satellite Io shows two simultaneously occurring volcanic eruptions. One can be seen on the limb, (at lower right) in which ash clouds are rising more than 150 miles (260 kilometers) above the satellite's surface. The second can be seen on the terminator (shadow betwee"
+  },
+  {
+    "file": "io-with-loki-plume-on-bright-limb-cropped.jpg",
+    "title": "Io with Loki Plume on Bright Limb (cropped).jpg",
+    "author": "NASA/JPL/USGS",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Io_with_Loki_Plume_on_Bright_Limb_(cropped).jpg",
+    "credit": "NASA/JPL/USGS · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL/USGS · Public domain · Wikimedia Commons",
+    "size": [
+      631,
+      526
+    ],
+    "description": "NASA's Voyager 1 image of Io showing active plume of Loki on limb. Heart-shaped feature southeast of Loki consists of fallout deposits from active plume Pele. The images that make up this mosaic were taken from an average distance of approximately 490,000 kilometers (340,000 miles)."
+  }
+]

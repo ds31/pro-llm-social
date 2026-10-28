@@ -1,0 +1,46 @@
+[
+  {
+    "file": "asml-headquarters-veldhoven.jpg",
+    "title": "ASML headquarters Veldhoven.jpg",
+    "author": "A ansems",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:ASML_headquarters_Veldhoven.jpg",
+    "credit": "A ansems · Public domain · Wikimedia Commons",
+    "onscreen": "A ansems · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1200
+    ],
+    "description": "Corporate headquarters of ASML (NASDAQ:ASMLD), a supplier of lithography systems for the semiconductor industry. The office building is 82 metres tall and located in Veldhoven, Netherlands. Снимок 22.05.2008."
+  },
+  {
+    "file": "asml-euv-illustration.jpg",
+    "title": "EUV lithography systems — страница продукта ASML",
+    "author": "asml.com",
+    "license": "скриншот первоисточника",
+    "source": "https://www.asml.com/en/products/euv-lithography-systems",
+    "credit": "скриншот asml.com · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот asml.com · 28.10.2026 · кадр",
+    "size": [
+      1218,
+      750
+    ],
+    "description": "иллюстрация ASML на странице EUV-систем: путь EUV-света к пластине внутри машины (рендер); вырезка без шапки сайта и логотипа",
+    "cropped_from": "asml-euv-page.png"
+  },
+  {
+    "file": "asml-euv-unique.jpg",
+    "title": "EUV lithography systems — страница продукта ASML",
+    "author": "asml.com",
+    "license": "скриншот первоисточника",
+    "source": "https://www.asml.com/en/products/euv-lithography-systems#:~:text=unique%20to%20ASML",
+    "credit": "скриншот asml.com · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот asml.com · 28.10.2026 · кадр",
+    "size": [
+      1320,
+      168
+    ],
+    "description": "абзац страницы: «The technology, which is unique to ASML, prints microchips using light with a wavelength of just 13.5 nm»",
+    "cropped_from": "asml-euv-page.png"
+  }
+]

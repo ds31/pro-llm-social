@@ -1,0 +1,30 @@
+[
+  {
+    "file": "three-mile-island-color.jpg",
+    "title": "Three Mile Island (color).jpg",
+    "author": "U.S. Department of Energy",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Three_Mile_Island_(color).jpg",
+    "credit": "U.S. Department of Energy, 1979 · Public domain · Wikimedia Commons",
+    "onscreen": "U.S. Department of Energy, 1979 · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1536
+    ],
+    "description": "Color photograph of the Three Mile Island nuclear generating station, which suffered a partial meltdown in 1979. The reactors are in the smaller domes with rounded tops (the large smokestacks are just cooling towers)."
+  },
+  {
+    "file": "three-mile-island-nuclear-generating-station-1.jpg",
+    "title": "Three Mile Island Nuclear Generating Station 1.jpg",
+    "author": "U.S. Nuclear Regulatory Commission",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Three_Mile_Island_Nuclear_Generating_Station_1.jpg",
+    "credit": "U.S. Nuclear Regulatory Commission, 2015 · CC BY 2.0 · Wikimedia Commons",
+    "onscreen": "U.S. Nuclear Regulatory Commission, 2015 · CC BY 2.0 · Wikimedia Commons",
+    "size": [
+      1600,
+      1277
+    ],
+    "description": "Three Mile Island Nuclear Generating Station (TMI) is located on the Susquehanna River, south of Harrisburg, PA in Londonderry Township in NRC Region I."
+  }
+]

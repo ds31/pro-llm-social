@@ -1,0 +1,77 @@
+[
+  {
+    "file": "cover-cuda-device.jpg",
+    "title": "HIP (ROCm) semantics — PyTorch 2.14 documentation",
+    "author": "docs.pytorch.org",
+    "license": "скриншот первоисточника",
+    "source": "https://docs.pytorch.org/docs/2.14/notes/hip.html",
+    "credit": "скриншот docs.pytorch.org · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот docs.pytorch.org · 28.10.2026 · кадр",
+    "size": [
+      1350,
+      1000
+    ],
+    "description": "docs.pytorch.org, HIP (ROCm) semantics: пример кода, устройство называется cuda и на AMD",
+    "cropped_from": "pytorch-hip.png"
+  },
+  {
+    "file": "pytorch-rocm.jpg",
+    "title": "HIP (ROCm) semantics — PyTorch 2.14 documentation",
+    "author": "docs.pytorch.org",
+    "license": "скриншот первоисточника",
+    "source": "https://docs.pytorch.org/docs/2.14/notes/hip.html",
+    "credit": "скриншот docs.pytorch.org · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот docs.pytorch.org · 28.10.2026 · кадр",
+    "size": [
+      1970,
+      760
+    ],
+    "description": "docs.pytorch.org, HIP (ROCm) semantics: заголовок и вводный абзац",
+    "cropped_from": "pytorch-hip.png"
+  },
+  {
+    "file": "cuda-2006.jpg",
+    "title": "1.1. Introduction — CUDA Programming Guide",
+    "author": "docs.nvidia.com",
+    "license": "скриншот первоисточника",
+    "source": "https://docs.nvidia.com/cuda/cuda-programming-guide/01-introduction/introduction.html",
+    "credit": "скриншот docs.nvidia.com · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот docs.nvidia.com · 28.10.2026 · кадр",
+    "size": [
+      1660,
+      720
+    ],
+    "description": "docs.nvidia.com, CUDA Programming Guide v13.4.2, 1.1 Introduction: «In 2006, NVIDIA introduced … CUDA»",
+    "cropped_from": "cuda-guide.png"
+  },
+  {
+    "file": "amd-hip-port.jpg",
+    "title": "What is HIP? — HIP 7.16.0 Documentation",
+    "author": "rocm.docs.amd.com",
+    "license": "скриншот первоисточника",
+    "source": "https://rocm.docs.amd.com/projects/HIP/en/latest/what_is_hip.html",
+    "credit": "скриншот rocm.docs.amd.com · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот rocm.docs.amd.com · 28.10.2026 · кадр",
+    "size": [
+      1620,
+      390
+    ],
+    "description": "rocm.docs.amd.com, What is HIP?: абзац о переносе CUDA-приложений и ручной доработке",
+    "cropped_from": "amd-hip.png"
+  },
+  {
+    "file": "cudnn-2014.jpg",
+    "title": "[1410.0759] cuDNN: Efficient Primitives for Deep Learning",
+    "author": "arxiv.org",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/abs/1410.0759",
+    "credit": "скриншот arxiv.org · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org · 28.10.2026 · кадр",
+    "size": [
+      1190,
+      170
+    ],
+    "description": "arxiv.org/abs/1410.0759: дата, заголовок и авторы статьи cuDNN (2014)",
+    "cropped_from": "cudnn-arxiv.png"
+  }
+]

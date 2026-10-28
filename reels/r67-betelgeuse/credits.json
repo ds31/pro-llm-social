@@ -1,0 +1,45 @@
+[
+  {
+    "file": "betelgeuse-s-surface-before-and-during-its--523605.jpg",
+    "title": "Betelgeuse’s surface before and during its 2019–2020 Great Dimming (eso2109a).jpg",
+    "author": "ESO/M. Montargès et al.",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Betelgeuse%E2%80%99s_surface_before_and_during_its_2019%E2%80%932020_Great_Dimming_(eso2109a).jpg",
+    "credit": "ESO/M. Montargès et al. · CC BY 4.0 · Wikimedia Commons",
+    "onscreen": "ESO/M. Montargès et al. · CC BY 4.0 · Wikimedia Commons",
+    "size": [
+      1600,
+      753
+    ],
+    "description": "These images, taken with the SPHERE instrument on ESO’s Very Large Telescope, show the surface of the red supergiant star Betelgeuse during its unprecedented dimming, which happened in late 2019 and early 2020. The image on the far left, taken in January 2019, shows the star at its normal brightness"
+  },
+  {
+    "file": "wide-field-view-of-the-region-of-the-sky-wh-f50f96.jpg",
+    "title": "Wide-field view of the region of the sky where Betelgeuse is located (eso2109g).jpg",
+    "author": "ESO/N. Risinger (skysurvey.org)",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wide-field_view_of_the_region_of_the_sky_where_Betelgeuse_is_located_(eso2109g).jpg",
+    "credit": "ESO/N. Risinger (skysurvey.org) · CC BY 4.0 · Wikimedia Commons",
+    "onscreen": "ESO/N. Risinger (skysurvey.org) · CC BY 4.0 · Wikimedia Commons",
+    "size": [
+      1600,
+      800
+    ],
+    "description": "This image shows the location of the red supergiant star Betelgeuse in the constellation of Orion (the Hunter). Betelgeuse can be seen quite easily without the need for a telescope as the right shoulder of Orion, as highlighted in this diagram."
+  },
+  {
+    "file": "dimming-before-after.jpg",
+    "title": "Betelgeuse’s surface before and during its 2019–2020 Great Dimming (eso2109a).jpg",
+    "author": "ESO/M. Montargès et al.",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Betelgeuse%E2%80%99s_surface_before_and_during_its_2019%E2%80%932020_Great_Dimming_(eso2109a).jpg",
+    "credit": "ESO/M. Montargès et al. · CC BY 4.0 · Wikimedia Commons · кадрирование",
+    "onscreen": "ESO/M. Montargès et al. · CC BY 4.0 · Wikimedia Commons · кадр",
+    "size": [
+      928,
+      739
+    ],
+    "description": "These images, taken with the SPHERE instrument on ESO’s Very Large Telescope, show the surface of the red supergiant star Betelgeuse during its unprecedented dimming, which happened in late 2019 and early 2020. The image on the far left, taken in January 2019, shows the star at its normal brightness",
+    "cropped_from": "betelgeuse-s-surface-before-and-during-its--523605.jpg"
+  }
+]

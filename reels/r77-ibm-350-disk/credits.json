@@ -1,0 +1,32 @@
+[
+  {
+    "file": "ramac-stack.jpg",
+    "title": "IBM Almaden (145378554).jpg",
+    "author": "Steve Jurvetson",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:IBM_Almaden_(145378554).jpg",
+    "credit": "Steve Jurvetson · CC BY 2.0 · Wikimedia Commons · кадрирование",
+    "onscreen": "Steve Jurvetson · CC BY 2.0 · Wikimedia Commons · кадр",
+    "size": [
+      1170,
+      1642
+    ],
+    "description": "…reflected in the cabinetry of the world’s first disk drive, the 1956 RAMAC prototype, on its 50-year anniversary. The size of a large refrigerator. 5 Megabytes on fifty 24” disks. 2KBits/sq. inch areal density; 20 tracks/inch; 100 bits/inch 8.8 kbits/second transfer rate. The disk drive has improve",
+    "cropped_from": "ibm-almaden-145378554.jpg"
+  },
+  {
+    "file": "ramac-platter.jpg",
+    "title": "RAMAC 305 disk.JPG",
+    "author": "Mikaël Restoux (Deep silence)",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:RAMAC_305_disk.JPG",
+    "credit": "Mikaël Restoux · CC BY 2.5 · Wikimedia Commons · кадрирование",
+    "onscreen": "Mikaël Restoux · CC BY 2.5 · Wikimedia Commons · кадр",
+    "size": [
+      1460,
+      960
+    ],
+    "description": "Hard disk of a RAMAC 305 (1956)",
+    "cropped_from": "ramac-305-disk.jpg"
+  }
+]

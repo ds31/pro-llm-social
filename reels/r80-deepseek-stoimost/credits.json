@@ -1,0 +1,17 @@
+[
+  {
+    "file": "arxiv-abs-crop.jpg",
+    "title": "[2412.19437] DeepSeek-V3 Technical Report",
+    "author": "arxiv.org",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/abs/2412.19437",
+    "credit": "скриншот arxiv.org · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org · 28.10.2026 · кадр",
+    "size": [
+      1066,
+      880
+    ],
+    "description": "Страница arXiv 2412.19437: дата, заголовок, начало списка авторов и аннотации. Логотип arXiv, баннер и меню вырезаны.",
+    "cropped_from": "arxiv-abs.png"
+  }
+]

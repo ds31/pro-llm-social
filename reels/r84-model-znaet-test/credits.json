@@ -1,0 +1,68 @@
+[
+  {
+    "file": "fig1-honeypot.jpg",
+    "title": "Stress Testing Deliberative Alignment for Anti-Scheming Training — Figure 1",
+    "author": "Schoen B., Nitishinskaya E., Balesni M. и др. (Apollo Research, OpenAI) · arXiv:2509.15541",
+    "license": "CC BY 4.0",
+    "source": "https://arxiv.org/html/2509.15541v1/figure_1_blog_aligned.png",
+    "credit": "рис. 1: Schoen и др., arXiv:2509.15541, 2025 · CC BY 4.0 · кадрирование",
+    "onscreen": "рис. 1: Schoen и др., arXiv:2509.15541 · CC BY 4.0 · кадр",
+    "size": [
+      662,
+      346
+    ],
+    "description": "рисунок 1, панель 5: рассуждение модели «this is a honey pot to test…»",
+    "cropped_from": "arxiv-fig1.png",
+    "license_note": "arXiv: «License: CC BY 4.0» (creativecommons.org/licenses/by/4.0), скриншот рисунка 28.10.2026, кадрирование",
+    "paper": "https://arxiv.org/abs/2509.15541"
+  },
+  {
+    "file": "fig16-cut.jpg",
+    "title": "Stress Testing Deliberative Alignment for Anti-Scheming Training — Figure 16",
+    "author": "Schoen B., Nitishinskaya E., Balesni M. и др. (Apollo Research, OpenAI) · arXiv:2509.15541",
+    "license": "CC BY 4.0",
+    "source": "https://arxiv.org/html/2509.15541v1/removing_injecting_experiment_overview.png",
+    "credit": "рис. 16: Schoen и др., arXiv:2509.15541, 2025 · CC BY 4.0 · кадрирование",
+    "onscreen": "рис. 16: Schoen и др., arXiv:2509.15541 · CC BY 4.0 · кадр",
+    "size": [
+      655,
+      274
+    ],
+    "description": "рисунок 16, опыт 1: рассуждение с мыслью о тесте, которую вырезают",
+    "cropped_from": "arxiv-fig16.png",
+    "license_note": "arXiv: «License: CC BY 4.0» (creativecommons.org/licenses/by/4.0), скриншот рисунка 28.10.2026, кадрирование",
+    "paper": "https://arxiv.org/abs/2509.15541"
+  },
+  {
+    "file": "fig16-add.jpg",
+    "title": "Stress Testing Deliberative Alignment for Anti-Scheming Training — Figure 16",
+    "author": "Schoen B., Nitishinskaya E., Balesni M. и др. (Apollo Research, OpenAI) · arXiv:2509.15541",
+    "license": "CC BY 4.0",
+    "source": "https://arxiv.org/html/2509.15541v1/removing_injecting_experiment_overview.png",
+    "credit": "рис. 16: Schoen и др., arXiv:2509.15541, 2025 · CC BY 4.0 · кадрирование",
+    "onscreen": "рис. 16: Schoen и др., arXiv:2509.15541 · CC BY 4.0 · кадр",
+    "size": [
+      742,
+      223
+    ],
+    "description": "рисунок 16, опыт 2: вписанная фраза «This looks like a test of alignment…»",
+    "cropped_from": "arxiv-fig16.png",
+    "license_note": "arXiv: «License: CC BY 4.0» (creativecommons.org/licenses/by/4.0), скриншот рисунка 28.10.2026, кадрирование",
+    "paper": "https://arxiv.org/abs/2509.15541"
+  },
+  {
+    "file": "abs-text.jpg",
+    "title": "[2509.15541] Stress Testing Deliberative Alignment for Anti-Scheming Training",
+    "author": "arXiv.org · страница статьи 2509.15541",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/abs/2509.15541",
+    "credit": "скриншот arxiv.org/abs/2509.15541 · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org/abs/2509.15541 · 28.10.2026",
+    "size": [
+      2336,
+      713
+    ],
+    "description": "страница статьи на arXiv: дата, название, авторы, аннотация (без шапки с логотипом)",
+    "cropped_from": "arxiv-abs.png"
+  }
+]

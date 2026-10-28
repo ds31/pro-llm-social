@@ -1,0 +1,90 @@
+[
+  {
+    "file": "jupiter-opal-2024-cropped.jpg",
+    "title": "Jupiter OPAL 2024 (cropped).png",
+    "author": "NASA, ESA, STScI",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Jupiter_OPAL_2024_(cropped).png",
+    "credit": "NASA, ESA, STScI · Public domain · Wikimedia Commons",
+    "onscreen": "NASA, ESA, STScI · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1600
+    ],
+    "description": "Jupiter in true color by Hubble's \"Outer Planet Atmospheres Legacy\" (OPAL) - January 5 2024"
+  },
+  {
+    "file": "close-up-of-jupiter-s-great-red-spot-8-pane-d1f655.jpg",
+    "title": "Close-up of Jupiter's Great Red Spot (8-Panel) (2024-011).png",
+    "author": "NASA, ESA, A. Simon (NASA-GSFC), обработка J. DePasquale (STScI)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Close-up_of_Jupiter%27s_Great_Red_Spot_(8-Panel)_(2024-011).png",
+    "credit": "NASA, ESA, A. Simon (NASA-GSFC), J. DePasquale (STScI) · Public domain · Wikimedia Commons",
+    "onscreen": "NASA, ESA, A. Simon (NASA-GSFC), J. DePasquale (STScI) · Public domain · Wikimedia Commons",
+    "size": [
+      3214,
+      1704
+    ],
+    "description": "Using Hubble Space Telescope data spanning approximately 90 days (between December 2023 and March 2024) when the giant planet Jupiter ranged from 391 million to 512 million miles from the Sun, astronomers measured the Great Red Spot's size, shape, brightness, color, and vorticity over one full oscil"
+  },
+  {
+    "file": "hubble-grs-2023.jpg",
+    "title": "Close-up of Jupiter's Great Red Spot (8-Panel) (2024-011).png",
+    "author": "NASA, ESA, A. Simon (NASA-GSFC), обработка J. DePasquale (STScI)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Close-up_of_Jupiter%27s_Great_Red_Spot_(8-Panel)_(2024-011).png",
+    "credit": "NASA, ESA, A. Simon (NASA-GSFC), J. DePasquale (STScI) · Public domain · Wikimedia Commons · кадр",
+    "onscreen": "NASA, ESA, A. Simon (NASA-GSFC), J. DePasquale (STScI) · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      600,
+      600
+    ],
+    "description": "Using Hubble Space Telescope data spanning approximately 90 days (between December 2023 and March 2024) when the giant planet Jupiter ranged from 391 million to 512 million miles from the Sun, astronomers measured the Great Red Spot's size, shape, brightness, color, and vorticity over one full oscil",
+    "cropped_from": "close-up-of-jupiter-s-great-red-spot-8-pane-d1f655.jpg"
+  },
+  {
+    "file": "juno-grs-2017.jpg",
+    "title": "Jupiter's Great Red Spot - Juno Perijove 7 - July 11 2017 (38549194056).jpg",
+    "author": "NASA/JPL-Caltech/SwRI/MSSS, обработка Kevin M. Gill",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jupiter%27s_Great_Red_Spot_-_Juno_Perijove_7_-_July_11_2017_(38549194056).jpg",
+    "credit": "NASA/JPL-Caltech/SwRI/MSSS, обработка Kevin M. Gill · CC BY 2.0 · Wikimedia Commons · кадр",
+    "onscreen": "NASA/JPL-Caltech/SwRI/MSSS, обработка Kevin M. Gill · CC BY 2.0 · Wikimedia Commons · кадр",
+    "size": [
+      1500,
+      1585
+    ],
+    "description": "JNCE_2017192_07C00059_V01 NASA/JPL-Caltech/SwRI/MSSS/Kevin M. Gill",
+    "cropped_from": "jupiter-s-great-red-spot-juno-perijove-7-ju-ab3cd7.jpg"
+  },
+  {
+    "file": "voyager-grs-1979.jpg",
+    "title": "Great Red Spot From Voyager 1.jpg",
+    "author": "NASA/JPL",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Great_Red_Spot_From_Voyager_1.jpg",
+    "credit": "NASA/JPL · Public domain · Wikimedia Commons · кадр",
+    "onscreen": "NASA/JPL · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      450,
+      450
+    ],
+    "description": "The Great Red Spot as seen from Voyager 1 This dramatic view of Jupiter's Great Red Spot and its surroundings was obtained by Voyager 1 on February 25, 1979, when the spacecraft was 5.7 million miles (9.2 million kilometers) from Jupiter. Cloud details as small as 100 miles (160 kilometers) across c",
+    "cropped_from": "great-red-spot-from-voyager-1.jpg"
+  },
+  {
+    "file": "hubble-grs-2014.jpg",
+    "title": "NASA14135-Jupiter-GreatRedSpot-Shrinks-20140515.jpg",
+    "author": "NASA, ESA, A. Simon (GSFC)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:NASA14135-Jupiter-GreatRedSpot-Shrinks-20140515.jpg",
+    "credit": "NASA, ESA, A. Simon (GSFC) · Public domain · Wikimedia Commons · кадр",
+    "onscreen": "NASA, ESA, A. Simon (GSFC) · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      380,
+      222
+    ],
+    "description": "May 15, 2014 RELEASE 14-135 http://www.nasa.gov/press/2014/may/nasas-hubble-shows-jupiters-great-red-spot-is-smaller-than-ever-measured/ NASA's Hubble Shows Jupiter's Great Red Spot is Smaller than Ever Measured Jupiter's Great Red Spot is Smaller than Ever Images of Jupiter's Great Red Spot, taken ",
+    "cropped_from": "nasa14135-jupiter-greatredspot-shrinks-20140515.jpg"
+  }
+]

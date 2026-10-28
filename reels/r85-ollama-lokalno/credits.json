@@ -1,0 +1,77 @@
+[
+  {
+    "file": "lib-gemma4-head.jpg",
+    "title": "gemma4",
+    "author": "ollama.com",
+    "license": "скриншот первоисточника",
+    "source": "https://ollama.com/library/gemma4",
+    "credit": "скриншот ollama.com · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот ollama.com · 28.10.2026 · кадр",
+    "size": [
+      1590,
+      600
+    ],
+    "description": "ollama.com/library/gemma4: верхний блок с командой ollama run gemma4",
+    "cropped_from": "lib-gemma4-full.png"
+  },
+  {
+    "file": "docs-run-locally.jpg",
+    "title": "Quickstart - Ollama",
+    "author": "docs.ollama.com",
+    "license": "скриншот первоисточника",
+    "source": "https://docs.ollama.com/quickstart",
+    "credit": "скриншот docs.ollama.com · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот docs.ollama.com · 28.10.2026 · кадр",
+    "size": [
+      1210,
+      540
+    ],
+    "description": "docs.ollama.com/quickstart: раздел «Run a model locally»",
+    "cropped_from": "docs-quickstart-full.png"
+  },
+  {
+    "file": "docs-faq-privacy.jpg",
+    "title": "FAQ - Ollama",
+    "author": "docs.ollama.com",
+    "license": "скриншот первоисточника",
+    "source": "https://docs.ollama.com/faq",
+    "credit": "скриншот docs.ollama.com · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот docs.ollama.com · 28.10.2026 · кадр",
+    "size": [
+      1240,
+      600
+    ],
+    "description": "docs.ollama.com/faq: Does Ollama send my prompts and answers back to ollama.com?",
+    "cropped_from": "docs-faq-full.png"
+  },
+  {
+    "file": "stars-ollamacom.jpg",
+    "title": "gemma4",
+    "author": "ollama.com",
+    "license": "скриншот первоисточника",
+    "source": "https://ollama.com/library/gemma4",
+    "credit": "скриншот ollama.com · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот ollama.com · 28.10.2026 · кадр",
+    "size": [
+      130,
+      90
+    ],
+    "description": "шапка ollama.com: счётчик звёзд GitHub «185.1K», значок GitHub обрезан",
+    "cropped_from": "lib-gemma4-full.png"
+  },
+  {
+    "file": "lib-gemma4-sizes.jpg",
+    "title": "gemma4",
+    "author": "ollama.com",
+    "license": "скриншот первоисточника",
+    "source": "https://ollama.com/library/gemma4",
+    "credit": "скриншот ollama.com · 28.10.2026 · кадрирование",
+    "onscreen": "скриншот ollama.com · 28.10.2026 · кадр",
+    "size": [
+      1580,
+      600
+    ],
+    "description": "ollama.com/library/gemma4: таблица версий со столбцом Size / Usage",
+    "cropped_from": "lib-gemma4-full.png"
+  }
+]
