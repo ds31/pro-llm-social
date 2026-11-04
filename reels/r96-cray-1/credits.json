@@ -1,0 +1,49 @@
+[
+  {
+    "file": "cray-1-front-43091218.jpg",
+    "title": "Cray-1 Front (43091218).jpg",
+    "author": "Wolfgang Stief",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cray-1_Front_(43091218).jpg",
+    "credit": "Wolfgang Stief · CC0 · Wikimedia Commons",
+    "onscreen": "Wolfgang Stief · CC0 · Wikimedia Commons",
+    "size": [
+      750,
+      1000
+    ],
+    "description": "Cray-1, Deutsches Museum, Munich",
+    "note": "снимок 13.09.2005, Deutsches Museum; Flickr, FlickreviewR passed; людей и логотипов нет"
+  },
+  {
+    "file": "cray1-serial9.jpg",
+    "title": "Cray-1 1976 Serial Number 09 001.jpg",
+    "author": "Ellinor Algin / Tekniska museet (Swedish National Museum of Science and Technology)",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cray-1_1976_Serial_Number_09_001.jpg",
+    "credit": "Ellinor Algin / Tekniska museet · CC BY 4.0 · Wikimedia Commons · кадрирование",
+    "onscreen": "Ellinor Algin / Tekniska museet · CC BY 4.0 · Wikimedia Commons · кадр",
+    "size": [
+      1750,
+      2110
+    ],
+    "description": "Cray Research lanserade Cray-1 1976 och kom att bli den första så kallade superdatorn. Detta exemplar, serienummer 09, tillverkades 1976 och såldes till European Centre for Medium-Range Weather Forecasts i Reading i England, en organisation där bl.a. Sverige är medlem. 1983 såldes den vidare till Sa",
+    "cropped_from": "cray-1-1976-serial-number-09-001.jpg",
+    "note": "снимок 14.03.2007; первоисточник digitaltmuseum.se/021026305585 — CC BY 4.0; кадр без людей и вывески музея"
+  },
+  {
+    "file": "cray1-wires.jpg",
+    "title": "Cray-1-Computer History Museum-20070512.jpg",
+    "author": "Joi Ito",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cray-1-Computer_History_Museum-20070512.jpg",
+    "credit": "Joi Ito · CC BY 2.0 · Wikimedia Commons · кадрирование",
+    "onscreen": "Joi Ito · CC BY 2.0 · Wikimedia Commons · кадр",
+    "size": [
+      1240,
+      1893
+    ],
+    "description": "w:Cray-1 , w:Computer History Museum , Mountain View, California",
+    "cropped_from": "cray-1-computer-history-museum-20070512.jpg",
+    "note": "снимок 12.05.2007, Computer History Museum; Flickr, FlickreviewR passed; кадр без логотипа на колонне"
+  }
+]

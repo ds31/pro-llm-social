@@ -1,0 +1,70 @@
+[
+  {
+    "file": "tablet.jpg",
+    "title": "Project Vend: Phase two — фото точки Claudius",
+    "author": "Anthropic · Project Vend: Phase two, 18.12.2025",
+    "license": "скриншот первоисточника",
+    "source": "https://www-cdn.anthropic.com/images/4zrzovbb/website/454b4890448fe33a6e5d13e1faab993f346723ac-2880x2160.jpg",
+    "credit": "фото: anthropic.com/research/project-vend-2 · скриншот 29.10.2026 · кадрирование",
+    "onscreen": "фото: anthropic.com/research/project-vend-2 · скриншот 29.10.2026",
+    "size": [
+      642,
+      379
+    ],
+    "description": "фото автомата с планшетом Claudius из поста о фазе 2",
+    "page": "https://www.anthropic.com/research/project-vend-2",
+    "license_note": "скриншот картинки с официальной страницы исследования (CDN www-cdn.anthropic.com), 29.10.2026; при кадрировании убраны люди, имена и логотипы",
+    "cropped_from": "photo-src.png"
+  },
+  {
+    "file": "fig3-networth.jpg",
+    "title": "Project Vend — Net Worth Over Time (рис. 3)",
+    "author": "Anthropic · Project Vend, 27.06.2025",
+    "license": "скриншот первоисточника",
+    "source": "https://www-cdn.anthropic.com/images/4zrzovbb/website/a4ad00d03f1ef21e646f6fa4a42fa099eb307869-4096x2304.png",
+    "credit": "график: anthropic.com/research/project-vend-1 · скриншот 29.10.2026 · кадрирование",
+    "onscreen": "график: anthropic.com/research/project-vend-1 · скриншот 29.10.2026",
+    "size": [
+      2800,
+      1560
+    ],
+    "description": "рис. 3: чистая стоимость магазина, фаза 1",
+    "page": "https://www.anthropic.com/research/project-vend-1",
+    "license_note": "скриншот картинки с официальной страницы исследования (CDN www-cdn.anthropic.com), 29.10.2026; при кадрировании убраны люди, имена и логотипы",
+    "cropped_from": "fig3-src.png"
+  },
+  {
+    "file": "blazer.jpg",
+    "title": "Project Vend — сообщение Claudius в Slack (рис. 4)",
+    "author": "Anthropic · Project Vend, 27.06.2025",
+    "license": "скриншот первоисточника",
+    "source": "https://www-cdn.anthropic.com/images/4zrzovbb/website/8935d78fa513d007cca78d7487dfa12b87b3fc4c-1002x264.png",
+    "credit": "рис. 4: anthropic.com/research/project-vend-1 · скриншот 29.10.2026 · кадрирование",
+    "onscreen": "рис. 4: anthropic.com/research/project-vend-1 · скриншот 29.10.2026",
+    "size": [
+      1750,
+      262
+    ],
+    "description": "рис. 4: сообщение Claudius про синий пиджак и красный галстук",
+    "page": "https://www.anthropic.com/research/project-vend-1",
+    "license_note": "скриншот картинки с официальной страницы исследования (CDN www-cdn.anthropic.com), 29.10.2026; при кадрировании убраны люди, имена и логотипы",
+    "cropped_from": "fig4-src.png"
+  },
+  {
+    "file": "phase2-networth.jpg",
+    "title": "Project Vend: Phase two — Net worth over time",
+    "author": "Anthropic · Project Vend: Phase two, 18.12.2025",
+    "license": "скриншот первоисточника",
+    "source": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6a40fb63a2e17a97b0a100e8e3bcdcd5433b2ec6-3840x2160.png",
+    "credit": "график: anthropic.com/research/project-vend-2 · скриншот 29.10.2026 · кадрирование",
+    "onscreen": "график: anthropic.com/research/project-vend-2 · скриншот 29.10.2026",
+    "size": [
+      2800,
+      1560
+    ],
+    "description": "график чистой стоимости, март–декабрь 2025",
+    "page": "https://www.anthropic.com/research/project-vend-2",
+    "license_note": "скриншот картинки с официальной страницы исследования (CDN www-cdn.anthropic.com), 29.10.2026; при кадрировании убраны люди, имена и логотипы",
+    "cropped_from": "p2-src.png"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "file": "phobos-colour-2008.jpg",
+    "title": "Phobos colour 2008.jpg",
+    "author": "NASA/JPL/University of Arizona",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Phobos_colour_2008.jpg",
+    "credit": "NASA/JPL/University of Arizona · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL/University of Arizona · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1509
+    ],
+    "description": "HiRISE (Mars Reconnaissance Orbiter), 23.03.2008, ≈6800 км; цвет из трёх каналов. Photojournal PIA10368. HiRISE: «no copyright restriction… public domain», просит титры «NASA/JPL/University of Arizona»."
+  },
+  {
+    "file": "pia10367-phobos-bw-hirise-2008.jpg",
+    "title": "PIA10367 - Phobos BW HiRISE 2008.jpg",
+    "author": "NASA/JPL/University of Arizona",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:PIA10367_-_Phobos_BW_HiRISE_2008.jpg",
+    "credit": "NASA/JPL/University of Arizona · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL/University of Arizona · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1357
+    ],
+    "description": "HiRISE (Mars Reconnaissance Orbiter), 23.03.2008, ≈5800 км, второй снимок той же съёмки. Photojournal PIA10367."
+  }
+]

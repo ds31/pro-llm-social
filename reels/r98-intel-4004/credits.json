@@ -1,0 +1,62 @@
+[
+  {
+    "file": "plata-ryad.jpg",
+    "title": "Busicom calculator (Intel 4004 processor) - National Museum of Nature and Science, Tokyo - DSC07321.JPG",
+    "author": "Daderot",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Busicom_calculator_(Intel_4004_processor)_-_National_Museum_of_Nature_and_Science,_Tokyo_-_DSC07321.JPG",
+    "credit": "Daderot · CC0 · Wikimedia Commons · кадрирование",
+    "onscreen": "Daderot · CC0 · Wikimedia Commons · кадр",
+    "size": [
+      1500,
+      600
+    ],
+    "description": "Плата калькулятора Busicom с чипом C4004 (рядом P4001, P4002); Национальный музей природы и науки, Токио, снимок 04.09.2013",
+    "cropped_from": "busicom-calculator-intel-4004-processor-nat-c4243e.jpg"
+  },
+  {
+    "file": "kalkulyator.jpg",
+    "title": "Busicom calculator - National Museum of Nature and Science, Tokyo - DSC07322.JPG",
+    "author": "Daderot",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Busicom_calculator_-_National_Museum_of_Nature_and_Science,_Tokyo_-_DSC07322.JPG",
+    "credit": "Daderot · CC0 · Wikimedia Commons · кадрирование",
+    "onscreen": "Daderot · CC0 · Wikimedia Commons · кадр",
+    "size": [
+      1600,
+      1728
+    ],
+    "description": "Печатающий калькулятор Busicom; Национальный музей природы и науки, Токио, снимок 04.09.2013",
+    "cropped_from": "busicom-calculator-national-museum-of-natur-8fbf5a.jpg"
+  },
+  {
+    "file": "topologiya.jpg",
+    "title": "Intel 4004 Chip Layout (29983532570).jpg",
+    "author": "Wolfgang Stief",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Intel_4004_Chip_Layout_(29983532570).jpg",
+    "credit": "Wolfgang Stief · CC0 · Wikimedia Commons · кадрирование",
+    "onscreen": "Wolfgang Stief · CC0 · Wikimedia Commons · кадр",
+    "size": [
+      1600,
+      1014
+    ],
+    "description": "Плакат с чертежом топологии кристалла Intel 4004, Vintage Computer Festival Berlin, 03.10.2016 (Flickr stiefkind/29983532570, FlickreviewR passed)",
+    "cropped_from": "intel-4004-chip-layout-29983532570.jpg"
+  },
+  {
+    "file": "plata-c4004.jpg",
+    "title": "Busicom calculator (Intel 4004 processor) - National Museum of Nature and Science, Tokyo - DSC07321.JPG",
+    "author": "Daderot",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Busicom_calculator_(Intel_4004_processor)_-_National_Museum_of_Nature_and_Science,_Tokyo_-_DSC07321.JPG",
+    "credit": "Daderot · CC0 · Wikimedia Commons · кадрирование",
+    "onscreen": "Daderot · CC0 · Wikimedia Commons · кадр",
+    "size": [
+      1250,
+      1060
+    ],
+    "description": "Плата калькулятора Busicom с чипом C4004 (рядом P4001, P4002); Национальный музей природы и науки, Токио, снимок 04.09.2013",
+    "cropped_from": "busicom-calculator-intel-4004-processor-nat-c4243e.jpg"
+  }
+]

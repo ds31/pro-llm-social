@@ -1,0 +1,45 @@
+[
+  {
+    "file": "kingston-full.png",
+    "title": "Один момент…",
+    "author": "kingston.com",
+    "license": "скриншот первоисточника",
+    "source": "https://www.kingston.com/en/blog/servers-and-data-centers/what-is-ecc-memory-ssd-enterprise#:~:text=When%20the%20data%20is%20later%20read",
+    "credit": "скриншот kingston.com · 30.10.2026",
+    "onscreen": "скриншот kingston.com · 30.10.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "кадр официальной страницы, с которой взята новость"
+  },
+  {
+    "file": "intel-full.png",
+    "title": "How to Find ECC Memory Support for Intel® Processor",
+    "author": "intel.com",
+    "license": "скриншот первоисточника",
+    "source": "https://www.intel.com/content/www/us/en/support/articles/000096922/processors.html#:~:text=ECC%20Memory%20Supported",
+    "credit": "скриншот intel.com · 30.10.2026",
+    "onscreen": "скриншот intel.com · 30.10.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "кадр официальной страницы, с которой взята новость"
+  },
+  {
+    "file": "intel-ecc.jpg",
+    "title": "How to Find ECC Memory Support for Intel® Processor",
+    "author": "intel.com",
+    "license": "скриншот первоисточника",
+    "source": "https://www.intel.com/content/www/us/en/support/articles/000096922/processors.html#:~:text=ECC%20Memory%20Supported",
+    "credit": "скриншот intel.com · 30.10.2026 · кадрирование",
+    "onscreen": "скриншот intel.com · 30.10.2026 · кадр",
+    "size": [
+      1220,
+      900
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "intel-full.png"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "file": "cover-fig1.jpg",
+    "title": "A Method for Animating Children's Drawings of the Human Figure (arXiv:2303.12741v2)",
+    "author": "arxiv.org",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/pdf/2303.12741v2",
+    "credit": "скриншот arxiv.org · 04.11.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org · 04.11.2026 · кадр",
+    "size": [
+      1403,
+      1213
+    ],
+    "description": "кадр первой страницы статьи (рис. 1: рисунки из демо), arXiv:2303.12741v2",
+    "cropped_from": "arxiv-pdf-zoom.png"
+  },
+  {
+    "file": "paper-fig1.jpg",
+    "title": "A Method for Animating Children's Drawings of the Human Figure (arXiv:2303.12741v2)",
+    "author": "arxiv.org",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/pdf/2303.12741v2",
+    "credit": "скриншот arxiv.org · 04.11.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org · 04.11.2026 · кадр",
+    "size": [
+      1400,
+      930
+    ],
+    "description": "кадр первой страницы статьи (рис. 1: рисунки из демо), arXiv:2303.12741v2",
+    "cropped_from": "arxiv-pdf-fig1.png"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "file": "fig5-mail.jpg",
+    "title": "Agentic Misalignment: How LLMs could be insider threats — Figure 5",
+    "author": "Anthropic · исследование Agentic Misalignment, 20.06.2025",
+    "license": "скриншот первоисточника",
+    "source": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d4ecf930303d3c5b9bdb6d953fd845eac92ffb48-3840x2160.png",
+    "credit": "рис. 5: anthropic.com/research/agentic-misalignment · скриншот 29.10.2026 · кадрирование",
+    "onscreen": "рис. 5: anthropic.com/research/agentic-misalignment · скриншот 29.10.2026",
+    "size": [
+      1688,
+      1027
+    ],
+    "description": "рисунок 5: окно нового письма, текст письма агента «Alex» руководителю (вымышленный сценарий)",
+    "cropped_from": "fig5-src.png",
+    "page": "https://www.anthropic.com/research/agentic-misalignment",
+    "license_note": "скриншот рисунка с официальной страницы исследования (картинка с её CDN www-cdn.anthropic.com), 29.10.2026, кадрирование; логотипов и людей нет"
+  },
+  {
+    "file": "fig5-wipe.jpg",
+    "title": "Agentic Misalignment: How LLMs could be insider threats — Figure 5",
+    "author": "Anthropic · исследование Agentic Misalignment, 20.06.2025",
+    "license": "скриншот первоисточника",
+    "source": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d4ecf930303d3c5b9bdb6d953fd845eac92ffb48-3840x2160.png",
+    "credit": "рис. 5: anthropic.com/research/agentic-misalignment · скриншот 29.10.2026 · кадрирование",
+    "onscreen": "рис. 5: anthropic.com/research/agentic-misalignment · скриншот 29.10.2026",
+    "size": [
+      1060,
+      90
+    ],
+    "description": "рисунок 5: строка входящего письма «Alex Wipe at 5pm Today»",
+    "cropped_from": "fig5-src.png",
+    "page": "https://www.anthropic.com/research/agentic-misalignment",
+    "license_note": "скриншот рисунка с официальной страницы исследования (картинка с её CDN www-cdn.anthropic.com), 29.10.2026, кадрирование; логотипов и людей нет"
+  },
+  {
+    "file": "fig12-rule.jpg",
+    "title": "Agentic Misalignment: How LLMs could be insider threats — Figure 12",
+    "author": "Anthropic · исследование Agentic Misalignment, 20.06.2025",
+    "license": "скриншот первоисточника",
+    "source": "https://www-cdn.anthropic.com/images/4zrzovbb/website/c1c6988a3be22b2f0cd2de650c71bbdca4742497-4096x2304.png",
+    "credit": "рис. 12: anthropic.com/research/agentic-misalignment · скриншот 29.10.2026 · кадрирование",
+    "onscreen": "рис. 12: anthropic.com/research/agentic-misalignment · скриншот 29.10.2026",
+    "size": [
+      2765,
+      1512
+    ],
+    "description": "рисунок 12: Claude Opus 4, шантаж и утечка без запрета в инструкции и с запретом",
+    "cropped_from": "fig12-src.png",
+    "page": "https://www.anthropic.com/research/agentic-misalignment",
+    "license_note": "скриншот рисунка с официальной страницы исследования (картинка с её CDN www-cdn.anthropic.com), 29.10.2026, кадрирование; логотипов и людей нет"
+  }
+]

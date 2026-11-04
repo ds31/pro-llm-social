@@ -1,0 +1,59 @@
+[
+  {
+    "file": "shoemaker-levy-9-on-1994-05-17.jpg",
+    "title": "Shoemaker-Levy 9 on 1994-05-17.png",
+    "author": "NASA, ESA, H. Weaver, E. Smith (STScI)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Shoemaker-Levy_9_on_1994-05-17.png",
+    "credit": "NASA, ESA, H. Weaver, E. Smith (STScI) · Public domain · Wikimedia Commons",
+    "onscreen": "NASA, ESA, H. Weaver, E. Smith (STScI) · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      484
+    ],
+    "description": "A NASA Hubble Space Telescope (HST) image of comet Shoemaker-Levy 9 , taken on May 17, 1994, with the Wide Field Planetary Camera 2 (WFPC2) in wide field mode. When the comet was observed, its train of 21 icy fragments stretched across 1.1 million km (710 thousand miles) of space, or 3 times the dis"
+  },
+  {
+    "file": "color-image-of-multiple-p-shoemaker-levy-9--1cc5cf.jpg",
+    "title": "Color Image of Multiple P-Shoemaker-Levy 9 Comet Impacts on Jupiter (1994-34-179).jpg",
+    "author": "Hubble Space Telescope Comet Team, NASA",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Color_Image_of_Multiple_P-Shoemaker-Levy_9_Comet_Impacts_on_Jupiter_(1994-34-179).jpg",
+    "credit": "Hubble Space Telescope Comet Team, NASA · Public domain · Wikimedia Commons",
+    "onscreen": "Hubble Space Telescope Comet Team, NASA · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1509
+    ],
+    "description": "Image of Jupiter with NASA's Hubble Space Telescope's Planetary Camera. Eight impact sights are visible. From left to right are the E/F complex (barley visible on the edge of the planet), the star shaped H site, the impact sites for tiny N, Q1, small Q2, and R, and on the far right limb the D/G comp"
+  },
+  {
+    "file": "jupiter-impact-zones-d-and-g.jpg",
+    "title": "Jupiter Impact Zones D and G.tif",
+    "author": "H. Hammel (MIT), NASA",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Jupiter_Impact_Zones_D_and_G.tif",
+    "credit": "H. Hammel (MIT), NASA · Public domain · Wikimedia Commons",
+    "onscreen": "H. Hammel (MIT), NASA · Public domain · Wikimedia Commons",
+    "size": [
+      480,
+      760
+    ],
+    "description": "This true colour image of the giant planet Jupiter, by NASA and ESA's Hubble Space Telescope, reveals the impact sites of fragments 'D' and 'G' from Comet Shoemaker-Levy 9."
+  },
+  {
+    "file": "galileo-w-crop.jpg",
+    "title": "SL9ImpactGalileo.jpg",
+    "author": "NASA/JPL",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:SL9ImpactGalileo.jpg",
+    "credit": "NASA/JPL · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/JPL · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      1110,
+      380
+    ],
+    "description": "Zdjęcie uderzenia komety Shoemaker-Levy 9 w powierzchnię Jowisza zrobione z pokładu sondy kosmicznej Galileo z odległości 238 mln km",
+    "cropped_from": "sl9impactgalileo.jpg"
+  }
+]

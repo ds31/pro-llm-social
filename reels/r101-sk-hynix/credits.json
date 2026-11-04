@@ -1,0 +1,47 @@
+[
+  {
+    "file": "hbm-kristall.jpg",
+    "title": "AMD@14nm@GCN 5th gen@Vega10@Radeon RX Vega 64@HBM DRAM Die@ Stack-DSC08974-DSC09078 - ZS-retouched.jpg",
+    "author": "Fritzchens Fritz",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:AMD@14nm@GCN_5th_gen@Vega10@Radeon_RX_Vega_64@HBM_DRAM_Die@_Stack-DSC08974-DSC09078_-_ZS-retouched.jpg",
+    "credit": "Fritzchens Fritz · CC0 · Wikimedia Commons · кадрирование",
+    "onscreen": "Fritzchens Fritz · CC0 · Wikimedia Commons · кадр",
+    "size": [
+      1170,
+      920
+    ],
+    "description": "HBM DRAM Die — кристалл памяти HBM из стопки на корпусе GPU AMD Vega 10 (Radeon RX Vega 64); снимок 25.02.2018; кадрирование: убран чёрный фон",
+    "cropped_from": "amd-14nm-gcn-5th-gen-vega10-radeon-rx-vega--3abf6d.jpg"
+  },
+  {
+    "file": "skh-vyruchka.jpg",
+    "title": "SK hynix Announces 3Q26 Financial Results",
+    "author": "news.skhynix.com",
+    "license": "скриншот первоисточника",
+    "source": "https://news.skhynix.com/en/q3-2026-business-results/",
+    "credit": "скриншот news.skhynix.com · 29.10.2026 · кадрирование",
+    "onscreen": "скриншот news.skhynix.com · 29.10.2026 · кадр",
+    "size": [
+      1540,
+      275
+    ],
+    "description": "абзац пресс-релиза SK hynix от 28.10.2026: выручка, операционная прибыль и маржа за 3-й квартал 2026",
+    "cropped_from": "skh-tablica.png"
+  },
+  {
+    "file": "skh-kontrakty.jpg",
+    "title": "SK hynix Announces 3Q26 Financial Results",
+    "author": "news.skhynix.com",
+    "license": "скриншот первоисточника",
+    "source": "https://news.skhynix.com/en/q3-2026-business-results/",
+    "credit": "скриншот news.skhynix.com · 29.10.2026 · кадрирование",
+    "onscreen": "скриншот news.skhynix.com · 29.10.2026 · кадр",
+    "size": [
+      1350,
+      170
+    ],
+    "description": "пункт пресс-релиза SK hynix от 28.10.2026: долгосрочные контракты на более чем 50% мощностей 2027–2028",
+    "cropped_from": "skh-tablica.png"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "file": "paper-full.png",
+    "title": "[2302.12173] Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Inj",
+    "author": "arxiv.org",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/abs/2302.12173",
+    "credit": "скриншот arxiv.org · 30.10.2026",
+    "onscreen": "скриншот arxiv.org · 30.10.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "кадр официальной страницы, с которой взята новость"
+  },
+  {
+    "file": "paper-title.jpg",
+    "title": "[2302.12173] Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Inj",
+    "author": "arxiv.org",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/abs/2302.12173",
+    "credit": "скриншот arxiv.org · 30.10.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org · 30.10.2026 · кадр",
+    "size": [
+      2300,
+      285
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "paper-full.png"
+  },
+  {
+    "file": "paper-abstract.jpg",
+    "title": "[2302.12173] Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Inj",
+    "author": "arxiv.org",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/abs/2302.12173",
+    "credit": "скриншот arxiv.org · 30.10.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org · 30.10.2026 · кадр",
+    "size": [
+      2240,
+      430
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "paper-full.png"
+  }
+]

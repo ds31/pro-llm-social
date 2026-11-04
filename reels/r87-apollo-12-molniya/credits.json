@@ -1,0 +1,45 @@
+[
+  {
+    "file": "apollo-12-blitzeinschlag.jpg",
+    "title": "Apollo 12 Blitzeinschlag.jpg",
+    "author": "NASA (скан: Ed Hengeveld)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Apollo_12_Blitzeinschlag.jpg",
+    "credit": "NASA, скан Ed Hengeveld · Public domain · Wikimedia Commons",
+    "onscreen": "NASA, скан Ed Hengeveld · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1108
+    ],
+    "description": "View of lightning striking near Pod 39A during the launch of Apollo XII from 16mm film."
+  },
+  {
+    "file": "apollo-12-space-vehicle-is-launched-from-pad-a.jpg",
+    "title": "Apollo 12 space vehicle is launched from Pad A.jpg",
+    "author": "NASA",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Apollo_12_space_vehicle_is_launched_from_Pad_A.jpg",
+    "credit": "NASA · Public domain · Wikimedia Commons",
+    "onscreen": "NASA · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      2240
+    ],
+    "description": "S69-58883 (14 Nov. 1969) --- The huge, 363-feet tall Apollo 12 (Spacecraft 108/Lunar Module 6/Saturn 507) space vehicle is launched from Pad A, Launch Complex 39, Kennedy Space Center (KSC), at 11:22 a.m. (EST), Nov. 14, 1969. Aboard the Apollo 12 spacecraft were astronauts Charles Conrad Jr., comma"
+  },
+  {
+    "file": "launch-top.jpg",
+    "title": "Apollo 12 space vehicle is launched from Pad A.jpg",
+    "author": "NASA",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Apollo_12_space_vehicle_is_launched_from_Pad_A.jpg",
+    "credit": "NASA · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA · Public domain · Wikimedia Commons · кадрирование",
+    "size": [
+      1920,
+      2120
+    ],
+    "description": "S69-58883 (14 Nov. 1969) --- The huge, 363-feet tall Apollo 12 (Spacecraft 108/Lunar Module 6/Saturn 507) space vehicle is launched from Pad A, Launch Complex 39, Kennedy Space Center (KSC), at 11:22 a.m. (EST), Nov. 14, 1969. Aboard the Apollo 12 spacecraft were astronauts Charles Conrad Jr., comma",
+    "cropped_from": "apollo-12-space-vehicle-is-launched-from-pad-a.jpg"
+  }
+]

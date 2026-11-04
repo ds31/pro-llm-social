@@ -1,0 +1,47 @@
+[
+  {
+    "file": "anim1074-flickr-noaa-photo-library.jpg",
+    "title": "Anim1074 - Flickr - NOAA Photo Library.jpg",
+    "author": "Adam Li, NOAA/NMFS/SWFSC (NOAA Photo Library)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Anim1074_-_Flickr_-_NOAA_Photo_Library.jpg",
+    "credit": "Adam Li, NOAA · NOAA Photo Library · Public domain",
+    "onscreen": "Adam Li, NOAA · NOAA Photo Library · Public domain",
+    "size": [
+      1600,
+      2390
+    ],
+    "description": "Underwater view of bowriding bottlenose dolphin ( Tursiops truncatus )",
+    "note": "Commons: PD-USGov-NOAA; Flickr NOAA Photo Library: CC BY 2.0, photographer Adam Li, NOAA/NMFS/SWFSC — https://www.flickr.com/photos/noaaphotolib/5187918368/"
+  },
+  {
+    "file": "common-bottlenose-dolphin-face.jpg",
+    "title": "Common bottlenose dolphin face.jpg",
+    "author": "NOAA Fisheries",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Common_bottlenose_dolphin_face.jpg",
+    "credit": "NOAA Fisheries · Public domain · Wikimedia Commons",
+    "onscreen": "NOAA Fisheries · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1065
+    ],
+    "description": "A common bottlenose dolphin (Tursiops truncatus).",
+    "note": "Первоисточник: https://www.fisheries.noaa.gov/feature-story/it-dolphin-or-porpoise («Credit: NOAA Fisheries»)"
+  },
+  {
+    "file": "anim1072-flickr-noaa-photo-library.jpg",
+    "title": "Anim1072 - Flickr - NOAA Photo Library.jpg",
+    "author": "NOAA Photo Library",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Anim1072_-_Flickr_-_NOAA_Photo_Library.jpg",
+    "credit": "NOAA Photo Library · Public domain · Wikimedia Commons",
+    "onscreen": "NOAA Photo Library · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1071
+    ],
+    "description": "Underwater view of pod of bottlenose dolphins ( Tursiops truncatus )",
+    "note": "Commons: PD-USGov-NOAA; Flickr NOAA Photo Library: CC BY 2.0 — https://www.flickr.com/photos/noaaphotolib/5187318151/"
+  }
+]

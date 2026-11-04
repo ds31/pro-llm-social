@@ -1,0 +1,45 @@
+[
+  {
+    "file": "arecibo-observatory-j-hitchcock-flickr.jpg",
+    "title": "Arecibo Observatory (J. Hitchcock) - Flickr.jpg",
+    "author": "Jeff Hitchcock",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arecibo_Observatory_(J._Hitchcock)_-_Flickr.jpg",
+    "credit": "Jeff Hitchcock · CC BY 2.0 · Wikimedia Commons",
+    "onscreen": "Jeff Hitchcock · CC BY 2.0 · Wikimedia Commons",
+    "size": [
+      1600,
+      1060
+    ],
+    "description": "Dish — Arecibo Observatory, 9 February 2014 (Flickr, reviewed by FlickreviewR 2)"
+  },
+  {
+    "file": "arecibo-site-visit-11341466936.jpg",
+    "title": "Arecibo Site Visit (11341466936).jpg",
+    "author": "National Science Foundation",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Arecibo_Site_Visit_(11341466936).jpg",
+    "credit": "NSF · Public domain · Wikimedia Commons",
+    "onscreen": "NSF · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1200
+    ],
+    "description": "Arecibo Observatory is the home of the largest single dish radio telescope on Earth. Since October 2011, the NSF facilit (photo 25.11.2013, NSF Flickr stream, PD-US-NSF)"
+  },
+  {
+    "file": "nasem-root-cause.jpg",
+    "title": "Read \"Failure Analysis of the Arecibo Observatory 305-Meter Telescope Collapse\" at NAP.edu",
+    "author": "nap.nationalacademies.org",
+    "license": "скриншот первоисточника",
+    "source": "https://nap.nationalacademies.org/read/26982/chapter/2",
+    "credit": "скриншот nap.nationalacademies.org · 29.10.2026",
+    "onscreen": "скриншот nap.nationalacademies.org · 29.10.2026",
+    "size": [
+      1440,
+      168
+    ],
+    "description": "фрагмент резюме отчёта NASEM 2024: вывод о главной причине (zinc creep)",
+    "cropped_from": "nasem-full.png"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "file": "readme-table.jpg",
+    "title": "openai/whisper",
+    "author": "github.com",
+    "license": "скриншот первоисточника",
+    "source": "https://github.com/openai/whisper",
+    "credit": "скриншот github.com · 29.10.2026 · кадрирование",
+    "onscreen": "скриншот github.com · 29.10.2026 · кадр",
+    "size": [
+      1680,
+      555
+    ],
+    "description": "README openai/whisper: таблица «Available models and languages» (Size, Parameters, Required VRAM, Relative speed)",
+    "cropped_from": "gh-whisper-full.png"
+  },
+  {
+    "file": "readme-cli.jpg",
+    "title": "openai/whisper",
+    "author": "github.com",
+    "license": "скриншот первоисточника",
+    "source": "https://github.com/openai/whisper",
+    "credit": "скриншот github.com · 29.10.2026 · кадрирование",
+    "onscreen": "скриншот github.com · 29.10.2026 · кадр",
+    "size": [
+      1740,
+      300
+    ],
+    "description": "README openai/whisper: раздел «Command-line usage», команда whisper … --model turbo",
+    "cropped_from": "gh-whisper-full.png"
+  },
+  {
+    "file": "readme-license.jpg",
+    "title": "openai/whisper",
+    "author": "github.com",
+    "license": "скриншот первоисточника",
+    "source": "https://github.com/openai/whisper",
+    "credit": "скриншот github.com · 29.10.2026 · кадрирование",
+    "onscreen": "скриншот github.com · 29.10.2026 · кадр",
+    "size": [
+      1740,
+      190
+    ],
+    "description": "README openai/whisper: раздел «License» — код и веса под MIT",
+    "cropped_from": "gh-whisper-full.png"
+  },
+  {
+    "file": "gh-about.jpg",
+    "title": "openai/whisper",
+    "author": "github.com",
+    "license": "скриншот первоисточника",
+    "source": "https://github.com/openai/whisper",
+    "credit": "скриншот github.com · 29.10.2026 · кадрирование",
+    "onscreen": "скриншот github.com · 29.10.2026 · кадр",
+    "size": [
+      600,
+      640
+    ],
+    "description": "github.com/openai/whisper: блок About (MIT license, 111.5k stars); шапка с логотипом GitHub и аватары обрезаны",
+    "cropped_from": "gh-whisper-full.png"
+  },
+  {
+    "file": "readme-head.jpg",
+    "title": "openai/whisper",
+    "author": "github.com",
+    "license": "скриншот первоисточника",
+    "source": "https://github.com/openai/whisper",
+    "credit": "скриншот github.com · 29.10.2026 · кадрирование",
+    "onscreen": "скриншот github.com · 29.10.2026 · кадр",
+    "size": [
+      1740,
+      355
+    ],
+    "description": "README openai/whisper: заголовок и первый абзац",
+    "cropped_from": "gh-whisper-full.png"
+  },
+  {
+    "file": "readme-approach.jpg",
+    "title": "openai/whisper",
+    "author": "github.com",
+    "license": "скриншот первоисточника",
+    "source": "https://github.com/openai/whisper",
+    "credit": "скриншот github.com · 29.10.2026 · кадрирование",
+    "onscreen": "скриншот github.com · 29.10.2026 · кадр",
+    "size": [
+      1680,
+      750
+    ],
+    "description": "README openai/whisper: схема «Approach» (Multitask training data (680k hours), Sequence-to-sequence learning)",
+    "cropped_from": "gh-whisper-full.png"
+  },
+  {
+    "file": "arxiv-680k.jpg",
+    "title": "[2212.04356] Robust Speech Recognition via Large-Scale Weak Supervision",
+    "author": "arxiv.org",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/abs/2212.04356",
+    "credit": "скриншот arxiv.org · 29.10.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org · 29.10.2026 · кадр",
+    "size": [
+      560,
+      62
+    ],
+    "description": "arxiv.org/abs/2212.04356: фраза аннотации «When scaled to 680,000 hours of multilingual»",
+    "cropped_from": "arxiv-abs-full.png"
+  }
+]

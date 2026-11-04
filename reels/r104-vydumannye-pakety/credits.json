@@ -1,0 +1,50 @@
+[
+  {
+    "file": "usenix-head.jpg",
+    "title": "We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs | USENIX",
+    "author": "USENIX · страница доклада на USENIX Security 2025",
+    "license": "скриншот первоисточника",
+    "source": "https://www.usenix.org/conference/usenixsecurity25/presentation/spracklen",
+    "credit": "скриншот usenix.org · 29.10.2026 · кадрирование",
+    "onscreen": "скриншот usenix.org · 29.10.2026 · кадр",
+    "size": [
+      2419,
+      1000
+    ],
+    "description": "название, авторы, «Distinguished Paper Award Winner», аннотация; шапка с логотипами USENIX отрезана",
+    "cropped_from": "usenix-page.png",
+    "license_note": "скриншот первоисточника; сама статья на arXiv — CC BY-NC-SA 4.0, поэтому рисунки статьи как самостоятельные изображения не берём, только кадр страницы с текстом"
+  },
+  {
+    "file": "repeat-43.jpg",
+    "title": "We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs",
+    "author": "Spracklen J. и др. · arXiv:2406.10279v3 (страница статьи на arxiv.org)",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/html/2406.10279v3",
+    "credit": "скриншот arxiv.org/html/2406.10279v3 · 29.10.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org/html/2406.10279v3 · 29.10.2026 · кадр",
+    "size": [
+      1630,
+      250
+    ],
+    "description": "§5.3: «43% of hallucinated packages were repeated in all 10 queries… 58% of the time… repeated more than once»",
+    "cropped_from": "arxiv-html.png",
+    "license_note": "скриншот первоисточника; сама статья на arXiv — CC BY-NC-SA 4.0, поэтому рисунки статьи как самостоятельные изображения не берём, только кадр страницы с текстом"
+  },
+  {
+    "file": "cover-1997.jpg",
+    "title": "We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs",
+    "author": "Spracklen J. и др. · arXiv:2406.10279v3 (страница статьи на arxiv.org)",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/html/2406.10279v3",
+    "credit": "скриншот arxiv.org/html/2406.10279v3 · 29.10.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org/html/2406.10279v3 · 29.10.2026 · кадр",
+    "license_note": "скриншот первоисточника; сама статья на arXiv — CC BY-NC-SA 4.0, поэтому рисунки статьи как самостоятельные изображения не берём, только кадр страницы с текстом",
+    "size": [
+      950,
+      440
+    ],
+    "cropped_from": "arxiv-html.png",
+    "description": "§5.1: «440,445 (19.7%) were determined to be hallucinations, including 205,474 unique non-existent packages»"
+  }
+]

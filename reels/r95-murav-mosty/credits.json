@@ -1,0 +1,33 @@
+[
+  {
+    "file": "eciton-burchellii-rodrigo-lazaro-323639271.jpg",
+    "title": "Eciton burchellii - rodrigo lazaro - 323639271.jpeg",
+    "author": "Rodrigo Paiva Lázaro (rodrigo_lazaro, iNaturalist)",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Eciton_burchellii_-_rodrigo_lazaro_-_323639271.jpeg",
+    "credit": "Rodrigo Paiva Lázaro · CC BY 4.0 · Wikimedia Commons",
+    "onscreen": "Rodrigo Paiva Lázaro · CC BY 4.0 · Wikimedia Commons",
+    "size": [
+      1600,
+      1468
+    ],
+    "description": "Eciton burchellii, Estrada do Dae, 1000 - Jardim Nossa Senhora das Gracas, Cotia - SP, cep - Cotia, SP, 06722-500, Brasil, 2023-09-03 (iNaturalist).",
+    "license_check": "iNaturalist API 29.10.2026: «(c) Rodrigo Paiva Lázaro, some rights reserved (CC BY)», наблюдение 185321333"
+  },
+  {
+    "file": "antbridge-vert.jpg",
+    "title": "AntBridge Crossing 01.jpg",
+    "author": "Igor Chuxlancev",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:AntBridge_Crossing_01.jpg",
+    "credit": "Igor Chuxlancev · CC BY 4.0 · Wikimedia Commons · кадрирование",
+    "onscreen": "Igor Chuxlancev · CC BY 4.0 · Wikimedia Commons · кадр",
+    "size": [
+      1440,
+      2560
+    ],
+    "description": "Ants build their-body bridge to cross the big canyon",
+    "cropped_from": "antbridge-crossing-01.jpg",
+    "note": "вертикальная вырезка 1150,0,1440,2560 из 3840-px версии; вид муравьёв не определён (Таиланд), не Eciton"
+  }
+]

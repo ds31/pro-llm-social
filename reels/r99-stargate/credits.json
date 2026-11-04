@@ -1,0 +1,118 @@
+[
+  {
+    "file": "oracle-abilene.png",
+    "title": "Abilene Data Centers | Oracle",
+    "author": "oracle.com",
+    "license": "скриншот первоисточника",
+    "source": "https://www.oracle.com/data-centers/abilene/",
+    "credit": "скриншот oracle.com · 29.10.2026",
+    "onscreen": "скриншот oracle.com · 29.10.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "кадр официальной страницы, с которой взята новость"
+  },
+  {
+    "file": "oracle-dc-full.png",
+    "title": "Data Centers",
+    "author": "oracle.com",
+    "license": "скриншот первоисточника",
+    "source": "https://www.oracle.com/data-centers/",
+    "credit": "скриншот oracle.com · 29.10.2026",
+    "onscreen": "скриншот oracle.com · 29.10.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "кадр официальной страницы, с которой взята новость"
+  },
+  {
+    "file": "abilene-aerial.jpg",
+    "title": "Abilene Data Centers | Oracle",
+    "author": "oracle.com",
+    "license": "скриншот первоисточника",
+    "source": "https://www.oracle.com/data-centers/abilene/",
+    "credit": "скриншот oracle.com · 29.10.2026 · кадрирование",
+    "onscreen": "скриншот oracle.com · 29.10.2026 · кадр",
+    "size": [
+      790,
+      505
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "oracle-abilene.png"
+  },
+  {
+    "file": "oracle-abilene-status.jpg",
+    "title": "Data Centers",
+    "author": "oracle.com",
+    "license": "скриншот первоисточника",
+    "source": "https://www.oracle.com/data-centers/",
+    "credit": "скриншот oracle.com · 29.10.2026 · кадрирование",
+    "onscreen": "скриншот oracle.com · 29.10.2026 · кадр",
+    "size": [
+      1700,
+      240
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "oracle-dc-full.png"
+  },
+  {
+    "file": "sb-20250122.png",
+    "title": "Announcing The Stargate Project | SoftBank Group Corp.",
+    "author": "group.softbank",
+    "license": "скриншот первоисточника",
+    "source": "https://group.softbank/en/news/press/20250122",
+    "credit": "скриншот group.softbank · 29.10.2026",
+    "onscreen": "скриншот group.softbank · 29.10.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "кадр официальной страницы, с которой взята новость"
+  },
+  {
+    "file": "sb-20250924.png",
+    "title": "OpenAI, Oracle, and SoftBank expand Stargate with five new AI data center sites | SoftBank Group Corp.",
+    "author": "group.softbank",
+    "license": "скриншот первоисточника",
+    "source": "https://group.softbank/en/news/press/20250924",
+    "credit": "скриншот group.softbank · 29.10.2026",
+    "onscreen": "скриншот group.softbank · 29.10.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "кадр официальной страницы, с которой взята новость"
+  },
+  {
+    "file": "sb-stargate-announce.jpg",
+    "title": "Announcing The Stargate Project | SoftBank Group Corp.",
+    "author": "group.softbank",
+    "license": "скриншот первоисточника",
+    "source": "https://group.softbank/en/news/press/20250122",
+    "credit": "скриншот group.softbank · 29.10.2026 · кадрирование",
+    "onscreen": "скриншот group.softbank · 29.10.2026 · кадр",
+    "size": [
+      1980,
+      940
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "sb-20250122.png"
+  },
+  {
+    "file": "sb-five-sites-head.jpg",
+    "title": "OpenAI, Oracle, and SoftBank expand Stargate with five new AI data center sites | SoftBank Group Corp.",
+    "author": "group.softbank",
+    "license": "скриншот первоисточника",
+    "source": "https://group.softbank/en/news/press/20250924",
+    "credit": "скриншот group.softbank · 29.10.2026 · кадрирование",
+    "onscreen": "скриншот group.softbank · 29.10.2026 · кадр",
+    "size": [
+      1980,
+      360
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "sb-20250924.png"
+  }
+]

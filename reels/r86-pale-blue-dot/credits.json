@@ -1,0 +1,59 @@
+[
+  {
+    "file": "pale-blue-dot-from-voyager-1-pia23645.jpg",
+    "title": "Pale Blue Dot from Voyager 1 - PIA23645.png",
+    "author": "NASA/JPL-Caltech",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Pale_Blue_Dot_from_Voyager_1_-_PIA23645.png",
+    "credit": "NASA/JPL-Caltech · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL-Caltech · Public domain · Wikimedia Commons",
+    "size": [
+      3840,
+      3800
+    ],
+    "description": "For the 30th anniversary of one of the most iconic images taken by NASA's Voyager mission, a new version of the image known as \"the Pale Blue Dot.\" Planet Earth is visible as a bright speck within the sunbeam just right of center and appears softly blue, as in the original version published in 1990 "
+  },
+  {
+    "file": "family-portrait-voyager-1.jpg",
+    "title": "Family portrait (Voyager 1).png",
+    "author": "NASA/JPL-Caltech (Voyager 1)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Family_portrait_(Voyager_1).png",
+    "credit": "NASA/JPL-Caltech · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL-Caltech · Public domain · Wikimedia Commons",
+    "size": [
+      3840,
+      1152
+    ],
+    "description": "Original Caption Released with Image: The cameras of Voyager 1 on Feb. 14, 1990, pointed back toward the sun and took a series of pictures of the sun and the planets, making the first ever \"portrait\" of our solar system as seen from the outside. In the course of taking this mosaic consisting of a to"
+  },
+  {
+    "file": "view-of-the-sun-earth-and-venus-from-voyager-1.jpg",
+    "title": "View of the Sun, Earth and Venus from Voyager 1.png",
+    "author": "NASA/JPL",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_the_Sun,_Earth_and_Venus_from_Voyager_1.png",
+    "credit": "NASA/JPL · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL · Public domain · Wikimedia Commons",
+    "size": [
+      1920,
+      1483
+    ],
+    "description": "This color image of the sun, Earth and Venus was taken by the Voyager 1 spacecraft Feb. 14, 1990, when it was approximately 32 degrees above the plane of the ecliptic and at a slant-range distance of approximately 4 billion miles. It is the first -- and may be the only -- time that we will ever see "
+  },
+  {
+    "file": "pale-blue-dot-earth-crop.jpg",
+    "title": "Pale Blue Dot from Voyager 1 - PIA23645.png",
+    "author": "NASA/JPL-Caltech",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Pale_Blue_Dot_from_Voyager_1_-_PIA23645.png",
+    "credit": "NASA/JPL-Caltech · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/JPL-Caltech · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      1000,
+      1100
+    ],
+    "description": "For the 30th anniversary of one of the most iconic images taken by NASA's Voyager mission, a new version of the image known as \"the Pale Blue Dot.\" Planet Earth is visible as a bright speck within the sunbeam just right of center and appears softly blue, as in the original version published in 1990 ",
+    "cropped_from": "pale-blue-dot-from-voyager-1-pia23645.jpg"
+  }
+]
