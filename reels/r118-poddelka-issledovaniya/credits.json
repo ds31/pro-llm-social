@@ -1,0 +1,49 @@
+[
+  {
+    "file": "abs-page.jpg",
+    "title": "Tampered ML: Evaluating LLM Judgment of Machine Learning Research (arXiv:2610.32114)",
+    "author": "arxiv.org · страница статьи arXiv:2610.32114",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/abs/2610.32114",
+    "credit": "скриншот arxiv.org · 07.11.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org · 07.11.2026 · кадр",
+    "size": [
+      1424,
+      712
+    ],
+    "description": "дата, название, авторы, аннотация; колонка аннотации сужена через --js для читаемости, текст не менялся; шапка с логотипом arXiv и значок CC отрезаны",
+    "cropped_from": "arxiv-narrow.png"
+  },
+  {
+    "file": "fig1.jpg",
+    "title": "Tampered ML: Evaluating LLM Judgment of Machine Learning Research — Figure 1",
+    "author": "Ebadian S., Alamdari P. A., Benton J., Joren H. · arXiv:2610.32114",
+    "license": "CC BY 4.0",
+    "source": "https://arxiv.org/pdf/2610.32114v1",
+    "credit": "Ebadian и др., arXiv:2610.32114, 2026 · CC BY 4.0 · кадрирование",
+    "onscreen": "Ebadian и др., arXiv:2610.32114 · CC BY 4.0 · кадр",
+    "size": [
+      1900,
+      735
+    ],
+    "description": "рисунок 1 статьи: точность 22 моделей на 1 858 парах (стр. 2 PDF v1)",
+    "license_note": "arXiv: лицензия статьи CC BY 4.0 (страница arxiv.org/abs/2610.32114 → creativecommons.org/licenses/by/4.0), проверено 07.11.2026",
+    "cropped_from": "pdf-p2.png"
+  },
+  {
+    "file": "fig2-heuristics.jpg",
+    "title": "Tampered ML: Evaluating LLM Judgment of Machine Learning Research — Figure 2",
+    "author": "Ebadian S., Alamdari P. A., Benton J., Joren H. · arXiv:2610.32114",
+    "license": "CC BY 4.0",
+    "source": "https://arxiv.org/pdf/2610.32114v1",
+    "credit": "Ebadian и др., arXiv:2610.32114, 2026 · CC BY 4.0 · кадрирование",
+    "onscreen": "Ebadian и др., arXiv:2610.32114 · CC BY 4.0 · кадр",
+    "size": [
+      950,
+      490
+    ],
+    "description": "рисунок 2 статьи, панели Specificity as rigor и Convention as validity (стр. 2 PDF v1)",
+    "license_note": "arXiv: лицензия статьи CC BY 4.0 (страница arxiv.org/abs/2610.32114 → creativecommons.org/licenses/by/4.0), проверено 07.11.2026",
+    "cropped_from": "pdf-p2.png"
+  }
+]

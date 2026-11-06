@@ -1,0 +1,66 @@
+[
+  {
+    "file": "abs-title.jpg",
+    "title": "[2603.15220] InterPol: De-anonymizing LM Arena via Interpolated Preference Learning",
+    "author": "arXiv.org · страница статьи 2603.15220v3",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/abs/2603.15220v3",
+    "credit": "скриншот arxiv.org/abs/2603.15220 · 07.11.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org/abs/2603.15220 · 07.11.2026",
+    "size": [
+      1640,
+      170
+    ],
+    "description": "страница статьи на arXiv: дата подачи и версии, название, авторы (без шапки с логотипом arXiv)",
+    "cropped_from": "arxiv-abs.png"
+  },
+  {
+    "file": "abs-award.jpg",
+    "title": "[2603.15220] InterPol: De-anonymizing LM Arena via Interpolated Preference Learning",
+    "author": "arXiv.org · страница статьи 2603.15220v3",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/abs/2603.15220v3",
+    "credit": "скриншот arxiv.org/abs/2603.15220 · 07.11.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org/abs/2603.15220 · 07.11.2026",
+    "size": [
+      540,
+      44
+    ],
+    "description": "строка Comments на странице arXiv: «EMNLP 2026 (SAC highlight award)»",
+    "cropped_from": "arxiv-abs.png"
+  },
+  {
+    "file": "fig2-initial.jpg",
+    "title": "InterPol: De-anonymizing LM Arena via Interpolated Preference Learning — Figure 2",
+    "author": "Cho M., Kim J. (Yonsei University) · arXiv:2603.15220",
+    "license": "CC BY 4.0",
+    "source": "https://arxiv.org/html/2603.15220v3/gemini_pro_initial.png",
+    "credit": "рис. 2: Cho, Kim, arXiv:2603.15220, 2026 · CC BY 4.0 · кадрирование",
+    "onscreen": "рис. 2: Cho, Kim, arXiv:2603.15220 · CC BY 4.0",
+    "size": [
+      2756,
+      1800
+    ],
+    "description": "рисунок 2(a): оценки детектора до обучения — красный (Gemini 2.5 Pro) смешан с остальными моделями",
+    "cropped_from": "fig2-gemini_pro_initial.png",
+    "license_note": "arXiv: «License: CC BY 4.0» (creativecommons.org/licenses/by/4.0), скриншот рисунка 07.11.2026, обрезаны тёмные поля просмотрщика",
+    "paper": "https://arxiv.org/abs/2603.15220"
+  },
+  {
+    "file": "fig2-iterative.jpg",
+    "title": "InterPol: De-anonymizing LM Arena via Interpolated Preference Learning — Figure 2",
+    "author": "Cho M., Kim J. (Yonsei University) · arXiv:2603.15220",
+    "license": "CC BY 4.0",
+    "source": "https://arxiv.org/html/2603.15220v3/gemini_pro_iterative.png",
+    "credit": "рис. 2: Cho, Kim, arXiv:2603.15220, 2026 · CC BY 4.0 · кадрирование",
+    "onscreen": "рис. 2: Cho, Kim, arXiv:2603.15220 · CC BY 4.0",
+    "size": [
+      2756,
+      1800
+    ],
+    "description": "рисунок 2(c): оценки детектора после двух этапов обучения — красный (Gemini 2.5 Pro) отделился вправо",
+    "cropped_from": "fig2-gemini_pro_iterative.png",
+    "license_note": "arXiv: «License: CC BY 4.0» (creativecommons.org/licenses/by/4.0), скриншот рисунка 07.11.2026, обрезаны тёмные поля просмотрщика",
+    "paper": "https://arxiv.org/abs/2603.15220"
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "file": "cover-meta.jpg",
+    "title": "Omnilingual MT: Machine Translation for 1,600 Languages | Research - AI at Meta",
+    "author": "ai.meta.com · страница публикации",
+    "license": "скриншот первоисточника",
+    "source": "https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/",
+    "credit": "скриншот ai.meta.com · 07.11.2026 · кадрирование",
+    "onscreen": "скриншот ai.meta.com · 07.11.2026 · кадр",
+    "size": [
+      1742,
+      666
+    ],
+    "description": "карточка страницы Meta: название «Omnilingual MT: Machine Translation for 1,600 Languages», March 17, 2026; шапка с логотипом Meta отрезана",
+    "cropped_from": "meta-page.png"
+  },
+  {
+    "file": "abs-70b.jpg",
+    "title": "Omnilingual MT: Machine Translation for 1,600 Languages",
+    "author": "Omnilingual MT Team (Meta) · arXiv:2603.16309v3 (страница статьи на arxiv.org)",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/html/2603.16309v3",
+    "credit": "скриншот arxiv.org · 07.11.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org · 07.11.2026 · кадр",
+    "size": [
+      1640,
+      150
+    ],
+    "description": "аннотация HTML v3: «all our 1B to 8B parameter models match or exceed the MT performance of a 70B LLM baseline»; шапка arXiv с логотипом отрезана",
+    "cropped_from": "arxiv-html-abs.png",
+    "license_note": "скриншот первоисточника; сама статья на arXiv — CC BY-SA 4.0, поэтому рисунки статьи как самостоятельные изображения не берём, только кадр страницы с текстом"
+  },
+  {
+    "file": "bible-300-400.jpg",
+    "title": "Omnilingual MT: Machine Translation for 1,600 Languages",
+    "author": "Omnilingual MT Team (Meta) · arXiv:2603.16309v3 (страница статьи на arxiv.org)",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/html/2603.16309v3",
+    "credit": "скриншот arxiv.org · 07.11.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org · 07.11.2026 · кадр",
+    "size": [
+      1640,
+      215
+    ],
+    "description": "§9.1.3 HTML v3: «near-random-level at about 300-400 languages, while for OMT models, it holds for about ≈1,200 languages»; рисунок 9.5 не взят",
+    "cropped_from": "arxiv-html-bible.png",
+    "license_note": "скриншот первоисточника; сама статья на arXiv — CC BY-SA 4.0, поэтому рисунки статьи как самостоятельные изображения не берём, только кадр страницы с текстом"
+  },
+  {
+    "file": "emnlp-award.jpg",
+    "title": "Best Paper - EMNLP 2026",
+    "author": "2026.emnlp.org · страница наград EMNLP 2026",
+    "license": "скриншот первоисточника",
+    "source": "https://2026.emnlp.org/program/awards_papers/",
+    "credit": "скриншот 2026.emnlp.org · 07.11.2026 · кадрирование",
+    "onscreen": "скриншот 2026.emnlp.org · 07.11.2026 · кадр",
+    "size": [
+      1300,
+      180
+    ],
+    "description": "2026.emnlp.org/program/awards_papers/, раздел Outstanding Papers, запись 7 — название работы и первые авторы",
+    "cropped_from": "emnlp-view.png"
+  }
+]

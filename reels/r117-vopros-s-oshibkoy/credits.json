@@ -1,0 +1,102 @@
+[
+  {
+    "file": "awards-xybench.jpg",
+    "title": "Best Paper - EMNLP 2026",
+    "author": "EMNLP 2026 · страница наград",
+    "license": "скриншот первоисточника",
+    "source": "https://2026.emnlp.org/program/awards_papers/",
+    "credit": "скриншот 2026.emnlp.org/program/awards_papers · 07.11.2026 · кадрирование",
+    "onscreen": "скриншот 2026.emnlp.org · 07.11.2026",
+    "size": [
+      1289,
+      389
+    ],
+    "description": "раздел «Best Resource Paper»: XYBench и авторы",
+    "cropped_from": "emnlp-awards.png"
+  },
+  {
+    "file": "fig4-human.jpg",
+    "title": "XYBench: Can LLMs Respond Pragmatically to Queries with Misconceptions? — Figure 4",
+    "author": "Yerukola A., Hwang J. D., Zheng M. и др. (CMU, Allen Institute for AI, NVIDIA, Johns Hopkins) · arXiv:2609.06842",
+    "license": "CC BY 4.0",
+    "source": "https://arxiv.org/html/2609.06842v1#A1.F4",
+    "credit": "рис. 4: Yerukola и др., arXiv:2609.06842, 2026 · CC BY 4.0 · кадрирование",
+    "onscreen": "рис. 4: Yerukola и др., arXiv:2609.06842 · CC BY 4.0 · кадр",
+    "size": [
+      900,
+      238
+    ],
+    "description": "рисунок 4: ответ человека — «absolutely brutal idea. Just make a first name and last name form field»",
+    "cropped_from": "arxiv-fig4.png",
+    "license_note": "arXiv: статья под CC BY 4.0 (creativecommons.org/licenses/by/4.0), скриншот 07.11.2026, кадрирование; лицо-эмодзи с рис. 1 в кадр не попадает",
+    "paper": "https://arxiv.org/abs/2609.06842"
+  },
+  {
+    "file": "fig4-claude.jpg",
+    "title": "XYBench: Can LLMs Respond Pragmatically to Queries with Misconceptions? — Figure 4",
+    "author": "Yerukola A., Hwang J. D., Zheng M. и др. (CMU, Allen Institute for AI, NVIDIA, Johns Hopkins) · arXiv:2609.06842",
+    "license": "CC BY 4.0",
+    "source": "https://arxiv.org/html/2609.06842v1#A1.F4",
+    "credit": "рис. 4: Yerukola и др., arXiv:2609.06842, 2026 · CC BY 4.0 · кадрирование",
+    "onscreen": "рис. 4: Yerukola и др., arXiv:2609.06842 · CC BY 4.0 · кадр",
+    "size": [
+      965,
+      274
+    ],
+    "description": "рисунок 4: ответ Claude Sonnet 4.6 — функция с preg_match",
+    "cropped_from": "arxiv-fig4.png",
+    "license_note": "arXiv: статья под CC BY 4.0 (creativecommons.org/licenses/by/4.0), скриншот 07.11.2026, кадрирование; лицо-эмодзи с рис. 1 в кадр не попадает",
+    "paper": "https://arxiv.org/abs/2609.06842"
+  },
+  {
+    "file": "fig1-answers.jpg",
+    "title": "XYBench: Can LLMs Respond Pragmatically to Queries with Misconceptions? — Figure 1",
+    "author": "Yerukola A., Hwang J. D., Zheng M. и др. (CMU, Allen Institute for AI, NVIDIA, Johns Hopkins) · arXiv:2609.06842",
+    "license": "CC BY 4.0",
+    "source": "https://arxiv.org/html/2609.06842v1/intro_figure_xy.png",
+    "credit": "рис. 1: Yerukola и др., arXiv:2609.06842, 2026 · CC BY 4.0 · кадрирование",
+    "onscreen": "рис. 1: Yerukola и др., arXiv:2609.06842 · CC BY 4.0 · кадр",
+    "size": [
+      677,
+      933
+    ],
+    "description": "рисунок 1, правая колонка: три части ответа — буквальный, ошибка, настоящая задача",
+    "cropped_from": "arxiv-fig1.png",
+    "license_note": "arXiv: статья под CC BY 4.0 (creativecommons.org/licenses/by/4.0), скриншот 07.11.2026, кадрирование; лицо-эмодзи с рис. 1 в кадр не попадает",
+    "paper": "https://arxiv.org/abs/2609.06842"
+  },
+  {
+    "file": "fig1-ask.jpg",
+    "title": "XYBench: Can LLMs Respond Pragmatically to Queries with Misconceptions? — Figure 1",
+    "author": "Yerukola A., Hwang J. D., Zheng M. и др. (CMU, Allen Institute for AI, NVIDIA, Johns Hopkins) · arXiv:2609.06842",
+    "license": "CC BY 4.0",
+    "source": "https://arxiv.org/html/2609.06842v1/intro_figure_xy.png",
+    "credit": "рис. 1: Yerukola и др., arXiv:2609.06842, 2026 · CC BY 4.0 · кадрирование",
+    "onscreen": "рис. 1: Yerukola и др., arXiv:2609.06842 · CC BY 4.0 · кадр",
+    "size": [
+      638,
+      274
+    ],
+    "description": "рисунок 1, правая колонка: вопрос «How do I drive a screw with a hammer?» (Stated Request)",
+    "cropped_from": "arxiv-fig1.png",
+    "license_note": "arXiv: статья под CC BY 4.0 (creativecommons.org/licenses/by/4.0), скриншот 07.11.2026, кадрирование; лицо-эмодзи с рис. 1 в кадр не попадает",
+    "paper": "https://arxiv.org/abs/2609.06842"
+  },
+  {
+    "file": "fig1-literal.jpg",
+    "title": "XYBench: Can LLMs Respond Pragmatically to Queries with Misconceptions? — Figure 1",
+    "author": "Yerukola A., Hwang J. D., Zheng M. и др. (CMU, Allen Institute for AI, NVIDIA, Johns Hopkins) · arXiv:2609.06842",
+    "license": "CC BY 4.0",
+    "source": "https://arxiv.org/html/2609.06842v1/intro_figure_xy.png",
+    "credit": "рис. 1: Yerukola и др., arXiv:2609.06842, 2026 · CC BY 4.0 · кадрирование",
+    "onscreen": "рис. 1: Yerukola и др., arXiv:2609.06842 · CC BY 4.0 · кадр",
+    "size": [
+      648,
+      194
+    ],
+    "description": "рисунок 1, правая колонка, ответ 1) «Hit the screw carefully with a hammer.»",
+    "cropped_from": "arxiv-fig1.png",
+    "license_note": "arXiv: статья под CC BY 4.0 (creativecommons.org/licenses/by/4.0), скриншот 07.11.2026, кадрирование; лицо-эмодзи с рис. 1 в кадр не попадает",
+    "paper": "https://arxiv.org/abs/2609.06842"
+  }
+]

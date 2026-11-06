@@ -1,0 +1,110 @@
+[
+  {
+    "file": "acl-page.png",
+    "title": "The Cost of Sounding Different: Accent Bias in Audio Language Models - ACL Anthology",
+    "author": "aclanthology.org",
+    "license": "скриншот первоисточника",
+    "source": "https://aclanthology.org/2026.emnlp-main.1612/",
+    "credit": "скриншот aclanthology.org · 07.11.2026",
+    "onscreen": "скриншот aclanthology.org · 07.11.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "страница статьи в ACL Anthology целиком (первый экран), исходник для acl-title.jpg; лежит в research-media",
+    "license_note": "скриншот первоисточника; статьи ACL Anthology с 2016 г. выходят под CC BY 4.0"
+  },
+  {
+    "file": "pdf-p1.png",
+    "title": "",
+    "author": "aclanthology.org",
+    "license": "скриншот первоисточника",
+    "source": "https://aclanthology.org/2026.emnlp-main.1612.pdf",
+    "credit": "скриншот aclanthology.org · 07.11.2026",
+    "onscreen": "скриншот aclanthology.org · 07.11.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "первая страница PDF в просмотрщике Chrome; в ролик не взята (на рис. 1 флаги); лежит в research-media",
+    "license_note": "скриншот первоисточника; статьи ACL Anthology с 2016 г. выходят под CC BY 4.0"
+  },
+  {
+    "file": "pdf-p8.png",
+    "title": "",
+    "author": "aclanthology.org",
+    "license": "скриншот первоисточника",
+    "source": "https://aclanthology.org/2026.emnlp-main.1612.pdf",
+    "credit": "скриншот aclanthology.org · 07.11.2026",
+    "onscreen": "скриншот aclanthology.org · 07.11.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "стр. 8 PDF (табл. 1), исходник для table1.jpg; лежит в research-media",
+    "license_note": "скриншот первоисточника; статьи ACL Anthology с 2016 г. выходят под CC BY 4.0"
+  },
+  {
+    "file": "pdf-p8-fig5.png",
+    "title": "",
+    "author": "aclanthology.org",
+    "license": "скриншот первоисточника",
+    "source": "https://aclanthology.org/2026.emnlp-main.1612.pdf",
+    "credit": "скриншот aclanthology.org · 07.11.2026",
+    "onscreen": "скриншот aclanthology.org · 07.11.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "стр. 8 PDF (рис. 5), исходник для fig5.jpg; лежит в research-media",
+    "license_note": "скриншот первоисточника; статьи ACL Anthology с 2016 г. выходят под CC BY 4.0"
+  },
+  {
+    "file": "table1.jpg",
+    "title": "",
+    "author": "aclanthology.org",
+    "license": "скриншот первоисточника",
+    "source": "https://aclanthology.org/2026.emnlp-main.1612.pdf",
+    "credit": "скриншот aclanthology.org · 07.11.2026 · кадрирование",
+    "onscreen": "скриншот aclanthology.org · 07.11.2026 · кадр",
+    "size": [
+      1730,
+      1270
+    ],
+    "description": "табл. 1 статьи: примеры объяснений моделей в задаче «найм, оценка подачи» по пяти акцентам",
+    "cropped_from": "pdf-p8.png",
+    "license_note": "скриншот первоисточника; статьи ACL Anthology с 2016 г. выходят под CC BY 4.0"
+  },
+  {
+    "file": "acl-title.jpg",
+    "title": "The Cost of Sounding Different: Accent Bias in Audio Language Models - ACL Anthology",
+    "author": "aclanthology.org",
+    "license": "скриншот первоисточника",
+    "source": "https://aclanthology.org/2026.emnlp-main.1612/",
+    "credit": "скриншот aclanthology.org · 07.11.2026 · кадрирование",
+    "onscreen": "скриншот aclanthology.org · 07.11.2026 · кадр",
+    "size": [
+      2063,
+      970
+    ],
+    "description": "страница статьи в ACL Anthology: название, авторы, аннотация; шапка с логотипом ACL отрезана",
+    "cropped_from": "acl-page.png",
+    "license_note": "скриншот первоисточника; статьи ACL Anthology с 2016 г. выходят под CC BY 4.0"
+  },
+  {
+    "file": "fig5.jpg",
+    "title": "",
+    "author": "aclanthology.org",
+    "license": "скриншот первоисточника",
+    "source": "https://aclanthology.org/2026.emnlp-main.1612.pdf",
+    "credit": "скриншот aclanthology.org · 07.11.2026 · кадрирование",
+    "onscreen": "скриншот aclanthology.org · 07.11.2026 · кадр",
+    "size": [
+      870,
+      420
+    ],
+    "description": "рис. 5 статьи: разрыв между акцентами в тоне объяснений, живые и синтетические голоса",
+    "cropped_from": "pdf-p8-fig5.png",
+    "license_note": "скриншот первоисточника; статьи ACL Anthology с 2016 г. выходят под CC BY 4.0"
+  }
+]
