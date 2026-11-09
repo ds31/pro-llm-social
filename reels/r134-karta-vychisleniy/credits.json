@@ -1,0 +1,62 @@
+[
+  {
+    "file": "epoch-map-us.jpg",
+    "title": "Data on AI chip imports | Epoch AI",
+    "author": "Epoch AI (epoch.ai), подложка © Mapbox © OpenStreetMap",
+    "license": "скриншот первоисточника",
+    "source": "https://epoch.ai/data/ai-chip-imports?view=map&tab=h100_equivalents",
+    "credit": "скриншот epoch.ai · 09.11.2026 · кадрирование · карта © Mapbox © OpenStreetMap",
+    "onscreen": "скриншот epoch.ai · 09.11.2026 · карта © Mapbox © OpenStreetMap",
+    "size": [
+      1398,
+      966
+    ],
+    "description": "Та же карта, вырезка Северная Америка — Атлантика: США самые тёмные. Обложка.",
+    "cropped_from": "epoch-map-page.png (полный скриншот страницы, в ролик не идёт)"
+  },
+  {
+    "file": "epoch-imports-title.jpg",
+    "title": "Where are the world's AI chips? | Epoch AI",
+    "author": "Epoch AI (epoch.ai)",
+    "license": "скриншот первоисточника",
+    "source": "https://epoch.ai/latest/introducing-the-ai-chip-imports-explorer",
+    "credit": "скриншот epoch.ai · 09.11.2026 · кадрирование",
+    "onscreen": "скриншот epoch.ai · 09.11.2026 · кадр",
+    "size": [
+      1310,
+      540
+    ],
+    "description": "Шапка поста: Update · Oct. 27, 2026, заголовок и подзаголовок с 72% и 10%. Без логотипа, кнопок и фото авторов.",
+    "cropped_from": "epoch-imports-page.png (полный скриншот страницы, в ролик не идёт)"
+  },
+  {
+    "file": "epoch-huawei-chart.jpg",
+    "title": "What Huawei’s Horinger data center reveals about China’s compute gap | Epoch AI",
+    "author": "Epoch AI (B. Cottier)",
+    "license": "CC BY 4.0",
+    "source": "https://epoch.ai/publications/huawei-horinger-china-compute-gap",
+    "credit": "график: Epoch AI · CC BY 4.0 · epoch.ai · скриншот 09.11.2026",
+    "onscreen": "график: Epoch AI · CC BY 4.0 · epoch.ai",
+    "size": [
+      1310,
+      1130
+    ],
+    "description": "График Epoch AI (CC BY): Huawei Horinger ≈ 7% от Colossus 2 в H100-эквивалентах. Без примечания и логотипа.",
+    "cropped_from": "epoch-huawei-page.png (полный скриншот страницы, в ролик не идёт)"
+  },
+  {
+    "file": "epoch-map.jpg",
+    "title": "Data on AI chip imports | Epoch AI",
+    "author": "Epoch AI (epoch.ai), подложка © Mapbox © OpenStreetMap",
+    "license": "скриншот первоисточника",
+    "source": "https://epoch.ai/data/ai-chip-imports?view=map&tab=h100_equivalents",
+    "credit": "скриншот epoch.ai · 09.11.2026 · кадрирование · карта © Mapbox © OpenStreetMap",
+    "onscreen": "скриншот epoch.ai · 09.11.2026 · карта © Mapbox © OpenStreetMap",
+    "size": [
+      2214,
+      1000
+    ],
+    "description": "Карта Compute capacity (H100e) · through 2026 Q2 из AI Chip Imports explorer (вид Map, панель настроек свёрнута). Без легенды, логотипа Epoch и значка Mapbox.",
+    "cropped_from": "epoch-map-page.png (полный скриншот страницы, в ролик не идёт)"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "file": "fig1-bars.jpg",
+    "title": "FrontierPhysics — Figure 1 (leaderboard), столбики без подписей",
+    "author": "You B., Ke W., Rosenauer R., Liu B. и др. · arXiv:2611.06910",
+    "license": "CC BY 4.0",
+    "source": "https://arxiv.org/pdf/2611.06910v1",
+    "credit": "You и др., arXiv:2611.06910, 2026 · CC BY 4.0 · кадрирование",
+    "onscreen": "You и др., arXiv:2611.06910 · CC BY 4.0 · кадр",
+    "size": [
+      1650,
+      392
+    ],
+    "description": "рис. 1 статьи (стр. 1 PDF v1): доля пройденных прогонов у 22 моделей; строка значков компаний и подписи моделей отрезаны (логотипы)",
+    "license_note": "arXiv: лицензия статьи CC BY 4.0 (страница arxiv.org/abs/2611.06910 → creativecommons.org/licenses/by/4.0), проверено 09.11.2026",
+    "cropped_from": "research-media/pdf-p1.png"
+  },
+  {
+    "file": "abs-abstract.jpg",
+    "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research (arXiv:2611.06910)",
+    "author": "arxiv.org · страница статьи arXiv:2611.06910",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/abs/2611.06910",
+    "credit": "скриншот arxiv.org · 09.11.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org · 09.11.2026 · кадр",
+    "size": [
+      1120,
+      565
+    ],
+    "description": "аннотация целиком",
+    "cropped_from": "research-media/arxiv-narrow.png",
+    "license_note": "скриншот страницы-первоисточника arxiv.org/abs/2611.06910 (fetch_media.py --shot, 09.11.2026); колонка сужена через --js для читаемости, текст не менялся; шапка с логотипом arXiv отрезана. Лицензия статьи — CC BY 4.0"
+  },
+  {
+    "file": "abs-top.jpg",
+    "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research (arXiv:2611.06910)",
+    "author": "arxiv.org · страница статьи arXiv:2611.06910",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/abs/2611.06910",
+    "credit": "скриншот arxiv.org · 09.11.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org · 09.11.2026 · кадр",
+    "size": [
+      1230,
+      486
+    ],
+    "description": "дата подачи, название, первые авторы (обложка)",
+    "cropped_from": "research-media/arxiv-narrow.png",
+    "license_note": "скриншот страницы-первоисточника arxiv.org/abs/2611.06910 (fetch_media.py --shot, 09.11.2026); колонка сужена через --js для читаемости, текст не менялся; шапка с логотипом arXiv отрезана. Лицензия статьи — CC BY 4.0"
+  }
+]

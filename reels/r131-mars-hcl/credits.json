@@ -1,0 +1,45 @@
+[
+  {
+    "file": "alba-mons-zoom.jpg",
+    "title": "Alba Mons zoom.jpg",
+    "author": "NASA/JPL/USGS",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Alba_Mons_zoom.jpg",
+    "credit": "NASA/JPL/USGS · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL/USGS · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1249
+    ],
+    "description": "Zoom sur le volcan bouclier Alba Mons"
+  },
+  {
+    "file": "alba-fossae.jpg",
+    "title": "Alba fossae.jpg",
+    "author": "NASA/JPL-Caltech/ASU (THEMIS, Mars Odyssey)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Alba_fossae.jpg",
+    "credit": "NASA/JPL-Caltech/ASU · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL-Caltech/ASU · Public domain · Wikimedia Commons",
+    "size": [
+      1024,
+      2049
+    ],
+    "description": "NASA's Jet Propulsion Laboratory manages the 2001 Mars Odyssey mission for NASA's Science Mission Directorate, Washington, D.C. The Thermal Emission Imaging System (THEMIS) was developed by Arizona State University, Tempe, in collaboration with Raytheon Santa Barbara Remote Sensing. The THEMIS inves"
+  },
+  {
+    "file": "alba-themis-caldera.jpg",
+    "title": "Alba Patera based on THEMIS Day IR.png",
+    "author": "NASA (THEMIS, Mars Odyssey), мозаика — Chmee2",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Alba_Patera_based_on_THEMIS_Day_IR.png",
+    "credit": "NASA, THEMIS · мозаика Chmee2 · Public domain · Wikimedia Commons",
+    "onscreen": "NASA, THEMIS · мозаика Chmee2 · Public domain · Wikimedia Commons",
+    "size": [
+      1000,
+      1360
+    ],
+    "description": "Image of volcano Alba Patera on Mars.",
+    "cropped_from": "alba-patera-based-on-themis-day-ir.jpg"
+  }
+]
