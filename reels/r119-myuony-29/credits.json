@@ -1,0 +1,47 @@
+[
+  {
+    "file": "ring-magnets.jpg",
+    "title": "Storage ring.jpg",
+    "author": "CERN",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Storage_ring.jpg",
+    "credit": "CERN, 1974 · CC BY 4.0 · Wikimedia Commons · кадрирование",
+    "onscreen": "CERN, 1974 · CC BY 4.0 · Wikimedia Commons",
+    "size": [
+      499,
+      600
+    ],
+    "description": "The storage ring of the muon g-2 experiment at CERN (CDS 41876, 1974). Вырезка без людей.",
+    "cropped_from": "storage-ring.jpg"
+  },
+  {
+    "file": "ring-left.jpg",
+    "title": "Storage ring.jpg",
+    "author": "CERN",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Storage_ring.jpg",
+    "credit": "CERN, 1974 · CC BY 4.0 · Wikimedia Commons · кадрирование",
+    "onscreen": "CERN, 1974 · CC BY 4.0 · Wikimedia Commons",
+    "size": [
+      790,
+      415
+    ],
+    "description": "The storage ring of the muon g-2 experiment at CERN (CDS 41876, 1974). Вырезка без людей.",
+    "cropped_from": "storage-ring.jpg"
+  },
+  {
+    "file": "ring-far.jpg",
+    "title": "Storage ring.jpg",
+    "author": "CERN",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Storage_ring.jpg",
+    "credit": "CERN, 1974 · CC BY 4.0 · Wikimedia Commons · кадрирование",
+    "onscreen": "CERN, 1974 · CC BY 4.0 · Wikimedia Commons",
+    "size": [
+      1129,
+      240
+    ],
+    "description": "The storage ring of the muon g-2 experiment at CERN (CDS 41876, 1974). Вырезка без людей.",
+    "cropped_from": "storage-ring.jpg"
+  }
+]

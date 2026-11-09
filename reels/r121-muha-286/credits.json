@@ -1,0 +1,33 @@
+[
+  {
+    "file": "tsetse-fly-glossina-species-gorongosa-natio-32202c.jpg",
+    "title": "Tsetse Fly - Glossina species, Gorongosa National Park, Mozambique (42453576002).jpg",
+    "author": "Judy Gallagher",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tsetse_Fly_-_Glossina_species,_Gorongosa_National_Park,_Mozambique_(42453576002).jpg",
+    "credit": "Judy Gallagher · CC BY 2.0 · Wikimedia Commons",
+    "onscreen": "Judy Gallagher · CC BY 2.0 · Wikimedia Commons",
+    "size": [
+      1600,
+      2325
+    ],
+    "description": "Муха цеце (род Glossina), национальный парк Горонгоза, Мозамбик; Flickr: flickr.com/photos/52450054@N04/42453576002",
+    "taken": "2018-05-29 (Flickr, EXIF)",
+    "license_check": "API Commons: LicenseShortName «CC BY 2.0»; FlickreviewR 2 passed 2019-01-07; страница Flickr 09.11.2026 — CC BY 2.0"
+  },
+  {
+    "file": "leatherbackturtle.jpg",
+    "title": "LeatherbackTurtle.jpg",
+    "author": "NOAA (National Oceanic and Atmospheric Administration)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:LeatherbackTurtle.jpg",
+    "credit": "NOAA · Public domain · Wikimedia Commons",
+    "onscreen": "NOAA · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1048
+    ],
+    "description": "Взрослая кожистая черепаха (Dermochelys coriacea) на гнездовом пляже, национальный морской парк Лас-Баулас, Коста-Рика",
+    "license_check": "API Commons: LicenseShortName «Public domain», шаблон PD-USGov-NOAA; источник — noaanews.noaa.gov/stories2004/images/leatherbackturtle3.jpg"
+  }
+]
