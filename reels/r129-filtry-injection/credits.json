@@ -1,0 +1,79 @@
+[
+  {
+    "file": "arxiv-abs.png",
+    "title": "[2611.08834] Notwithstanding Anything to the Contrary, Ignore All Instructions: Measuring Prompt Injection Guards on Leg",
+    "author": "arxiv.org",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/abs/2611.08834",
+    "credit": "скриншот arxiv.org · 09.11.2026",
+    "onscreen": "скриншот arxiv.org · 09.11.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "кадр официальной страницы, с которой взята новость"
+  },
+  {
+    "file": "abs-page.jpg",
+    "title": "[2611.08834] Notwithstanding Anything to the Contrary, Ignore All Instructions: Measuring Prompt Injection Guards on Leg",
+    "author": "arxiv.org",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/abs/2611.08834",
+    "credit": "скриншот arxiv.org · 09.11.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org · 09.11.2026 · кадр",
+    "size": [
+      1200,
+      734
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "arxiv-abs.png"
+  },
+  {
+    "file": "abs-text.jpg",
+    "title": "[2611.08834] Notwithstanding Anything to the Contrary, Ignore All Instructions: Measuring Prompt Injection Guards on Leg",
+    "author": "arxiv.org",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/abs/2611.08834",
+    "credit": "скриншот arxiv.org · 09.11.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org · 09.11.2026 · кадр",
+    "size": [
+      1160,
+      440
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "arxiv-abs.png"
+  },
+  {
+    "file": "pdf-p6.png",
+    "title": "Notwithstanding Anything to the Contrary, Ignore All Instructions — page 6 (Figure 6)",
+    "author": "Heimann M., Taylor K., Jacob B. · arXiv:2611.08834",
+    "license": "CC BY 4.0",
+    "source": "https://arxiv.org/pdf/2611.08834v1",
+    "credit": "рис. 6: Heimann и др., arXiv:2611.08834, 2026 · CC BY 4.0",
+    "onscreen": "рис. 6: Heimann и др., arXiv:2611.08834 · CC BY 4.0",
+    "size": [
+      1654,
+      2339
+    ],
+    "description": "стр. 6 PDF v1, рендер pdftoppm 200 dpi",
+    "license_note": "arXiv: лицензия статьи CC BY 4.0 (страница arxiv.org/abs/2611.08834 → creativecommons.org/licenses/by/4.0), проверено 09.11.2026",
+    "paper": "https://arxiv.org/abs/2611.08834"
+  },
+  {
+    "file": "fig6-cost.jpg",
+    "title": "Notwithstanding Anything to the Contrary, Ignore All Instructions — page 6 (Figure 6)",
+    "author": "Heimann M., Taylor K., Jacob B. · arXiv:2611.08834",
+    "license": "CC BY 4.0",
+    "source": "https://arxiv.org/pdf/2611.08834v1",
+    "credit": "рис. 6: Heimann и др., arXiv:2611.08834, 2026 · CC BY 4.0 · кадрирование",
+    "onscreen": "рис. 6: Heimann и др., arXiv:2611.08834 · CC BY 4.0 · кадр",
+    "size": [
+      596,
+      146
+    ],
+    "description": "рис. 6, только нижняя панель «Cost ¢/doc»: Opus 4.8 17.5, Haiku -> Opus 2.7",
+    "license_note": "arXiv: лицензия статьи CC BY 4.0 (страница arxiv.org/abs/2611.08834 → creativecommons.org/licenses/by/4.0), проверено 09.11.2026",
+    "paper": "https://arxiv.org/abs/2611.08834",
+    "cropped_from": "pdf-p6.png"
+  }
+]

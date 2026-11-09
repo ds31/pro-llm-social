@@ -1,0 +1,47 @@
+[
+  {
+    "file": "vega-2026.jpg",
+    "title": "Vega Island Frozen in Fright (1506470 - cq5dam web 1280 1280).jpg",
+    "author": "NASA Earth Observatory / Lauren Dauphin, данные Landsat 9 (USGS)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Vega_Island_Frozen_in_Fright_(1506470_-_cq5dam_web_1280_1280).jpg",
+    "credit": "NASA Earth Observatory · Landsat 9 / USGS · Public domain · Wikimedia Commons",
+    "onscreen": "NASA Earth Observatory · Landsat 9 / USGS · Public domain · Wikimedia Commons",
+    "size": [
+      1280,
+      853
+    ],
+    "description": "Остров Вега, Landsat 9 OLI, 10.10.2026 (крупный план). На Commons в поле даты ошибочно «22 March 2025» и описание от снимка 2025 года; попиксельно совпадает с vegaislandzm_oli2_20261010.jpg со страницы NASA EO (проверка 09.11.2026).",
+    "nasa_original": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20261010.jpg"
+  },
+  {
+    "file": "vega-2026-wide.jpg",
+    "title": "Vega Island Frozen in Fright (1506470 - vegaisland oli2 20261010).jpg",
+    "author": "NASA Earth Observatory / Lauren Dauphin, данные Landsat 9 (USGS)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Vega_Island_Frozen_in_Fright_(1506470_-_vegaisland_oli2_20261010).jpg",
+    "credit": "NASA Earth Observatory · Landsat 9 / USGS · Public domain · Wikimedia Commons",
+    "onscreen": "NASA Earth Observatory · Landsat 9 / USGS · Public domain · Wikimedia Commons",
+    "size": [
+      1152,
+      1280
+    ],
+    "description": "Остров Вега целиком, Landsat 9 OLI, 10.10.2026, с подписью Devil Island. Совпадает с vegaisland_oli2_20261010.jpg со страницы NASA EO.",
+    "nasa_original": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaisland_oli2_20261010.jpg"
+  },
+  {
+    "file": "vega-2025.jpg",
+    "title": "vegaislandzm_oli2_20250322.jpg — NASA Earth Observatory, Vega Island Frozen in Fright",
+    "author": "NASA Earth Observatory / Lauren Dauphin, данные Landsat 9 (USGS)",
+    "license": "скриншот первоисточника",
+    "source": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20250322.jpg",
+    "credit": "NASA Earth Observatory · Landsat 9 / USGS · скриншот assets.science.nasa.gov · 09.11.2026",
+    "onscreen": "NASA Earth Observatory · Landsat 9 / USGS · скриншот assets.science.nasa.gov · 09.11.2026",
+    "size": [
+      2700,
+      1800
+    ],
+    "description": "Остров Вега, Landsat 9 OLI, 22.03.2025 (крупный план). Файла нет на Commons; снят fetch_media.py --shot с адреса снимка на странице NASA EO и обрезан по краям картинки (--crop). Снимок NASA — общественное достояние.",
+    "cropped_from": "vega-2025-shot.png (удалён после кадрирования)"
+  }
+]

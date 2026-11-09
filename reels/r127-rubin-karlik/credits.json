@@ -1,0 +1,51 @@
+[
+  {
+    "file": "ed138-pole.jpg",
+    "title": "Mosaic of 2026 ED138 discovery images (noirlab2626f).jpg",
+    "author": "NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA; обработка: M. Jurić (UW), D. de Martin, M. Zamani (NSF NOIRLab)",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mosaic_of_2026_ED138_discovery_images_(noirlab2626f).jpg",
+    "credit": "NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA · CC BY 4.0 · Wikimedia Commons · кадрирование",
+    "onscreen": "NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA · CC BY 4.0 · Wikimedia Commons · кадр",
+    "size": [
+      900,
+      1560
+    ],
+    "description": "A mosaic of images captured by NSF–DOE Vera C. Rubin Observatory of the newly discovered dwarf planet candidate 2026 ED138 (ED138). ED138 was discovered in observational data from Rubin spanning 4 March–11 July 2026. It was found by Rubin Operations team member and in-Kind contributor Matthew Holman",
+    "cropped_from": "mosaic-of-2026-ed138-discovery-images-noirlab2626f.jpg",
+    "primary_source": "https://noirlab.edu/public/images/noirlab2626f/"
+  },
+  {
+    "file": "ed138-kadry.jpg",
+    "title": "Mosaic of 2026 ED138 discovery images (noirlab2626f).jpg",
+    "author": "NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA; обработка: M. Jurić (UW), D. de Martin, M. Zamani (NSF NOIRLab)",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mosaic_of_2026_ED138_discovery_images_(noirlab2626f).jpg",
+    "credit": "NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA · CC BY 4.0 · Wikimedia Commons · кадрирование",
+    "onscreen": "NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA · CC BY 4.0 · Wikimedia Commons · кадр",
+    "size": [
+      1694,
+      1696
+    ],
+    "description": "A mosaic of images captured by NSF–DOE Vera C. Rubin Observatory of the newly discovered dwarf planet candidate 2026 ED138 (ED138). ED138 was discovered in observational data from Rubin spanning 4 March–11 July 2026. It was found by Rubin Operations team member and in-Kind contributor Matthew Holman",
+    "cropped_from": "mosaic-of-2026-ed138-discovery-images-noirlab2626f.jpg",
+    "primary_source": "https://noirlab.edu/public/images/noirlab2626f/"
+  },
+  {
+    "file": "rubin-zdanie.jpg",
+    "title": "Vera C. Rubin Observatory, iotw2229a - Night Light.jpg",
+    "author": "Rubin Observatory/NOIRLab/NSF/AURA/B. Quint",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vera_C._Rubin_Observatory,_iotw2229a_-_Night_Light.jpg",
+    "credit": "Rubin Observatory/NOIRLab/NSF/AURA/B. Quint · CC BY 4.0 · Wikimedia Commons · кадрирование",
+    "onscreen": "Rubin Observatory/NOIRLab/NSF/AURA/B. Quint · CC BY 4.0 · Wikimedia Commons · кадр",
+    "size": [
+      1400,
+      940
+    ],
+    "description": "At first glance, it might appear as though this image was taken during the day, with the deep blue sky arching over Vera C. Rubin Observatory, a Program of NSF’s NOIRLab. On closer inspection, however, a sprinkling of stars is visible throughout the sky, revealing that it was actually taken at night",
+    "cropped_from": "vera-c-rubin-observatory-iotw2229a-night-light.jpg",
+    "primary_source": "https://noirlab.edu/public/images/iotw2229a/",
+    "note": "снимок 2022 г.; вырезка без людей, машин и табличек"
+  }
+]

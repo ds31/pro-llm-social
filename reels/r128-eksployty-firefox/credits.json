@@ -1,0 +1,47 @@
+[
+  {
+    "file": "epoch-six.jpg",
+    "title": "AI can turn security fixes into working exploits before users receive an update — Epoch AI, 29.10.2026",
+    "author": "Epoch AI (epoch.ai)",
+    "license": "скриншот первоисточника",
+    "source": "https://epoch.ai/publications/open-weight-models-patch-gap",
+    "credit": "скриншот epoch.ai · 09.11.2026 · кадрирование",
+    "onscreen": "скриншот epoch.ai · 09.11.2026 · кадр",
+    "size": [
+      1350,
+      390
+    ],
+    "description": "Раздел Results, первый абзац: все шесть релизов Firefox.",
+    "cropped_from": "epoch-page.png (полный скриншот страницы, 2880×19448, в ролик не идёт)"
+  },
+  {
+    "file": "epoch-title.jpg",
+    "title": "AI can turn security fixes into working exploits before users receive an update — Epoch AI, 29.10.2026",
+    "author": "Epoch AI (epoch.ai)",
+    "license": "скриншот первоисточника",
+    "source": "https://epoch.ai/publications/open-weight-models-patch-gap",
+    "credit": "скриншот epoch.ai · 09.11.2026 · кадрирование",
+    "onscreen": "скриншот epoch.ai · 09.11.2026 · кадр",
+    "size": [
+      1360,
+      625
+    ],
+    "description": "Шапка отчёта: тип, дата, заголовок, подзаголовок. Логотип и фото авторов вырезаны.",
+    "cropped_from": "epoch-page.png (полный скриншот страницы, 2880×19448, в ролик не идёт)"
+  },
+  {
+    "file": "epoch-12h.jpg",
+    "title": "AI can turn security fixes into working exploits before users receive an update — Epoch AI, 29.10.2026",
+    "author": "Epoch AI (epoch.ai)",
+    "license": "скриншот первоисточника",
+    "source": "https://epoch.ai/publications/open-weight-models-patch-gap",
+    "credit": "скриншот epoch.ai · 09.11.2026 · кадрирование",
+    "onscreen": "скриншот epoch.ai · 09.11.2026 · кадр",
+    "size": [
+      1350,
+      172
+    ],
+    "description": "Раздел Results: лимит 48 часов, самая быстрая попытка 12 часов.",
+    "cropped_from": "epoch-page.png (полный скриншот страницы, 2880×19448, в ролик не идёт)"
+  }
+]

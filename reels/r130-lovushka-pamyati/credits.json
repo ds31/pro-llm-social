@@ -1,0 +1,34 @@
+[
+  {
+    "file": "abs-page.jpg",
+    "title": "The Memory Trap: Language Agents Overgeneralize from Benign Interactions (arXiv:2611.07554)",
+    "author": "arxiv.org · страница статьи arXiv:2611.07554",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/abs/2611.07554",
+    "credit": "скриншот arxiv.org · 09.11.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org · 09.11.2026 · кадр",
+    "size": [
+      1202,
+      1030
+    ],
+    "description": "дата подачи, название, авторы, аннотация целиком",
+    "cropped_from": "research-media/arxiv-narrow.png",
+    "license_note": "скриншот страницы-первоисточника arxiv.org/abs/2611.07554 (fetch_media.py --shot, 09.11.2026); колонка сужена через --js для читаемости, текст не менялся; шапка с логотипом arXiv отрезана. Лицензия самой статьи — arXiv non-exclusive distribution 1.0, поэтому рисунки статьи в ролик не берём"
+  },
+  {
+    "file": "abs-top.jpg",
+    "title": "The Memory Trap: Language Agents Overgeneralize from Benign Interactions (arXiv:2611.07554)",
+    "author": "arxiv.org · страница статьи arXiv:2611.07554",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/abs/2611.07554",
+    "credit": "скриншот arxiv.org · 09.11.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org · 09.11.2026 · кадр",
+    "size": [
+      1202,
+      516
+    ],
+    "description": "дата подачи, название, авторы, начало аннотации (обложка)",
+    "cropped_from": "research-media/arxiv-narrow.png",
+    "license_note": "скриншот страницы-первоисточника arxiv.org/abs/2611.07554 (fetch_media.py --shot, 09.11.2026); колонка сужена через --js для читаемости, текст не менялся; шапка с логотипом arXiv отрезана. Лицензия самой статьи — arXiv non-exclusive distribution 1.0, поэтому рисунки статьи в ролик не берём"
+  }
+]
