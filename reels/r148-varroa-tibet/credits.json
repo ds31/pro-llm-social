@@ -1,0 +1,79 @@
+[
+  {
+    "file": "varroa-destructor-on-honeybee-host.jpg",
+    "title": "Varroa destructor on honeybee host.jpg",
+    "author": "Eric Erbe, Christopher Pooley — USDA ARS, Electron Microscopy Unit",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Varroa_destructor_on_honeybee_host.jpg",
+    "credit": "Erbe, Pooley / USDA ARS · Public domain · Wikimedia Commons",
+    "onscreen": "Erbe, Pooley / USDA ARS · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1140
+    ],
+    "description": "Клещ Varroa destructor на медоносной пчеле. Микрофотография (СЭМ), цвета условные. Commons, поле Permission: «All of the micrographs on the web site are in the public domain and can be freely used.» — Christopher Pooley.",
+    "taken": "2003, низкотемпературный сканирующий электронный микроскоп, цвет добавлен"
+  },
+  {
+    "file": "csiro-scienceimage-7014-a-varroa-mite-varro-3faa22.jpg",
+    "title": "CSIRO ScienceImage 7014 A varroa mite Varroa destructor on a honeybee pupa.jpg",
+    "author": "Denis Anderson, CSIRO",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_7014_A_varroa_mite_Varroa_destructor_on_a_honeybee_pupa.jpg",
+    "credit": "Denis Anderson, CSIRO · CC BY 3.0 · Wikimedia Commons",
+    "onscreen": "Denis Anderson, CSIRO · CC BY 3.0 · Wikimedia Commons",
+    "size": [
+      1600,
+      1016
+    ],
+    "description": "Клещ Varroa destructor на куколке медоносной пчелы. CSIRO ScienceImage 7014, scienceimage.csiro.au/image/7014.",
+    "taken": "2007"
+  },
+  {
+    "file": "plos-title.jpg",
+    "title": "Altitude-induced hypoxia suppresses Varroa mite reproduction in Tibetan honey bees | PLOS Biology",
+    "author": "PLOS Biology (journals.plos.org); статья Wei et al., 2026, CC BY 4.0",
+    "license": "скриншот первоисточника",
+    "source": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004091",
+    "credit": "скриншот journals.plos.org · 22.11.2026 · кадрирование",
+    "onscreen": "скриншот journals.plos.org · 22.11.2026 · кадр",
+    "size": [
+      1530,
+      456
+    ],
+    "description": "Шапка статьи: OPEN ACCESS, PEER-REVIEWED, заголовок, авторы, Published: November 19, 2026, DOI. Без логотипа журнала.",
+    "cropped_from": "plos-page.png (полный скриншот страницы, в ролик не идёт)"
+  },
+  {
+    "file": "varroa-family.jpg",
+    "title": "CSIRO ScienceImage 3971 Mother varroa mite Varroa destructor with offspring.jpg",
+    "author": "Denis Anderson, CSIRO",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_3971_Mother_varroa_mite_Varroa_destructor_with_offspring.jpg",
+    "credit": "Denis Anderson, CSIRO · CC BY 3.0 · Wikimedia Commons · кадрирование",
+    "onscreen": "Denis Anderson, CSIRO · CC BY 3.0 · Wikimedia Commons · кадр",
+    "size": [
+      1320,
+      880
+    ],
+    "description": "Самка Varroa destructor (красно-коричневая) с потомством (белые) в ячейке расплода. CSIRO ScienceImage 3971, scienceimage.csiro.au/image/3971. Вырезка из центра кадра.",
+    "cropped_from": "csiro-scienceimage-3971-mother-varroa-mite--dfb73f.jpg (полный кадр 3000 px, в ролик не идёт)",
+    "taken": "2007"
+  },
+  {
+    "file": "varroa-cover.jpg",
+    "title": "Varroa destructor on honeybee host.jpg",
+    "author": "Eric Erbe, Christopher Pooley — USDA ARS, Electron Microscopy Unit",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Varroa_destructor_on_honeybee_host.jpg",
+    "credit": "Erbe, Pooley / USDA ARS · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "Erbe, Pooley / USDA ARS · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      853,
+      940
+    ],
+    "description": "Та же микрофотография, вырезка под обложку: клещ на пчеле.",
+    "taken": "2003, СЭМ, цвет добавлен",
+    "cropped_from": "varroa-destructor-on-honeybee-host.jpg"
+  }
+]

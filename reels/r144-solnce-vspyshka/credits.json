@@ -1,0 +1,46 @@
+[
+  {
+    "file": "sun-emits-x9-0-flare-on-october-3-2024-svs1-a0d2ba.jpg",
+    "title": "Sun Emits X9 0 Flare on October 3, 2024 (SVS14701 - SDO 10-03-24 1219UTC 131-171 RedOverlay 4k).jpg",
+    "author": "NASA/SDO",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Sun_Emits_X9_0_Flare_on_October_3,_2024_(SVS14701_-_SDO_10-03-24_1219UTC_131-171_RedOverlay_4k).jpg",
+    "credit": "NASA/SDO · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/SDO · Public domain · Wikimedia Commons",
+    "size": [
+      1920,
+      1920
+    ],
+    "description": "NASA’s Solar Dynamics Observatory captured this image of an X9.0 solar flare – as seen in the bright flash in the center – on Oct. 03, 2024. The image shows a blend of 171 Angstrom, and 131 Angstrom light, subsets of extreme ultraviolet light. Credit: NASA/SDO"
+  },
+  {
+    "file": "cover-flare.jpg",
+    "title": "Sun Emits X9 0 Flare on October 3, 2024 (SVS14701 - SDO 10-03-24 1219UTC 131-171 RedOverlay 4k).jpg",
+    "author": "NASA/SDO",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Sun_Emits_X9_0_Flare_on_October_3,_2024_(SVS14701_-_SDO_10-03-24_1219UTC_131-171_RedOverlay_4k).jpg",
+    "credit": "NASA/SDO · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/SDO · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      1198,
+      1320
+    ],
+    "description": "NASA’s Solar Dynamics Observatory captured this image of an X9.0 solar flare – as seen in the bright flash in the center – on Oct. 03, 2024. The image shows a blend of 171 Angstrom, and 131 Angstrom light, subsets of extreme ultraviolet light. Credit: NASA/SDO",
+    "cropped_from": "sun-emits-x9-0-flare-on-october-3-2024-svs1-a0d2ba.jpg"
+  },
+  {
+    "file": "flare-close.jpg",
+    "title": "Sun Emits X9 0 Flare on October 3, 2024 (SVS14701 - SDO 10-03-24 1219UTC 171 4k).jpg",
+    "author": "NASA/SDO",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Sun_Emits_X9_0_Flare_on_October_3,_2024_(SVS14701_-_SDO_10-03-24_1219UTC_171_4k).jpg",
+    "credit": "NASA/SDO · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/SDO · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      1600,
+      1600
+    ],
+    "description": "NASA’s Solar Dynamics Observatory captured this image of an X9.0 solar flare – as seen in the bright flash in the center – on Oct. 03, 2024. The image shows 171 Angstrom extreme ultraviolet light which highlights the loop structures of hot plasma. Credit: NASA/SDO",
+    "cropped_from": "sun-emits-x9-0-flare-on-october-3-2024-svs1-e514f9.jpg"
+  }
+]

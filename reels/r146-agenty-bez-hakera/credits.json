@@ -1,0 +1,31 @@
+[
+  {
+    "file": "arxiv-abs.png",
+    "title": "[2611.26553] Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)",
+    "author": "arxiv.org",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/abs/2611.26553",
+    "credit": "скриншот arxiv.org · 22.11.2026",
+    "onscreen": "скриншот arxiv.org · 22.11.2026",
+    "size": [
+      1440,
+      900
+    ],
+    "description": "кадр официальной страницы, с которой взята новость"
+  },
+  {
+    "file": "abs-page.jpg",
+    "title": "[2611.26553] Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)",
+    "author": "arxiv.org",
+    "license": "скриншот первоисточника",
+    "source": "https://arxiv.org/abs/2611.26553",
+    "credit": "скриншот arxiv.org · 22.11.2026 · кадрирование",
+    "onscreen": "скриншот arxiv.org · 22.11.2026 · кадр",
+    "size": [
+      1200,
+      852
+    ],
+    "description": "кадр официальной страницы, с которой взята новость",
+    "cropped_from": "arxiv-abs.png"
+  }
+]

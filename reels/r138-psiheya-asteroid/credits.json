@@ -1,0 +1,77 @@
+[
+  {
+    "file": "psyche-vlt.jpg",
+    "title": "Kalliope and Psyche (eso2114e).jpg — левая панель (Психея)",
+    "author": "ESO/Vernazza et al./MISTRAL algorithm (ONERA/CNRS)",
+    "license": "CC BY 4.0",
+    "source": "https://www.eso.org/public/images/eso2114e/",
+    "credit": "ESO/Vernazza et al./MISTRAL algorithm (ONERA/CNRS) · CC BY 4.0 · eso.org · кадрирование",
+    "onscreen": "ESO/Vernazza et al./MISTRAL algorithm (ONERA/CNRS) · CC BY 4.0 · eso.org",
+    "size": [
+      360,
+      396
+    ],
+    "description": "Астероид Психея, снимок прибора SPHERE на телескопе VLT (ESO), обзор 42 крупных астероидов 2017–2019 годов, публикация 12.10.2021. Вырезка левой панели коллажа eso2114e; правая панель (Каллиопа) в ролик не идёт. Обложка.",
+    "commons": "https://commons.wikimedia.org/wiki/File:Kalliope_and_Psyche_(eso2114e).jpg",
+    "cropped_from": "kalliope-and-psyche-eso2114e.jpg (коллаж целиком, в ролик не идёт)"
+  },
+  {
+    "file": "psyche-vlt-wide.jpg",
+    "title": "Kalliope and Psyche (eso2114e).jpg — левая панель (Психея)",
+    "author": "ESO/Vernazza et al./MISTRAL algorithm (ONERA/CNRS)",
+    "license": "CC BY 4.0",
+    "source": "https://www.eso.org/public/images/eso2114e/",
+    "credit": "ESO/Vernazza et al./MISTRAL algorithm (ONERA/CNRS) · CC BY 4.0 · eso.org · кадрирование",
+    "onscreen": "ESO/Vernazza et al./MISTRAL algorithm (ONERA/CNRS) · CC BY 4.0 · eso.org",
+    "size": [
+      420,
+      300
+    ],
+    "description": "Тот же снимок Психеи (VLT/SPHERE, ESO), вырезка левой панели коллажа eso2114e с астероидом по центру — для шотов внутри ролика.",
+    "commons": "https://commons.wikimedia.org/wiki/File:Kalliope_and_Psyche_(eso2114e).jpg",
+    "cropped_from": "kalliope-and-psyche-eso2114e.jpg (коллаж целиком, в ролик не идёт)"
+  },
+  {
+    "file": "psyche-asteroid-artist-s-concept-4.jpg",
+    "title": "Asteroid Psyche (Illustration), PIA24471",
+    "author": "NASA/JPL-Caltech/ASU (иллюстрация: P. Rubin, Maxar)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Psyche_asteroid_(Artist%27s_Concept)_(4).jpg",
+    "credit": "NASA/JPL-Caltech/ASU · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL-Caltech/ASU · Public domain · Wikimedia Commons",
+    "size": [
+      1920,
+      1733
+    ],
+    "description": "Иллюстрация NASA, март 2021 года: так художник представляет астероид Психея. Не снимок — в кадре плашка «иллюстрация». Страница NASA: science.nasa.gov/photojournal/asteroid-psyche-illustration/"
+  },
+  {
+    "file": "pia26772-mars-south-pole-after-flyby.jpg",
+    "title": "NASA’s Psyche Mission Sees Mars’ South Pole After Flyby (PIA26772)",
+    "author": "NASA/JPL-Caltech/ASU",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:PIA26772_Mars%27_South_Pole_After_Flyby.png",
+    "credit": "NASA/JPL-Caltech/ASU · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL-Caltech/ASU · Public domain · Wikimedia Commons",
+    "size": [
+      1648,
+      1200
+    ],
+    "description": "Марс с борта зонда Psyche вскоре после пролёта 15.05.2026: от южной полярной шапки до долин Маринер. Страница NASA: science.nasa.gov/photojournal/nasas-psyche-mission-sees-mars-south-pole-after-flyby/"
+  },
+  {
+    "file": "hall-thruster.jpg",
+    "title": "Hall Thruster for Psyche operating at JPL (PIA23879)",
+    "author": "NASA/JPL-Caltech",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Hall_Thruster_for_Psyche_operating_at_JPL.jpg",
+    "credit": "NASA/JPL-Caltech · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/JPL-Caltech · Public domain · Wikimedia Commons",
+    "size": [
+      1560,
+      1300
+    ],
+    "description": "Холловский двигатель, такой же, как на зонде Psyche, работает в вакуумной камере JPL на испытаниях до запуска (снимок 2020 года). Голубое свечение — ионы ксенона.",
+    "cropped_from": "hall-thruster-for-psyche-operating-at-jpl.jpg (кадр целиком, в ролик не идёт)"
+  }
+]

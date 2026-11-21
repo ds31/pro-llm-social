@@ -1,0 +1,62 @@
+[
+  {
+    "file": "nv-cover.jpg",
+    "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027 | NVIDIA Newsroom",
+    "author": "NVIDIA (nvidianews.nvidia.com)",
+    "license": "скриншот первоисточника",
+    "source": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+    "credit": "скриншот nvidianews.nvidia.com · 22.11.2026 · кадрирование",
+    "onscreen": "скриншот nvidianews.nvidia.com · 22.11.2026 · кадр",
+    "size": [
+      1140,
+      1256
+    ],
+    "description": "Шапка пресс-релиза NVIDIA от 17.11.2026: строка «Press Release», заголовок, дата, три пункта и первый абзац с выручкой $115.8 billion. Обложка. Колонка текста сужена до 560 px (--js), фото здания с вывеской скрыто; текст страницы не менялся. Логотипа и фото людей в кадре нет.",
+    "cropped_from": "nv-narrow.png (полный скриншот страницы, в ролик не идёт)"
+  },
+  {
+    "file": "nv-head.jpg",
+    "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027 | NVIDIA Newsroom",
+    "author": "NVIDIA (nvidianews.nvidia.com)",
+    "license": "скриншот первоисточника",
+    "source": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+    "credit": "скриншот nvidianews.nvidia.com · 22.11.2026 · кадрирование",
+    "onscreen": "скриншот nvidianews.nvidia.com · 22.11.2026 · кадр",
+    "size": [
+      1140,
+      665
+    ],
+    "description": "Заголовок пресс-релиза, дата November 17, 2026 и три пункта: Revenue of $115.8 billion, up 103% from a year ago; Data Center revenue of $107.6 billion. Колонка сужена до 560 px, фото с вывеской скрыто.",
+    "cropped_from": "nv-narrow.png (полный скриншот страницы, в ролик не идёт)"
+  },
+  {
+    "file": "nv-summary.jpg",
+    "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027 | NVIDIA Newsroom",
+    "author": "NVIDIA (nvidianews.nvidia.com)",
+    "license": "скриншот первоисточника",
+    "source": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+    "credit": "скриншот nvidianews.nvidia.com · 22.11.2026 · кадрирование",
+    "onscreen": "скриншот nvidianews.nvidia.com · 22.11.2026 · кадр",
+    "size": [
+      1290,
+      385
+    ],
+    "description": "Таблица Q3 Fiscal 2027 Summary (GAAP): Revenue, Gross margin, Operating expenses, Operating income, Net income за Q3 FY27 / Q2 FY27 / Q3 FY26. Обычная вёрстка страницы.",
+    "cropped_from": "nv-page.png (полный скриншот страницы, в ролик не идёт)"
+  },
+  {
+    "file": "nv-outlook.jpg",
+    "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027 | NVIDIA Newsroom",
+    "author": "NVIDIA (nvidianews.nvidia.com)",
+    "license": "скриншот первоисточника",
+    "source": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+    "credit": "скриншот nvidianews.nvidia.com · 22.11.2026 · кадрирование",
+    "onscreen": "скриншот nvidianews.nvidia.com · 22.11.2026 · кадр",
+    "size": [
+      1140,
+      385
+    ],
+    "description": "Блок Outlook: прогноз на 4-й квартал фин. года 2027 — $130.0 billion ±3%, без Data Center compute revenue from China. Колонка сужена до 560 px.",
+    "cropped_from": "nv-narrow.png (полный скриншот страницы, в ролик не идёт)"
+  }
+]

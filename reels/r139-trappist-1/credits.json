@@ -1,0 +1,64 @@
+[
+  {
+    "file": "trappist-1-planet-lineup.jpg",
+    "title": "TRAPPIST-1 Planet Lineup.jpg",
+    "author": "NASA/JPL-Caltech",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:TRAPPIST-1_Planet_Lineup.jpg",
+    "credit": "NASA/JPL-Caltech · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL-Caltech · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      800
+    ],
+    "description": "Иллюстрация художника (не снимок): как может выглядеть система TRAPPIST-1 по данным о диаметрах, массах и расстояниях на февраль 2018 г. NASA/JPL-Caltech, PIA22093.",
+    "source_original": "https://photojournal.jpl.nasa.gov/catalog/PIA22093"
+  },
+  {
+    "file": "trappist-dome-cover.jpg",
+    "title": "The TRAPPIST–south telescope at La Silla (eso1023b).jpg",
+    "author": "E. Jehin/ESO",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_TRAPPIST%E2%80%93south_telescope_at_La_Silla_(eso1023b).jpg",
+    "credit": "E. Jehin/ESO · CC BY 4.0 · Wikimedia Commons · кадрирование",
+    "onscreen": "E. Jehin/ESO · CC BY 4.0 · Wikimedia Commons · кадр",
+    "size": [
+      1633,
+      1800
+    ],
+    "description": "Купол телескопа-робота TRAPPIST-South (зеркало 60 см) ночью, обсерватория ESO Ла-Силья, Чили; снимок опубликован ESO 08.06.2010 (eso1023b). Вырезан купол: слева за кадром остались силуэт и машина. Обложка.",
+    "cropped_from": "the-trappist-south-telescope-at-la-silla-eso1023b.jpg (полный кадр 3456×2304, в ролик не идёт)",
+    "source_original": "https://www.eso.org/public/images/eso1023b/"
+  },
+  {
+    "file": "trappist-telescope.jpg",
+    "title": "TRAPPIST–South at La Silla (eso1023e).jpg",
+    "author": "E. Jehin/ESO",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:TRAPPIST%E2%80%93South_at_La_Silla_(eso1023e).jpg",
+    "credit": "E. Jehin/ESO · CC BY 4.0 · Wikimedia Commons · кадрирование",
+    "onscreen": "E. Jehin/ESO · CC BY 4.0 · Wikimedia Commons · кадр",
+    "size": [
+      1641,
+      1170
+    ],
+    "description": "Телескоп TRAPPIST-South (зеркало 60 см) внутри купола, Ла-Силья, Чили; снимок опубликован ESO 08.06.2010 (eso1023e). Вырезана труба телескопа: шильдик производителя монтировки остался за кадром.",
+    "cropped_from": "trappist-south-at-la-silla-eso1023e.jpg (полный кадр, в ролик не идёт)",
+    "source_original": "https://www.eso.org/public/images/eso1023e/"
+  },
+  {
+    "file": "trappist-1-sdss.jpg",
+    "title": "TRAPPIST-1 SDSS 2009-09-28.png",
+    "author": "Sloan Digital Sky Survey (исходные кадры), обработка и сведение цвета — Nrco0e",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:TRAPPIST-1_SDSS_2009-09-28.png",
+    "credit": "Sloan Digital Sky Survey, обработка Nrco0e · CC BY 4.0 · Wikimedia Commons · кадрирование",
+    "onscreen": "Sloan Digital Sky Survey, обработка Nrco0e · CC BY 4.0 · Wikimedia Commons · кадр",
+    "size": [
+      1240,
+      840
+    ],
+    "description": "Звезда TRAPPIST-1 (красная точка в центре) на снимке обзора SDSS от 28.09.2009: три экспозиции по 54 с в фильтрах g, r, i. Вырезана середина без служебных надписей Aladin.",
+    "cropped_from": "trappist-1-sdss-2009-09-28.jpg (полный кадр 1445×958, в ролик не идёт)"
+  }
+]

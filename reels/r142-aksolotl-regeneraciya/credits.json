@@ -1,0 +1,63 @@
+[
+  {
+    "file": "axolotl-liege-1.jpg",
+    "title": "Axolotl Ambystoma mexicanum Aquarium Liège 30012016 1.jpg",
+    "author": "Vassil",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Axolotl_Ambystoma_mexicanum_Aquarium_Li%C3%A8ge_30012016_1.jpg",
+    "credit": "Vassil · CC0 · Wikimedia Commons",
+    "onscreen": "Vassil · CC0 · Wikimedia Commons",
+    "size": [
+      1840,
+      1563
+    ],
+    "description": "Аксолотль (Ambystoma mexicanum), Aquarium Dubuisson (Аквариум-музей Льежа), Бельгия. Шот «настоящий вид».",
+    "taken": "2016-01-30, Aquarium Dubuisson, Liège"
+  },
+  {
+    "file": "axolotl-cover.jpg",
+    "title": "Axolotl Ambystoma mexicanum Aquarium Liège 30012016 3.jpg",
+    "author": "Vassil",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Axolotl_Ambystoma_mexicanum_Aquarium_Li%C3%A8ge_30012016_3.jpg",
+    "credit": "Vassil · CC0 · Wikimedia Commons · кадрирование",
+    "onscreen": "Vassil · CC0 · Wikimedia Commons · кадр",
+    "size": [
+      1500,
+      1119
+    ],
+    "description": "Аксолотль (Ambystoma mexicanum), Aquarium Dubuisson, Льеж: вырезка — морда и наружные жабры. Обложка.",
+    "cropped_from": "Axolotl Ambystoma mexicanum Aquarium Liège 30012016 3.jpg (полный файл в ролик не идёт, из img/ удалён)",
+    "taken": "2016-01-30, Aquarium Dubuisson, Liège"
+  },
+  {
+    "file": "nature-fig1a.jpg",
+    "title": "Figure 1: Contiguity and completeness of the axolotl genome assembly",
+    "author": "Nowoshilow S. et al., Nature 554, 50–55 (2018)",
+    "license": "CC BY 4.0",
+    "source": "https://www.nature.com/articles/nature25458/figures/1",
+    "credit": "рис. 1 из Nowoshilow et al., Nature 2018 · CC BY 4.0 · nature.com · кадрирование",
+    "onscreen": "Nowoshilow et al., Nature 2018 · CC BY 4.0 · кадр",
+    "size": [
+      1678,
+      442
+    ],
+    "description": "Панель a: «A wild-type A. mexicanum and the sequenced d/d A. mexicanum strain». Без подписей Wild-type и d/d.",
+    "cropped_from": "скриншот файла рисунка 1 (media.springernature.com, 22.11.2026); полный скриншот в ролик не идёт, из img/ удалён"
+  },
+  {
+    "file": "nature-fig1c.jpg",
+    "title": "Figure 1: Contiguity and completeness of the axolotl genome assembly",
+    "author": "Nowoshilow S. et al., Nature 554, 50–55 (2018)",
+    "license": "CC BY 4.0",
+    "source": "https://www.nature.com/articles/nature25458/figures/1",
+    "credit": "рис. 1 из Nowoshilow et al., Nature 2018 · CC BY 4.0 · nature.com · кадрирование",
+    "onscreen": "Nowoshilow et al., Nature 2018 · CC BY 4.0 · кадр",
+    "size": [
+      1659,
+      574
+    ],
+    "description": "Панель c: «A 57,385-bp PacBio read (red line) spans a large repetitive region (repeats are shown in orange; the longest repeat is 34 kb)». Без буквы панели и строки locus.",
+    "cropped_from": "скриншот файла рисунка 1 (media.springernature.com, 22.11.2026); полный скриншот в ролик не идёт, из img/ удалён"
+  }
+]

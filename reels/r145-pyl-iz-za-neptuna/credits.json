@@ -1,0 +1,61 @@
+[
+  {
+    "file": "er2-flight.jpg",
+    "title": "Lockheed ER-2 -809 high altitude research aircraft in flight (EC01-0232-2).jpg",
+    "author": "NASA/Lori Losey (NASA Armstrong Flight Research Center)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Lockheed_ER-2_-809_high_altitude_research_aircraft_in_flight_(EC01-0232-2).jpg",
+    "credit": "NASA/Lori Losey · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/Lori Losey · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      2300,
+      2141
+    ],
+    "description": "Самолёт NASA ER-2 (борт 809) в полёте, 01.08.2001, Photo ID EC01-0232-2. Кадрирование: хвост с эмблемой NASA отрезан. Обложка и шот «настоящий вид».",
+    "cropped_from": "Lockheed ER-2 -809 high altitude research aircraft in flight (EC01-0232-2).jpg (полный кадр, в ролик не идёт)"
+  },
+  {
+    "file": "er2-collector.jpg",
+    "title": "ER-2 Cosmic Dust Collection Mission (ED09-0104-01).jpg",
+    "author": "NASA/Tom Tschida",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:ER-2_Cosmic_Dust_Collection_Mission_(ED09-0104-01).jpg",
+    "credit": "NASA/Tom Tschida · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/Tom Tschida · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      1920,
+      1330
+    ],
+    "description": "Коллектор космической пыли Large Area Collector под крылом ER-2 перед вылетом, 24.04.2009, Photo ID ED09-0104-01. Кадрирование: нижняя часть кадра, киль с эмблемой NASA отрезан.",
+    "cropped_from": "ER-2 Cosmic Dust Collection Mission (ED09-0104-01).jpg (полный кадр, в ролик не идёт)"
+  },
+  {
+    "file": "comet-dust-microscopic-photo.jpg",
+    "title": "Comet dust microscopic photo.jpg",
+    "author": "NASA",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Comet_dust_microscopic_photo.jpg",
+    "credit": "NASA · Public domain · Wikimedia Commons",
+    "onscreen": "NASA · Public domain · Wikimedia Commons",
+    "size": [
+      545,
+      400
+    ],
+    "description": "Межпланетная пылинка под электронным микроскопом, меньше 0,1 мм; поймана коллектором на высотном самолёте. Из книги NASA EP-177 (1981). Это частица того же типа, но не из 12 частиц статьи 2026 года."
+  },
+  {
+    "file": "er2-cover.jpg",
+    "title": "Lockheed ER-2 -809 high altitude research aircraft in flight (EC01-0232-2).jpg",
+    "author": "NASA/Lori Losey (NASA Armstrong Flight Research Center)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Lockheed_ER-2_-809_high_altitude_research_aircraft_in_flight_(EC01-0232-2).jpg",
+    "credit": "NASA/Lori Losey · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/Lori Losey · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      1500,
+      1653
+    ],
+    "description": "Тот же снимок ER-2 (борт 809, 01.08.2001, EC01-0232-2), вырезка под обложку: нос и крыло, хвост с эмблемой NASA отрезан.",
+    "cropped_from": "Lockheed ER-2 -809 high altitude research aircraft in flight (EC01-0232-2).jpg (полный кадр, в ролик не идёт)"
+  }
+]

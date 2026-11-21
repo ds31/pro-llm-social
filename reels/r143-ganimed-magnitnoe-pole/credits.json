@@ -1,0 +1,31 @@
+[
+  {
+    "file": "ganymede-junogill-2217.jpg",
+    "title": "Ganymede JunoGill 2217.jpg",
+    "author": "NASA/JPL-Caltech/SwRI/MSSS; обработка — Kevin M. Gill",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ganymede_JunoGill_2217.jpg",
+    "credit": "NASA/JPL-Caltech/SwRI/MSSS · обработка: Kevin M. Gill · CC BY 3.0",
+    "onscreen": "NASA/JPL-Caltech/SwRI/MSSS · обработка: Kevin M. Gill · CC BY 3.0",
+    "size": [
+      1920,
+      1801
+    ],
+    "description": "Ганимед, снимок камеры JunoCam аппарата Juno, пролёт 7 июня 2021 г. Обложка и шот «настоящий вид».",
+    "license_note": "Commons помечает файл как Public domain, но первоисточник (APOD 14.06.2021, apod.nasa.gov/apod/ap210614.html) и подпись в углу самого снимка дают «Processing & License: Kevin M. Gill», CC BY 3.0 — берём более строгую лицензию и указываем автора обработки."
+  },
+  {
+    "file": "ganymede-aurora-hubble.png",
+    "title": "15-33i2-JupiterMoon-Ganymede-Aurora-20150312.png",
+    "author": "NASA/ESA",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:15-33i2-JupiterMoon-Ganymede-Aurora-20150312.png",
+    "credit": "NASA/ESA · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/ESA · Public domain · Wikimedia Commons",
+    "size": [
+      700,
+      700
+    ],
+    "description": "Сияния Ганимеда: ультрафиолетовые наблюдения Hubble (окрашены синим) поверх снимка аппарата Galileo. Релиз NASA 15-033, 12.03.2015. Файл скачан fetch_media.py (оригинал PNG 700×700), переименован по содержимому."
+  }
+]

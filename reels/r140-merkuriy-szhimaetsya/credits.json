@@ -1,0 +1,88 @@
+[
+  {
+    "file": "carnegie-rupes-duccio-crater-pia19279.jpg",
+    "title": "Carnegie Rupes Duccio crater PIA19279.jpg",
+    "author": "NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Carnegie_Rupes_Duccio_crater_PIA19279.jpg",
+    "credit": "NASA/JHUAPL/CIW · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JHUAPL/CIW · Public domain · Wikimedia Commons",
+    "size": [
+      1920,
+      1813
+    ],
+    "description": "Carnegie Rupes makes a dramatic sight in this large image mosaic. The giant lobate scarp cuts through Duccio crater. If you were to approach the scarp from the southwest, you would find yourself facing a wall nearly 2 km high! Be sure to zoom in for a closer look! Carnegie Rupes was named after a re"
+  },
+  {
+    "file": "discovery-rupes-en0242804716m.jpg",
+    "title": "Discovery Rupes EN0242804716M.jpg",
+    "author": "NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington (MESSENGER, NAC; на Commons автор указан как NASA, источник — USGS PILOT)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Discovery_Rupes_EN0242804716M.jpg",
+    "credit": "NASA/JHUAPL/CIW · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JHUAPL/CIW · Public domain · Wikimedia Commons",
+    "size": [
+      1024,
+      1020
+    ],
+    "description": "Discovery Rupes on Mercury, the scarp that crosses left to right in the image, through Rameau crater. Kuniyoshi is the small, fresh crater at left, and Hesiod is in lower left. MESSENGER Narrow Angle Camera image. Emission Angle: 42.8 Incidence Angle: 67.8 Latitude: -56.1 Longitude: 323.4 Phase Angl"
+  },
+  {
+    "file": "mercury-in-true-color.jpg",
+    "title": "Mercury in true color.jpg",
+    "author": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg",
+    "credit": "NASA/JHUAPL/ASU/CIW · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JHUAPL/ASU/CIW · Public domain · Wikimedia Commons",
+    "size": [
+      1040,
+      1040
+    ],
+    "description": "This is a cropped bottom right image from the original four image mosaic PIA11364: Mercury's \"True\" Color is in the Eye of the Beholder. Original Caption Released with Image: Given the WAC’s ability to take images through 11 narrow-band color filters, it is natural to wonder what does Mercury look l"
+  },
+  {
+    "file": "pia19422-mercury-carnegierupes-mdis-mla-20150416.jpg",
+    "title": "PIA19422-Mercury-CarnegieRupes-MDIS-MLA-20150416.jpg",
+    "author": "NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:PIA19422-Mercury-CarnegieRupes-MDIS-MLA-20150416.jpg",
+    "credit": "NASA/JHUAPL/CIW · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JHUAPL/CIW · Public domain · Wikimedia Commons",
+    "size": [
+      1664,
+      1206
+    ],
+    "description": "PIA19422: A Striking Perspective http://photojournal.jpl.nasa.gov/catalog/PIA19422 This image provides a perspective view of the center portion of Carnegie Rupes, a large tectonic landform, which cuts through Duccio crater. The image shows the terrain (variations in topography) as measured by the ML"
+  },
+  {
+    "file": "nasa-map.jpg",
+    "title": "The Incredible Shrinking Mercury (PIA18151) — NASA Science Photojournal",
+    "author": "science.nasa.gov",
+    "license": "скриншот первоисточника",
+    "source": "https://science.nasa.gov/photojournal/the-incredible-shrinking-mercury/",
+    "credit": "скриншот science.nasa.gov · 22.11.2026 · кадрирование",
+    "onscreen": "скриншот science.nasa.gov · 22.11.2026 · кадр",
+    "size": [
+      1540,
+      1130
+    ],
+    "description": "вырезка карты гряд и уступов Меркурия (PIA18151, NASA/JHUAPL/Carnegie Institution of Washington) со страницы NASA Photojournal; шапка сайта с эмблемой в кадр не входит",
+    "cropped_from": "nasa-map-page.png"
+  },
+  {
+    "file": "carnegie-scarp.jpg",
+    "title": "Carnegie Rupes Duccio crater PIA19279.jpg",
+    "author": "NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Carnegie_Rupes_Duccio_crater_PIA19279.jpg",
+    "credit": "NASA/JHUAPL/CIW · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/JHUAPL/CIW · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      1120,
+      1120
+    ],
+    "description": "Carnegie Rupes makes a dramatic sight in this large image mosaic. The giant lobate scarp cuts through Duccio crater. If you were to approach the scarp from the southwest, you would find yourself facing a wall nearly 2 km high! Be sure to zoom in for a closer look! Carnegie Rupes was named after a re",
+    "cropped_from": "carnegie-rupes-duccio-crater-pia19279.jpg"
+  }
+]

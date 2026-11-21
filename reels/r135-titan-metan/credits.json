@@ -1,0 +1,63 @@
+[
+  {
+    "file": "specular-spectacular-pia18432.jpg",
+    "title": "Specular Spectacular (PIA18432).jpg",
+    "author": "NASA/JPL-Caltech/University of Arizona/University of Idaho",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Specular_Spectacular_(PIA18432).jpg",
+    "credit": "NASA/JPL-Caltech/Univ. of Arizona/Univ. of Idaho · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL-Caltech/Univ. of Arizona/Univ. of Idaho · Public domain · Wikimedia Commons",
+    "size": [
+      1920,
+      1920
+    ],
+    "description": "Титан в ближнем ИК (прибор VIMS «Кассини», пролёт 21.08.2014): блик Солнца на северных морях. Цвета настоящие, но не такие, как видит глаз (5,0 / 2,0 / 1,3 мкм). Обложка.",
+    "first_source": "https://photojournal.jpl.nasa.gov/catalog/PIA18432"
+  },
+  {
+    "file": "ligeia-mare-in-false-color-pia17031.jpg",
+    "title": "Ligeia Mare in false color (PIA17031).jpg",
+    "author": "NASA/JPL-Caltech/ASI/Cornell",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Ligeia_Mare_in_false_color_(PIA17031).jpg",
+    "credit": "NASA/JPL-Caltech/ASI/Cornell · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL-Caltech/ASI/Cornell · Public domain · Wikimedia Commons",
+    "size": [
+      1581,
+      1507
+    ],
+    "description": "Море Лигеи: мозаика радарных снимков «Кассини» (02.2006–04.2007) в условных цветах; жидкость на радаре тёмная.",
+    "first_source": "https://photojournal.jpl.nasa.gov/catalog/PIA17031"
+  },
+  {
+    "file": "huygens-surface-color.jpg",
+    "title": "Huygens surface color.jpg",
+    "author": "ESA/NASA/JPL/University of Arizona",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Huygens_surface_color.jpg",
+    "credit": "ESA/NASA/JPL/University of Arizona · Public domain · Wikimedia Commons",
+    "onscreen": "ESA/NASA/JPL/University of Arizona · Public domain · Wikimedia Commons",
+    "size": [
+      314,
+      628
+    ],
+    "description": "Поверхность Титана, снимок зонда «Гюйгенс» 14.01.2005, камера DISR (прибор NASA, Университет Аризоны), цвет добавлен по спектрам.",
+    "first_source": "https://photojournal.jpl.nasa.gov/catalog/PIA07232 (Credits: NASA/JPL/ESA/University of Arizona)"
+  },
+  {
+    "file": "titan-glint.jpg",
+    "title": "Specular Spectacular (PIA18432).jpg",
+    "author": "NASA/JPL-Caltech/University of Arizona/University of Idaho",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Specular_Spectacular_(PIA18432).jpg",
+    "credit": "NASA/JPL-Caltech/Univ. of Arizona/Univ. of Idaho · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/JPL-Caltech/Univ. of Arizona/Univ. of Idaho · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      1400,
+      996
+    ],
+    "description": "Титан в ближнем ИК (прибор VIMS «Кассини», пролёт 21.08.2014): блик Солнца на северных морях. Цвета настоящие, но не такие, как видит глаз (5,0 / 2,0 / 1,3 мкм). Обложка.",
+    "first_source": "https://photojournal.jpl.nasa.gov/catalog/PIA18432",
+    "cropped_from": "specular-spectacular-pia18432.jpg"
+  }
+]

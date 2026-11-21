@@ -1,0 +1,30 @@
+[
+  {
+    "file": "pia19048-realistic-color-europa-mosaic.jpg",
+    "title": "PIA19048 realistic color Europa mosaic.jpg",
+    "author": "NASA/JPL-Caltech/SETI Institute",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:PIA19048_realistic_color_Europa_mosaic_edited.jpg",
+    "credit": "NASA/JPL-Caltech/SETI Institute · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL-Caltech/SETI Institute · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1183
+    ],
+    "description": "Европа, глобальный вид в реалистичных цветах (PIA19048): снимки камеры SSI «Галилео», 1995 и 1998; на Commons — версия с увеличенным размером и резкостью"
+  },
+  {
+    "file": "europa-chaos.jpg",
+    "title": "Europa Chaos.jpg",
+    "author": "NASA/JPL/University of Arizona",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Europa_Chaos.jpg",
+    "credit": "NASA/JPL/University of Arizona · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL/University of Arizona · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      707
+    ],
+    "description": "Европа, район Конамара (PIA01127): расколотая ледяная кора, участок 70 × 30 км; съёмка «Галилео» 1996–1997, цвета усилены"
+  }
+]
