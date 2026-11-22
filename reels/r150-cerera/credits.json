@@ -1,0 +1,65 @@
+[
+  {
+    "file": "pia21079-ceres-in-color.jpg",
+    "title": "PIA21079 Ceres in Color.jpg",
+    "author": "NASA/JPL-Caltech/UCLA/MPS/DLR/IDA",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:PIA21079_Ceres_in_Color.jpg",
+    "credit": "NASA/JPL-Caltech/UCLA/MPS/DLR/IDA · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL-Caltech/UCLA/MPS/DLR/IDA · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1600
+    ],
+    "description": "This image of Ceres approximates how the dwarf planet's colors would appear to the eye. This view of Ceres, produced by the German Aerospace Center in Berlin, combines images taken during Dawn's first science orbit in 2015 using the framing camera's red, green and blue spectral filters. The color wa",
+    "note": "цвет — приближение к тому, как Церера выглядела бы для глаза (снимки 2015 г., DLR)"
+  },
+  {
+    "file": "occator-cover.jpg",
+    "title": "PIA20350 - Occator from LAMO.jpg",
+    "author": "NASA/JPL-Caltech/UCLA/MPS/DLR/IDA/PSI",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:PIA20350_-_Occator_from_LAMO.jpg",
+    "credit": "NASA/JPL-Caltech/UCLA/MPS/DLR/IDA/PSI · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/JPL-Caltech/UCLA/MPS/DLR/IDA/PSI · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      980,
+      1090
+    ],
+    "description": "Occator crater, measuring 57 miles (92 kilometers) across and 2.5 miles (4 kilometers) deep, contains the brightest area on Ceres . This region has been the subject of intense interest since Dawn 's approach to the dwarf planet in early 2015. Dawn's close-up view reveals a dome in a smooth-walled pi",
+    "cropped_from": "pia20350-occator-from-lamo.jpg",
+    "note": "кратер Оккатор, мозаика Dawn, опубликована 22.03.2016 (PIA20350)"
+  },
+  {
+    "file": "cerealia-wide.jpg",
+    "title": "PIA21924 - Mosaic of Cerealia Facula in Occator.jpg",
+    "author": "NASA/JPL-Caltech/UCLA/MPS/DLR/IDA/PSI",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:PIA21924_-_Mosaic_of_Cerealia_Facula_in_Occator.jpg",
+    "credit": "NASA/JPL-Caltech/UCLA/MPS/DLR/IDA/PSI · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/JPL-Caltech/UCLA/MPS/DLR/IDA/PSI · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      1300,
+      900
+    ],
+    "description": "Uploader's notes : The original NASA image has been sharpened and converted from TIFF to JPG format by the uploader. Original caption released with image: This mosaic of Cerealia Facula [in the crater Occator on the asteroid and dwarf planet Ceres ] is based on images obtained by NASA's Dawn spacecr",
+    "cropped_from": "pia21924-mosaic-of-cerealia-facula-in-occator.jpg",
+    "note": "Cerealia Facula, мозаика Dawn с высоты до 34 км, 2018 г. (PIA21924)"
+  },
+  {
+    "file": "occator-wide.jpg",
+    "title": "PIA20350 - Occator from LAMO.jpg",
+    "author": "NASA/JPL-Caltech/UCLA/MPS/DLR/IDA/PSI",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:PIA20350_-_Occator_from_LAMO.jpg",
+    "credit": "NASA/JPL-Caltech/UCLA/MPS/DLR/IDA/PSI · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/JPL-Caltech/UCLA/MPS/DLR/IDA/PSI · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      1000,
+      556
+    ],
+    "description": "Occator crater, measuring 57 miles (92 kilometers) across and 2.5 miles (4 kilometers) deep, contains the brightest area on Ceres . This region has been the subject of intense interest since Dawn 's approach to the dwarf planet in early 2015. Dawn's close-up view reveals a dome in a smooth-walled pi",
+    "cropped_from": "pia20350-occator-from-lamo.jpg",
+    "note": "кратер Оккатор, мозаика Dawn, опубликована 22.03.2016 (PIA20350)"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "file": "lander-philae-philae-lander-14064329980.jpg",
+    "title": "Lander Philae - Philae lander (14064329980).jpg",
+    "author": "DLR German Aerospace Center",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lander_Philae_-_Philae_lander_(14064329980).jpg",
+    "credit": "DLR German Aerospace Center · CC BY 2.0 · Wikimedia Commons",
+    "onscreen": "DLR German Aerospace Center · CC BY 2.0 · Wikimedia Commons",
+    "size": [
+      1600,
+      1067
+    ],
+    "description": "макет посадочного модуля «Филы» в масштабе 1:1 на выставке ILA 2014 (DLR)"
+  },
+  {
+    "file": "vlt-tracks-rosetta-s-comet.jpg",
+    "title": "VLT Tracks Rosetta's Comet.jpg",
+    "author": "Colin Snodgrass/ESO/ESA",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:VLT_Tracks_Rosetta%27s_Comet.jpg",
+    "credit": "Colin Snodgrass/ESO/ESA · CC BY 4.0 · Wikimedia Commons",
+    "onscreen": "Colin Snodgrass/ESO/ESA · CC BY 4.0 · Wikimedia Commons",
+    "size": [
+      1600,
+      1030
+    ],
+    "description": "комета 67P с наземного телескопа VLT (ESO), 11.08.2014"
+  },
+  {
+    "file": "philae-closeup.jpg",
+    "title": "Philae found!",
+    "author": "esa.int",
+    "license": "скриншот первоисточника",
+    "source": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Philae_found",
+    "credit": "скриншот esa.int · 22.11.2026 · кадрирование",
+    "onscreen": "скриншот esa.int · 22.11.2026 · кадр",
+    "size": [
+      696,
+      595
+    ],
+    "description": "«Филы» в трещине: снимок OSIRIS 02.09.2016 с 2,7 км (ESA/Rosetta/MPS for OSIRIS Team), вырезка со страницы ESA «Philae found!»",
+    "cropped_from": "esa-philae-found.png"
+  },
+  {
+    "file": "philae-found-page.jpg",
+    "title": "Philae found!",
+    "author": "esa.int",
+    "license": "скриншот первоисточника",
+    "source": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Philae_found",
+    "credit": "скриншот esa.int · 22.11.2026 · кадрирование",
+    "onscreen": "скриншот esa.int · 22.11.2026 · кадр",
+    "size": [
+      2880,
+      930
+    ],
+    "description": "заголовок и коллаж страницы ESA «Philae found!» от 05.09.2016, без шапки сайта",
+    "cropped_from": "esa-philae-found.png"
+  },
+  {
+    "file": "comet-3aug.jpg",
+    "title": "Rosetta arrives at comet destination",
+    "author": "esa.int",
+    "license": "скриншот первоисточника",
+    "source": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Rosetta_arrives_at_comet_destination",
+    "credit": "скриншот esa.int · 22.11.2026 · кадрирование",
+    "onscreen": "скриншот esa.int · 22.11.2026 · кадр",
+    "size": [
+      1330,
+      990
+    ],
+    "description": "ядро кометы: снимок OSIRIS 03.08.2014 с 285 км (ESA/Rosetta/MPS for OSIRIS Team), вырезка со страницы ESA «Rosetta arrives at comet destination»",
+    "cropped_from": "esa-arrives.png"
+  },
+  {
+    "file": "last-image.jpg",
+    "title": "Mission complete: Rosetta’s journey ends in daring descent to comet",
+    "author": "esa.int",
+    "license": "скриншот первоисточника",
+    "source": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Mission_complete_Rosetta_s_journey_ends_in_daring_descent_to_comet",
+    "credit": "скриншот esa.int · 22.11.2026 · кадрирование",
+    "onscreen": "скриншот esa.int · 22.11.2026 · кадр",
+    "size": [
+      696,
+      595
+    ],
+    "description": "последний снимок «Розетты» 30.09.2016 (ESA/Rosetta/MPS for OSIRIS Team), вырезка со страницы ESA «Mission complete»",
+    "cropped_from": "esa-mission-complete.png"
+  }
+]

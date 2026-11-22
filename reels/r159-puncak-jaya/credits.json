@@ -1,0 +1,34 @@
+[
+  {
+    "file": "pj-1988.jpg",
+    "title": "puncakjaya_tm5_1988308_lrg.jpg — NASA Earth Observatory, «The Last Ice on Puncak Jaya», 16.11.2026",
+    "author": "NASA Earth Observatory / Lauren Dauphin, данные Landsat 5 (USGS)",
+    "license": "скриншот первоисточника",
+    "source": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/the-last-ice-on-puncak-jaya/puncakjaya_tm5_1988308_lrg.jpg",
+    "credit": "NASA Earth Observatory · Landsat 5 / USGS · скриншот assets.science.nasa.gov · 22.11.2026",
+    "onscreen": "NASA Earth Observatory · Landsat 5 / USGS · скриншот assets.science.nasa.gov · 22.11.2026",
+    "size": [
+      2672,
+      1798
+    ],
+    "description": "Пунчак-Джая, хребет Судирман (Новая Гвинея), Landsat 5 TM, 03.11.1988, ложные цвета (лёд голубой, скалы коричневые, растительность зелёная). Файла этого размера нет на Commons (там только версия 1988 года 1280 px); снят fetch_media.py --shot с адреса снимка на странице NASA EO и обрезан по краям картинки (--crop). Снимок NASA — общественное достояние.",
+    "cropped_from": "pj-1988-shot.png (удалён после кадрирования)",
+    "page": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/"
+  },
+  {
+    "file": "pj-2026.jpg",
+    "title": "puncakjaya_oli2_20261019_lrg.jpg — NASA Earth Observatory, «The Last Ice on Puncak Jaya», 16.11.2026",
+    "author": "NASA Earth Observatory / Lauren Dauphin, данные Landsat 9 (USGS)",
+    "license": "скриншот первоисточника",
+    "source": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/the-last-ice-on-puncak-jaya/puncakjaya_oli2_20261019_lrg.jpg",
+    "credit": "NASA Earth Observatory · Landsat 9 / USGS · скриншот assets.science.nasa.gov · 22.11.2026",
+    "onscreen": "NASA Earth Observatory · Landsat 9 / USGS · скриншот assets.science.nasa.gov · 22.11.2026",
+    "size": [
+      2672,
+      1798
+    ],
+    "description": "Пунчак-Джая, хребет Судирман (Новая Гвинея), Landsat 9 OLI, 19.10.2026, ложные цвета (лёд голубой, скалы коричневые, растительность зелёная). Файла этого размера нет на Commons (там только версия 1988 года 1280 px); снят fetch_media.py --shot с адреса снимка на странице NASA EO и обрезан по краям картинки (--crop). Снимок NASA — общественное достояние.",
+    "cropped_from": "pj-2026-shot.png (удалён после кадрирования)",
+    "page": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/"
+  }
+]

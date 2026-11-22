@@ -1,0 +1,47 @@
+[
+  {
+    "file": "fwp-terms.jpg",
+    "title": "Anthropic, PBC — Free Writing Prospectus (pricing), 18.11.2026",
+    "author": "Anthropic, PBC · документ SEC EDGAR (sec.gov)",
+    "license": "скриншот первоисточника",
+    "source": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026074937/anthropicpbc-fwppricing.htm",
+    "credit": "скриншот sec.gov · 22.11.2026 · кадрирование",
+    "onscreen": "скриншот sec.gov · 22.11.2026 · кадр",
+    "size": [
+      1240,
+      710
+    ],
+    "description": "FWP о цене размещения: строки Issuer, Symbol, Size $81,340,000,000, Concurrent Private Placement $26.0 billion, Price to Public $83.00 per share, Pricing/Trade Date. Колонка сужена до 600 px (--js), битая картинка-заглушка image_0.jpg скрыта; текст не менялся. Логотипов и фото людей нет. Страница скачана с sec.gov 22.11.2026 (curl с заявленным User-Agent: headless-браузер SEC блокирует) и снята fetch_media.py --shot с этой копии.",
+    "cropped_from": "fwp-page.png (полный скриншот, в ролик не идёт)"
+  },
+  {
+    "file": "ops-full.jpg",
+    "title": "Anthropic, PBC — Prospectus 424B4, 19.11.2026, раздел Results of Operations",
+    "author": "Anthropic, PBC · документ SEC EDGAR (sec.gov)",
+    "license": "скриншот первоисточника",
+    "source": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026074944/anthropicpbc-424b4.htm",
+    "credit": "скриншот sec.gov · 22.11.2026 · кадрирование",
+    "onscreen": "скриншот sec.gov · 22.11.2026 · кадр",
+    "size": [
+      1268,
+      993
+    ],
+    "description": "424B4, с. 153, Results of Operations: таблица отчёта о прибылях 2023–2025 и 9 мес. 2025/2026 (в млн $), от Revenue до Net loss (104,039). Страница в обычной вёрстке, прокручена к таблице (--js); текст не менялся. Логотипов и фото людей нет. Страница скачана с sec.gov 22.11.2026 (curl с заявленным User-Agent: headless-браузер SEC блокирует) и снята fetch_media.py --shot с этой копии.",
+    "cropped_from": "s1-table.png (экран страницы, в ролик не идёт)"
+  },
+  {
+    "file": "ops-bottom.jpg",
+    "title": "Anthropic, PBC — Prospectus 424B4, 19.11.2026, раздел Results of Operations",
+    "author": "Anthropic, PBC · документ SEC EDGAR (sec.gov)",
+    "license": "скриншот первоисточника",
+    "source": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026074944/anthropicpbc-424b4.htm",
+    "credit": "скриншот sec.gov · 22.11.2026 · кадрирование",
+    "onscreen": "скриншот sec.gov · 22.11.2026 · кадр",
+    "size": [
+      1268,
+      424
+    ],
+    "description": "424B4, та же таблица, строки Operating loss (1,260) — Change in fair value of convertible notes, derivative liabilities, and SAFEs (94,324) — Other income (expense), net (10,397) — Net loss (104,039). Страница скачана с sec.gov 22.11.2026 (curl с заявленным User-Agent: headless-браузер SEC блокирует) и снята fetch_media.py --shot с этой копии.",
+    "cropped_from": "s1-table.png (экран страницы, в ролик не идёт)"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "file": "at-sen.jpg",
+    "title": "atacamadesert_oli_20260914_lrg.jpg — NASA Earth Observatory, «El Niño Rains Paint the Atacama», Image of the Day 19.11.2026",
+    "author": "NASA Earth Observatory / Michala Garrison, данные Landsat 8 (USGS)",
+    "license": "public domain",
+    "source": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/el-ni%C3%B1o-rains-paint-the-atacama/atacamadesert_oli_20260914_lrg.jpg",
+    "credit": "NASA Earth Observatory / Michala Garrison · Landsat 8 / USGS · Public domain · кадр",
+    "onscreen": "NASA Earth Observatory / Michala Garrison · Landsat 8 / USGS · Public domain · кадр",
+    "size": [
+      1200,
+      1200
+    ],
+    "description": "Пустыня Атакама к юго-западу от Копьяпо (Чили), 14.09.2026, Landsat 8 OLI, естественные цвета. Вырезка x 250–1750, y 4450–5950, уменьшена до 1200 px. Зелёное с белым — цветение Nolana (по подписи NASA).",
+    "page": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+    "downloaded": "22.11.2026, curl, файл «Downloads» со страницы NASA EO (JPEG 5779×6584); NASA: «generally are not subject to copyright in the United States» (nasa.gov/nasa-brand-center/images-and-media), данные Landsat — USGS",
+    "cropped_from": "atacamadesert_oli_20260914_lrg.jpg"
+  },
+  {
+    "file": "at-okt.jpg",
+    "title": "atacamadesert_oli2_20261024_lrg.jpg — NASA Earth Observatory, «El Niño Rains Paint the Atacama», Image of the Day 19.11.2026",
+    "author": "NASA Earth Observatory / Michala Garrison, данные Landsat 9 (USGS)",
+    "license": "public domain",
+    "source": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/el-ni%C3%B1o-rains-paint-the-atacama/atacamadesert_oli2_20261024_lrg.jpg",
+    "credit": "NASA Earth Observatory / Michala Garrison · Landsat 9 / USGS · Public domain · кадр",
+    "onscreen": "NASA Earth Observatory / Michala Garrison · Landsat 9 / USGS · Public domain · кадр",
+    "size": [
+      1200,
+      1200
+    ],
+    "description": "Тот же участок 24.10.2026, Landsat 9 OLI. Вырезка x 250–1750, y 4450–5950 — та же, что у at-sen.jpg. Красно-фиолетовое — цветение Cistanthe (по подписи NASA).",
+    "page": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+    "downloaded": "22.11.2026, curl, файл «Downloads» со страницы NASA EO (JPEG 5779×6584); NASA: «generally are not subject to copyright in the United States» (nasa.gov/nasa-brand-center/images-and-media), данные Landsat — USGS",
+    "cropped_from": "atacamadesert_oli2_20261024_lrg.jpg"
+  },
+  {
+    "file": "at-cover.jpg",
+    "title": "atacamadesert_oli2_20261024_lrg.jpg — NASA Earth Observatory, «El Niño Rains Paint the Atacama», Image of the Day 19.11.2026",
+    "author": "NASA Earth Observatory / Michala Garrison, данные Landsat 9 (USGS)",
+    "license": "public domain",
+    "source": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/el-ni%C3%B1o-rains-paint-the-atacama/atacamadesert_oli2_20261024_lrg.jpg",
+    "credit": "NASA Earth Observatory / Michala Garrison · Landsat 9 / USGS · Public domain · кадр",
+    "onscreen": "NASA Earth Observatory / Michala Garrison · Landsat 9 / USGS · Public domain · кадр",
+    "size": [
+      1100,
+      1210
+    ],
+    "description": "Вырезка для обложки: x 780–1560, y 4810–5668 исходника 5779×6584, 24.10.2026, увеличена до 1100×1210 (×1,41), цвета без изменений.",
+    "page": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+    "downloaded": "22.11.2026, curl, файл «Downloads» со страницы NASA EO (JPEG 5779×6584); NASA: «generally are not subject to copyright in the United States» (nasa.gov/nasa-brand-center/images-and-media), данные Landsat — USGS",
+    "cropped_from": "atacamadesert_oli2_20261024_lrg.jpg"
+  },
+  {
+    "file": "at-obzor.jpg",
+    "title": "atacamadesert_oli2_20261024_lrg.jpg — NASA Earth Observatory, «El Niño Rains Paint the Atacama», Image of the Day 19.11.2026",
+    "author": "NASA Earth Observatory / Michala Garrison, данные Landsat 9 (USGS)",
+    "license": "public domain",
+    "source": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/el-ni%C3%B1o-rains-paint-the-atacama/atacamadesert_oli2_20261024_lrg.jpg",
+    "credit": "NASA Earth Observatory / Michala Garrison · Landsat 9 / USGS · Public domain",
+    "onscreen": "NASA Earth Observatory / Michala Garrison · Landsat 9 / USGS · Public domain",
+    "size": [
+      1300,
+      1481
+    ],
+    "description": "Весь снимок 24.10.2026, уменьшен до 1300 px по ширине, без обрезки.",
+    "page": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+    "downloaded": "22.11.2026, curl, файл «Downloads» со страницы NASA EO (JPEG 5779×6584); NASA: «generally are not subject to copyright in the United States» (nasa.gov/nasa-brand-center/images-and-media), данные Landsat — USGS",
+    "cropped_from": "atacamadesert_oli2_20261024_lrg.jpg"
+  }
+]

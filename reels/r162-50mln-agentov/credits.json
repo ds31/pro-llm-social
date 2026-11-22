@@ -1,0 +1,47 @@
+[
+  {
+    "file": "blog-50m.jpg",
+    "title": "Ignite 2026: Building the frontier ecosystem - The Official Microsoft Blog",
+    "author": "Microsoft (blogs.microsoft.com)",
+    "license": "скриншот первоисточника",
+    "source": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
+    "credit": "скриншот blogs.microsoft.com · 22.11.2026 · кадрирование",
+    "onscreen": "скриншот blogs.microsoft.com · 22.11.2026 · кадр",
+    "size": [
+      1090,
+      340
+    ],
+    "description": "Раздел «Agent 365» записи Сатьи Наделлы в официальном блоге Microsoft от 17.11.2026: «It is a control plane… We already have over 50 million agents in Agent 365.» Обложка. Колонка текста сужена до 560 px (--js), текст страницы не менялся. Логотипов и фото людей в кадре нет.",
+    "cropped_from": "research-media/msblog-narrow.png (полный скриншот страницы, в ролик не идёт)"
+  },
+  {
+    "file": "blog-head.jpg",
+    "title": "Ignite 2026: Building the frontier ecosystem - The Official Microsoft Blog",
+    "author": "Microsoft (blogs.microsoft.com)",
+    "license": "скриншот первоисточника",
+    "source": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
+    "credit": "скриншот blogs.microsoft.com · 22.11.2026 · кадрирование",
+    "onscreen": "скриншот blogs.microsoft.com · 22.11.2026 · кадр",
+    "size": [
+      1300,
+      170
+    ],
+    "description": "Заголовок записи «Ignite 2026: Building the frontier ecosystem» и дата Nov 17, 2026 | Microsoft Corporate Blogs. Кнопки соцсетей под заголовком в кадр не вошли.",
+    "cropped_from": "research-media/msblog-narrow.png (полный скриншот страницы, в ролик не идёт)"
+  },
+  {
+    "file": "blog-a365.jpg",
+    "title": "Ignite 2026: Building the frontier ecosystem - The Official Microsoft Blog",
+    "author": "Microsoft (blogs.microsoft.com)",
+    "license": "скриншот первоисточника",
+    "source": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
+    "credit": "скриншот blogs.microsoft.com · 22.11.2026 · кадрирование",
+    "onscreen": "скриншот blogs.microsoft.com · 22.11.2026 · кадр",
+    "size": [
+      1090,
+      640
+    ],
+    "description": "Раздел «Agent 365» целиком: абзац про 50 млн агентов и абзац про FinOps / Agent 365 Business Analytics. Колонка сужена до 560 px (--js), текст не менялся.",
+    "cropped_from": "research-media/msblog-narrow.png (полный скриншот страницы, в ролик не идёт)"
+  }
+]

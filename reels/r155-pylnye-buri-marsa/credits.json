@@ -1,0 +1,95 @@
+[
+  {
+    "file": "mars-dust-storm.jpg",
+    "title": "Mars dust storm.jpg",
+    "author": "NASA/JPL-Caltech/MSSS",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Mars_dust_storm.jpg",
+    "credit": "NASA/JPL-Caltech/MSSS · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL-Caltech/MSSS · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      901
+    ],
+    "description": "Comparison of Mars with and without a dust storm, taken by MARCI on the MRO in 2018.",
+    "note": "на Commons автор указан как University of Arizona — ошибка; на странице-источнике nasa.gov (MRO 15 лет) снимок MARCI подписан NASA/JPL-Caltech/MSSS. Даты 28.05 и 01.07.2018 — из подписей на снимке"
+  },
+  {
+    "file": "stormy-mars-in-opposition-in-2018.jpg",
+    "title": "Stormy Mars in opposition in 2018.jpg",
+    "author": "NASA, ESA, and STScI",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stormy_Mars_in_opposition_in_2018.jpg",
+    "credit": "NASA, ESA, and STScI · CC BY 4.0 · Wikimedia Commons",
+    "onscreen": "NASA, ESA, and STScI · CC BY 4.0 · Wikimedia Commons",
+    "size": [
+      1600,
+      1657
+    ],
+    "description": "In mid-July the NASA/ESA Hubble Space Telescope observed Mars, only 13 days before the planet made its closest approach to Earth in 2018. While previous images showed detailed surface features of the planet, this new image is dominated by a gigantic sandstorm enshrouding the entire planet. Each Mart",
+    "note": "ESA/Hubble heic1814c, середина июля 2018; полная строка авторства обязательна"
+  },
+  {
+    "file": "nasa-curiosityrover-selfie-june2018.jpg",
+    "title": "NASA-CuriosityRover-Selfie-June2018.jpg",
+    "author": "NASA/JPL-Caltech/MSSS, сборка Seán Doran",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:NASA-CuriosityRover-Selfie-June2018.jpg",
+    "credit": "NASA/JPL-Caltech/MSSS/Seán Doran · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL-Caltech/MSSS/Seán Doran · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      2210
+    ],
+    "description": "NASA's Curiosity rover takes stunning selfie during massive dust storm on Mars [ 1 ] http://www.foxnews.com/tech/2018/06/18/nasas-curiosity-rover-takes-stunning-selfie-during-massive-dust-storm-on-mars.html https://www.flickr.com/photos/seandoran/42803757572/ But first, let me take a selfie. NASA's ",
+    "note": "автопортрет Curiosity из кадров MAHLI, 15.06.2018 (как PIA22486)"
+  },
+  {
+    "file": "marci-may.jpg",
+    "title": "Mars dust storm.jpg",
+    "author": "NASA/JPL-Caltech/MSSS",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Mars_dust_storm.jpg",
+    "credit": "NASA/JPL-Caltech/MSSS · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/JPL-Caltech/MSSS · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      390,
+      390
+    ],
+    "description": "Comparison of Mars with and without a dust storm, taken by MARCI on the MRO in 2018.",
+    "cropped_from": "mars-dust-storm.jpg",
+    "note": "на Commons автор указан как University of Arizona — ошибка; на странице-источнике nasa.gov (MRO 15 лет) снимок MARCI подписан NASA/JPL-Caltech/MSSS. Даты 28.05 и 01.07.2018 — из подписей на снимке"
+  },
+  {
+    "file": "marci-july.jpg",
+    "title": "Mars dust storm.jpg",
+    "author": "NASA/JPL-Caltech/MSSS",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Mars_dust_storm.jpg",
+    "credit": "NASA/JPL-Caltech/MSSS · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/JPL-Caltech/MSSS · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      390,
+      390
+    ],
+    "description": "Comparison of Mars with and without a dust storm, taken by MARCI on the MRO in 2018.",
+    "cropped_from": "mars-dust-storm.jpg",
+    "note": "на Commons автор указан как University of Arizona — ошибка; на странице-источнике nasa.gov (MRO 15 лет) снимок MARCI подписан NASA/JPL-Caltech/MSSS. Даты 28.05 и 01.07.2018 — из подписей на снимке"
+  },
+  {
+    "file": "curiosity-top.jpg",
+    "title": "NASA-CuriosityRover-Selfie-June2018.jpg",
+    "author": "NASA/JPL-Caltech/MSSS, сборка Seán Doran",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:NASA-CuriosityRover-Selfie-June2018.jpg",
+    "credit": "NASA/JPL-Caltech/MSSS/Seán Doran · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/JPL-Caltech/MSSS/Seán Doran · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      1920,
+      1300
+    ],
+    "description": "NASA's Curiosity rover takes stunning selfie during massive dust storm on Mars [ 1 ] http://www.foxnews.com/tech/2018/06/18/nasas-curiosity-rover-takes-stunning-selfie-during-massive-dust-storm-on-mars.html https://www.flickr.com/photos/seandoran/42803757572/ But first, let me take a selfie. NASA's ",
+    "note": "автопортрет Curiosity из кадров MAHLI, 15.06.2018 (как PIA22486)",
+    "cropped_from": "nasa-curiosityrover-selfie-june2018.jpg"
+  }
+]

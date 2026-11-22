@@ -1,0 +1,90 @@
+[
+  {
+    "file": "triton-moon-mosaic-voyager-2-large.jpg",
+    "title": "Triton moon mosaic Voyager 2 (large).jpg",
+    "author": "NASA / Jet Propulsion Lab / U.S. Geological Survey",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Triton_moon_mosaic_Voyager_2_(large).jpg",
+    "credit": "NASA/JPL/USGS · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL/USGS · Public domain · Wikimedia Commons",
+    "size": [
+      1920,
+      1920
+    ],
+    "description": "Global Color Mosaic of Triton, taken by Voyager 2 in 1989"
+  },
+  {
+    "file": "voyager-2-neptune-and-triton.jpg",
+    "title": "Voyager 2 Neptune and Triton.jpg",
+    "author": "NASA / Jet Propulsion Lab",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Voyager_2_Neptune_and_Triton.jpg",
+    "credit": "NASA/JPL · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL · Public domain · Wikimedia Commons",
+    "size": [
+      800,
+      600
+    ],
+    "description": "Crescents of Neptune and Triton, Voyager 2, 1989 (NASA Photojournal PIA02215)"
+  },
+  {
+    "file": "triton-polar-streaks.jpg",
+    "title": "Triton moon mosaic Voyager 2 (large).jpg",
+    "author": "NASA / Jet Propulsion Lab / U.S. Geological Survey",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Triton_moon_mosaic_Voyager_2_(large).jpg",
+    "credit": "NASA/JPL/USGS · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/JPL/USGS · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      640,
+      400
+    ],
+    "description": "Global Color Mosaic of Triton, taken by Voyager 2 in 1989",
+    "cropped_from": "triton-moon-mosaic-voyager-2-large.jpg"
+  },
+  {
+    "file": "triton-cover.jpg",
+    "title": "Triton moon mosaic Voyager 2 (large).jpg",
+    "author": "NASA / Jet Propulsion Lab / U.S. Geological Survey",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Triton_moon_mosaic_Voyager_2_(large).jpg",
+    "credit": "NASA/JPL/USGS · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/JPL/USGS · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      1600,
+      1490
+    ],
+    "description": "Global Color Mosaic of Triton, taken by Voyager 2 in 1989",
+    "cropped_from": "triton-moon-mosaic-voyager-2-large.jpg"
+  },
+  {
+    "file": "triton-real.jpg",
+    "title": "Triton moon mosaic Voyager 2 (large).jpg",
+    "author": "NASA / Jet Propulsion Lab / U.S. Geological Survey",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Triton_moon_mosaic_Voyager_2_(large).jpg",
+    "credit": "NASA/JPL/USGS · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/JPL/USGS · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      1920,
+      1440
+    ],
+    "description": "Global Color Mosaic of Triton, taken by Voyager 2 in 1989",
+    "cropped_from": "triton-moon-mosaic-voyager-2-large.jpg"
+  },
+  {
+    "file": "neptune-triton-crescents.jpg",
+    "title": "Voyager 2 Neptune and Triton.jpg",
+    "author": "NASA / Jet Propulsion Lab",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Voyager_2_Neptune_and_Triton.jpg",
+    "credit": "NASA/JPL · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/JPL · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      600,
+      290
+    ],
+    "description": "Crescents of Neptune and Triton, Voyager 2, 1989 (NASA Photojournal PIA02215)",
+    "cropped_from": "voyager-2-neptune-and-triton.jpg"
+  }
+]

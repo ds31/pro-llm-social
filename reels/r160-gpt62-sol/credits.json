@@ -1,0 +1,62 @@
+[
+  {
+    "file": "oa-hero.jpg",
+    "title": "Представляем GPT-6.2 Astra и Sol | OpenAI",
+    "author": "OpenAI (openai.com)",
+    "license": "скриншот первоисточника",
+    "source": "https://openai.com/ru-RU/index/introducing-gpt-6-2-astra-sol/",
+    "credit": "скриншот openai.com · 22.11.2026 · кадрирование",
+    "onscreen": "скриншот openai.com · 22.11.2026 · кадр",
+    "size": [
+      1920,
+      1320
+    ],
+    "description": "Заставка первого экрана: «Astra · GPT-6.2 · Sol» на звёздном фоне — обложка и шот «первоисточник». Шапка сайта с логотипом скрыта (CSS), баннер cookies закрыт. Логотипа и людей в кадре нет. Снято 22.11.2026 через Playwright (MCP): fetch_media.py --shot упёрся в проверку Cloudflare. Текст страницы не менялся.",
+    "cropped_from": "oa-top.png (исходный скриншот, в ролик не идёт)"
+  },
+  {
+    "file": "oa-plot.jpg",
+    "title": "Представляем GPT-6.2 Astra и Sol | OpenAI",
+    "author": "OpenAI (openai.com)",
+    "license": "скриншот первоисточника",
+    "source": "https://openai.com/ru-RU/index/introducing-gpt-6-2-astra-sol/",
+    "credit": "скриншот openai.com · 22.11.2026 · кадрирование",
+    "onscreen": "скриншот openai.com · 22.11.2026 · кадр",
+    "size": [
+      1090,
+      922
+    ],
+    "description": "График FrontierCode 2.0 (результат против стоимости попытки, логарифмическая шкала) из раздела про GPT-6.2 Sol, русская версия страницы; заголовок графика и значок OpenAI в углу срезаны кадрированием. Снято 22.11.2026 через Playwright (MCP), текст не менялся.",
+    "cropped_from": "oa-chart.png (исходный скриншот, в ролик не идёт)"
+  },
+  {
+    "file": "oa-para-c.jpg",
+    "title": "Представляем GPT-6.2 Astra и Sol | OpenAI",
+    "author": "OpenAI (openai.com)",
+    "license": "скриншот первоисточника",
+    "source": "https://openai.com/ru-RU/index/introducing-gpt-6-2-astra-sol/",
+    "credit": "скриншот openai.com · 22.11.2026 · кадрирование",
+    "onscreen": "скриншот openai.com · 22.11.2026 · кадр",
+    "size": [
+      1106,
+      170
+    ],
+    "description": "Абзац: «В тесте FrontierCode 2.0 от Cognition GPT‑6.2 Sol отстаёт от GPT‑6.2 Astra не более чем на 0,5 балла при затратах примерно в пять раз ниже (обе модели — на уровне Max).» Снято 22.11.2026 браузером Playwright (MCP): fetch_media.py --shot упёрся в проверку Cloudflare. Текст страницы не менялся.",
+    "cropped_from": "oa-para.png (исходный скриншот, в ролик не идёт)"
+  },
+  {
+    "file": "oa-price-c.jpg",
+    "title": "Представляем GPT-6.2 Astra и Sol | OpenAI",
+    "author": "OpenAI (openai.com)",
+    "license": "скриншот первоисточника",
+    "source": "https://openai.com/ru-RU/index/introducing-gpt-6-2-astra-sol/",
+    "credit": "скриншот openai.com · 22.11.2026 · кадрирование",
+    "onscreen": "скриншот openai.com · 22.11.2026 · кадр",
+    "size": [
+      1106,
+      506
+    ],
+    "description": "Абзац раздела «Цены и доступность» со ставками API Astra ($8 / $0,40 / $40) и Sol ($2 / $0,10 / $10) за 1 млн токенов. Снято 22.11.2026 браузером Playwright (MCP): fetch_media.py --shot упёрся в проверку Cloudflare. Текст страницы не менялся.",
+    "cropped_from": "oa-price.png (исходный скриншот, в ролик не идёт)"
+  }
+]

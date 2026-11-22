@@ -1,0 +1,70 @@
+[
+  {
+    "file": "sn-gemini.jpg",
+    "title": "Gemini South captures supernova SN 2026ahvu (noirlab2628a)",
+    "author": "International Gemini Observatory/NOIRLab/NSF/AURA; обработка: J. Miller, M. Rodriguez, T.A. Rector, D. de Martin, M. Zamani",
+    "license": "CC BY 4.0",
+    "source": "https://noirlab.edu/public/images/noirlab2628a/",
+    "credit": "International Gemini Observatory/NOIRLab/NSF/AURA · CC BY 4.0 · noirlab.edu",
+    "onscreen": "International Gemini Observatory/NOIRLab/NSF/AURA · CC BY 4.0 · noirlab.edu",
+    "size": [
+      1600,
+      1395
+    ],
+    "description": "Newly discovered supernova SN 2026ahvu is seen here in the nearby spiral galaxy NGC 1433. The supernova appears as a very bright point of light to the right and slightly below the center of the galaxy. Gemini South / GMOS.",
+    "primary_source": "https://noirlab.edu/public/images/noirlab2628a/",
+    "downloaded": "22.11.2026, storage.noirlab.edu (Large JPEG), лицензия noirlab.edu/public/copyright",
+    "note": "уменьшен до 1600 px по ширине, без обрезки"
+  },
+  {
+    "file": "sn-cover.jpg",
+    "title": "Gemini South captures supernova SN 2026ahvu (noirlab2628a)",
+    "author": "International Gemini Observatory/NOIRLab/NSF/AURA; обработка: J. Miller, M. Rodriguez, T.A. Rector, D. de Martin, M. Zamani",
+    "license": "CC BY 4.0",
+    "source": "https://noirlab.edu/public/images/noirlab2628a/",
+    "credit": "International Gemini Observatory/NOIRLab/NSF/AURA · CC BY 4.0 · noirlab.edu · кадр",
+    "onscreen": "International Gemini Observatory/NOIRLab/NSF/AURA · CC BY 4.0 · noirlab.edu · кадр",
+    "size": [
+      1200,
+      1135
+    ],
+    "description": "Вырезка для обложки: x 300–1895, y 250–1759 исходника 2018×1759, уменьшено до 1200 px.",
+    "primary_source": "https://noirlab.edu/public/images/noirlab2628a/",
+    "downloaded": "22.11.2026, storage.noirlab.edu (Large JPEG), лицензия noirlab.edu/public/copyright",
+    "cropped_from": "noirlab2628a.jpg (Large JPEG)"
+  },
+  {
+    "file": "sn-posle.jpg",
+    "title": "DECam captures supernova SN 2026ahvu (noirlab2628b)",
+    "author": "CTIO/NOIRLab/NSF/AURA; обработка: M. Zamani, D. de Martin (NSF NOIRLab)",
+    "license": "CC BY 4.0",
+    "source": "https://noirlab.edu/public/images/noirlab2628b/",
+    "credit": "CTIO/NOIRLab/NSF/AURA · CC BY 4.0 · noirlab.edu · кадр",
+    "onscreen": "CTIO/NOIRLab/NSF/AURA · CC BY 4.0 · noirlab.edu · кадр",
+    "size": [
+      1000,
+      1000
+    ],
+    "description": "This image was taken a few days after ATLAS first detected SN 2026ahvu on 2 November 2026. The final composite also includes observations taken between 2013 and 2018. Вырезка x 1300–2300, y 680–1680.",
+    "primary_source": "https://noirlab.edu/public/images/noirlab2628b/",
+    "downloaded": "22.11.2026, storage.noirlab.edu (Large JPEG), лицензия noirlab.edu/public/copyright",
+    "cropped_from": "noirlab2628b.jpg (Large JPEG)"
+  },
+  {
+    "file": "sn-do.jpg",
+    "title": "DECam captures NGC 1433 before supernova SN 2026ahvu (noirlab2628e)",
+    "author": "Dark Energy Survey/DOE/FNAL/DECam/CTIO/NOIRLab/NSF/AURA; обработка: M. Zamani, D. de Martin (NSF NOIRLab)",
+    "license": "CC BY 4.0",
+    "source": "https://noirlab.edu/public/images/noirlab2628e/",
+    "credit": "Dark Energy Survey/DOE/FNAL/DECam/CTIO/NOIRLab/NSF/AURA · CC BY 4.0 · noirlab.edu · кадр",
+    "onscreen": "Dark Energy Survey/DOE/FNAL/DECam/CTIO/NOIRLab/NSF/AURA · CC BY 4.0 · noirlab.edu · кадр",
+    "size": [
+      1000,
+      1000
+    ],
+    "description": "NGC 1433 before the detection of supernova SN 2026ahvu, DECam, Dark Energy Survey (2013–2019). Вырезка x 1300–2300, y 680–1680 — та же, что у sn-posle.jpg.",
+    "primary_source": "https://noirlab.edu/public/images/noirlab2628e/",
+    "downloaded": "22.11.2026, storage.noirlab.edu (Large JPEG), лицензия noirlab.edu/public/copyright",
+    "cropped_from": "noirlab2628e.jpg (Large JPEG)"
+  }
+]

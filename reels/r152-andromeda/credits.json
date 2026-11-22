@@ -1,0 +1,59 @@
+[
+  {
+    "file": "andromeda-galaxy-with-h-alpha.jpg",
+    "title": "Andromeda Galaxy (with h-alpha).jpg",
+    "author": "Adam Evans",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Andromeda_Galaxy_(with_h-alpha).jpg",
+    "credit": "Adam Evans · CC BY 2.0 · Wikimedia Commons",
+    "onscreen": "Adam Evans · CC BY 2.0 · Wikimedia Commons",
+    "size": [
+      2400,
+      1577
+    ],
+    "description": "The Andromeda Galaxy is a spiral galaxy approximately 2.5 million light-years away in the constellation Andromeda. The image also shows Messier Objects 32 and 110 , as well as NGC 206 (a bright star cloud in the Andromeda Galaxy) and the star Nu Andromedae . This image was taken using a hydrogen-alp"
+  },
+  {
+    "file": "hubble-interacting-galaxy-ngc-520-2008-04-24.jpg",
+    "title": "Hubble Interacting Galaxy NGC 520 (2008-04-24).jpg",
+    "author": "NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration, and B. Whitmore (STScI)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Hubble_Interacting_Galaxy_NGC_520_(2008-04-24).jpg",
+    "credit": "NASA, ESA, Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration, B. Whitmore (STScI) · Public domain · Wikimedia Commons",
+    "onscreen": "NASA, ESA, Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration, B. Whitmore (STScI) · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      894
+    ],
+    "description": "NGC 520 is the product of a collision between two disk galaxies that started 300 million years ago. It exemplifies the middle stages of the merging process: the disks of the parent galaxies have merged together, but the nuclei have not yet coalesced. It features an odd-looking tail of stars and a pr"
+  },
+  {
+    "file": "hubble-s-panoramic-view-of-the-andromeda-ga-7f387c.jpg",
+    "title": "Hubble’s panoramic view of the Andromeda Galaxy (heic2501a).jpg",
+    "author": "NASA, ESA, B. Williams (University of Washington)",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hubble%E2%80%99s_panoramic_view_of_the_Andromeda_Galaxy_(heic2501a).jpg",
+    "credit": "NASA, ESA, B. Williams (University of Washington) · CC BY 4.0 · Wikimedia Commons",
+    "onscreen": "NASA, ESA, B. Williams (University of Washington) · CC BY 4.0 · Wikimedia Commons",
+    "size": [
+      7000,
+      1637
+    ],
+    "description": "This the largest photomosaic ever assembled from NASA/ESA Hubble Space Telescope observations. It is a panoramic view of the neighboring Andromeda galaxy, located 2.5 million light-years away. It took over 10 years to make this vast and colorful portrait of the galaxy, requiring over 600 Hubble snap"
+  },
+  {
+    "file": "scen-mimo.jpg",
+    "title": "Milky Way and Andromeda encounters (heic2508a).jpg",
+    "author": "NASA, ESA, STScI, Till Sawala (University of Helsinki), DSS, J. DePasquale (STScI)",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Milky_Way_and_Andromeda_encounters_(heic2508a).jpg",
+    "credit": "NASA, ESA, STScI, Till Sawala (University of Helsinki), DSS, J. DePasquale (STScI) · CC BY 4.0 · Wikimedia Commons · кадр",
+    "onscreen": "NASA, ESA, STScI, Till Sawala (University of Helsinki), DSS, J. DePasquale (STScI) · CC BY 4.0 · Wikimedia Commons · кадр",
+    "size": [
+      640,
+      660
+    ],
+    "description": "This selection of images of external galaxies illustrates three encounter scenarios between our Milky Way and the neighboring Andromeda galaxy. In the top left panel, a wide-field DSS image showing galaxies M81 and M82 serves as an example of the Milky Way and Andromeda passing each other at large d",
+    "cropped_from": "milky-way-and-andromeda-encounters-heic2508a.jpg"
+  }
+]

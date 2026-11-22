@@ -1,0 +1,63 @@
+[
+  {
+    "file": "ligo-hanford-aerial-05.jpg",
+    "title": "LIGO Hanford aerial 05.jpg",
+    "author": "LIGO Laboratory",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:LIGO_Hanford_aerial_05.jpg",
+    "credit": "Courtesy Caltech/MIT/LIGO Laboratory · Public domain · Wikimedia Commons",
+    "onscreen": "Courtesy Caltech/MIT/LIGO Laboratory · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1067
+    ],
+    "description": "Обсерватория LIGO в Хэнфорде (штат Вашингтон), вид с воздуха. Commons: {{PD-USGov}}. Правила LIGO (ligo.caltech.edu/page/image-use-policy): «may be used for any purpose without prior permission», credit «Courtesy Caltech/MIT/LIGO Laboratory».",
+    "taken": "2008 (дата по Commons)"
+  },
+  {
+    "file": "aerial-view-of-ligo-livingston-599x400.jpg",
+    "title": "Aerial View Of LIGO Livingston 599x400.jpg",
+    "author": "Caltech/MIT/LIGO Laboratory",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Aerial_View_Of_LIGO_Livingston_599x400.jpg",
+    "credit": "Courtesy Caltech/MIT/LIGO Laboratory · Public domain · Wikimedia Commons",
+    "onscreen": "Courtesy Caltech/MIT/LIGO Laboratory · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1068
+    ],
+    "description": "Обсерватория LIGO в Ливингстоне (Луизиана), вид с воздуха. Commons: {{PD-USGov}}, источник ligo.caltech.edu/image/ligo20150731a. Правила LIGO (ligo.caltech.edu/page/image-use-policy): «may be used for any purpose without prior permission», credit «Courtesy Caltech/MIT/LIGO Laboratory».",
+    "taken": "2009 (дата по Commons)"
+  },
+  {
+    "file": "hanford-cover.jpg",
+    "title": "LIGO Hanford aerial 05.jpg",
+    "author": "LIGO Laboratory",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:LIGO_Hanford_aerial_05.jpg",
+    "credit": "Courtesy Caltech/MIT/LIGO Laboratory · Public domain · Wikimedia Commons · кадр",
+    "onscreen": "Courtesy Caltech/MIT/LIGO Laboratory · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      864,
+      950
+    ],
+    "description": "Обсерватория LIGO в Хэнфорде (штат Вашингтон), вид с воздуха. Commons: {{PD-USGov}}. Правила LIGO (ligo.caltech.edu/page/image-use-policy): «may be used for any purpose without prior permission», credit «Courtesy Caltech/MIT/LIGO Laboratory».",
+    "cropped_from": "ligo-hanford-aerial-05.jpg",
+    "taken": "2008 (дата по Commons)"
+  },
+  {
+    "file": "strain-overlay.jpg",
+    "title": "GW150914 Strain-diagrams whitebg.png",
+    "author": "Caltech/MIT/LIGO Lab",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:GW150914_Strain-diagrams_whitebg.png",
+    "credit": "Caltech/MIT/LIGO Lab · CC0 · Wikimedia Commons · кадр",
+    "onscreen": "Caltech/MIT/LIGO Lab · CC0 · Wikimedia Commons · кадр",
+    "size": [
+      1530,
+      770
+    ],
+    "description": "Сигнал GW150914, данные обсерваторий LIGO в Хэнфорде и Ливингстоне; на нижней панели данные Хэнфорда сдвинуты на 7 мс и перевёрнуты. Источник ligo.caltech.edu/image/ligo20160211a.",
+    "cropped_from": "gw150914-strain-diagrams-whitebg.jpg"
+  }
+]
