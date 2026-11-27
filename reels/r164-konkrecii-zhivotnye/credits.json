@@ -1,0 +1,50 @@
+[
+  {
+    "file": "box-cores.jpg",
+    "title": "Figure 1: Sampling locations … (b) Photographs of the surface of each box core",
+    "author": "Diaz-Recio Lorenzo C., Stratmann T. et al., Scientific Reports 16, 36610 (2026)",
+    "license": "CC BY 4.0",
+    "source": "https://www.nature.com/articles/s41598-026-76737-w/figures/1",
+    "credit": "рис. 1 из Diaz-Recio Lorenzo, Stratmann et al., Scientific Reports 2026 · CC BY 4.0 · nature.com · кадрирование",
+    "onscreen": "Diaz-Recio Lorenzo et al., Sci Rep 2026 · CC BY 4.0 · кадр",
+    "size": [
+      1202,
+      538
+    ],
+    "description": "Часть панели b рис. 1: «Photographs of the surface of each box core from which the nodules were collected (box core surface area = 2,500 cm²)» — 10 из 14 снимков проб на рисунке, экспедиция SO268, 2019.",
+    "cropped_from": "скриншот файла рисунка 1 (media.springernature.com, 24.11.2026); полный скриншот в ролик не идёт, из img/ удалён",
+    "taken": "пробы — экспедиция SO268 (R/V Sonne), 2019"
+  },
+  {
+    "file": "nodule-cover.jpg",
+    "title": "Figure 2: Example of a polished polymetallic nodule cross section",
+    "author": "Diaz-Recio Lorenzo C., Stratmann T. et al., Scientific Reports 16, 36610 (2026)",
+    "license": "CC BY 4.0",
+    "source": "https://www.nature.com/articles/s41598-026-76737-w/figures/2",
+    "credit": "рис. 2 из Diaz-Recio Lorenzo, Stratmann et al., Scientific Reports 2026 · CC BY 4.0 · nature.com · кадрирование",
+    "onscreen": "Diaz-Recio Lorenzo et al., Sci Rep 2026 · CC BY 4.0 · кадр",
+    "size": [
+      760,
+      835
+    ],
+    "description": "Панель a рис. 2: «Central cross section of a very small nodule» — середина полированного среза конкреции, без подписи «a)», шкалы 5 см и белого фона. Обложка и крючок.",
+    "cropped_from": "скриншот файла рисунка 2 (media.springernature.com, 24.11.2026); полный скриншот в ролик не идёт, из img/ удалён",
+    "taken": "срез — снимок авторов статьи"
+  },
+  {
+    "file": "nodule-cracks.jpg",
+    "title": "Figure 2: Example of a polished polymetallic nodule cross section",
+    "author": "Diaz-Recio Lorenzo C., Stratmann T. et al., Scientific Reports 16, 36610 (2026)",
+    "license": "CC BY 4.0",
+    "source": "https://www.nature.com/articles/s41598-026-76737-w/figures/2",
+    "credit": "рис. 2 из Diaz-Recio Lorenzo, Stratmann et al., Scientific Reports 2026 · CC BY 4.0 · nature.com · кадрирование",
+    "onscreen": "Diaz-Recio Lorenzo et al., Sci Rep 2026 · CC BY 4.0 · кадр",
+    "size": [
+      840,
+      485
+    ],
+    "description": "Панели b рис. 2: «example of a cross section along a crack from a polished nodule section» — трещина и поры среза, шкала 100 мкм; без меток «b».",
+    "cropped_from": "скриншот файла рисунка 2 (media.springernature.com, 24.11.2026); полный скриншот в ролик не идёт, из img/ удалён",
+    "taken": "срез — снимок авторов статьи"
+  }
+]

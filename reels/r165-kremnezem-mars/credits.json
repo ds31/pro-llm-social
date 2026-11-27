@@ -1,0 +1,36 @@
+[
+  {
+    "file": "idubi-mz.jpg",
+    "title": "Mars_Perseverance_ZL0_2023_0846533367_473EBY_N0930000ZCAM10057_1100LMJ.jpg (1588×1200)",
+    "author": "NASA/JPL-Caltech/ASU (Mastcam-Z, Perseverance)",
+    "license": "скриншот первоисточника",
+    "source": "https://assets.science.nasa.gov/content/dam/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2023_0846533367_473EBY_N0930000ZCAM10057_1100LMJ.jpg",
+    "credit": "NASA/JPL-Caltech/ASU · Mastcam-Z · скриншот assets.science.nasa.gov · 24.11.2026",
+    "onscreen": "NASA/JPL-Caltech/ASU · Mastcam-Z · скриншот assets.science.nasa.gov · 24.11.2026",
+    "size": [
+      2374,
+      1796
+    ],
+    "description": "Светлый камень, богатый кремнезёмом, район «Идуби», левая камера Mastcam-Z, 29.10.2026 (сол 2023), 13:03:53 местного времени. Подпись на странице: «a bright, silica-rich rock in the \"Idubi\" area using its left Mastcam-Z camera on Oct. 29, 2026 (Sol 2023)». Снят fetch_media.py --shot с адреса полного снимка со страницы-первоисточника и обрезан по краям картинки (--crop). На Commons снимка нет (поиск 24.11.2026).",
+    "cropped_from": "mz-shot.png (удалён после кадрирования)",
+    "page": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
+    "license_note": "Снимок NASA, на странице не помечен как чужой копирайт. NASA Images and Media Usage Guidelines (nasa.gov/nasa-brand-center/images-and-media): «NASA content … generally are not subject to copyright in the United States»; «NASA content used in a factual manner that does not imply endorsement may be used without needing explicit permission. NASA should be acknowledged as the source». Снимки Mastcam-Z с кредитом NASA/JPL-Caltech/ASU Commons ведёт как Public domain (напр. File:NASA’s Perseverance Rover at ‘Falbreen’ (PIA26644).jpg). Проверка 24.11.2026."
+  },
+  {
+    "file": "idubi-watson.jpg",
+    "title": "Mars_Perseverance_SIF_2023_0846550017_421EBY_N0930000SRLC00630_0000LMJ.jpg (1584×1184)",
+    "author": "NASA/JPL-Caltech (SHERLOC WATSON, Perseverance)",
+    "license": "скриншот первоисточника",
+    "source": "https://assets.science.nasa.gov/content/dam/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_SIF_2023_0846550017_421EBY_N0930000SRLC00630_0000LMJ.jpg",
+    "credit": "NASA/JPL-Caltech · WATSON · скриншот assets.science.nasa.gov · 24.11.2026",
+    "onscreen": "NASA/JPL-Caltech · WATSON · скриншот assets.science.nasa.gov · 24.11.2026",
+    "size": [
+      2400,
+      1796
+    ],
+    "description": "Крупный план камня, богатого кремнезёмом, район «Идуби», камера WATSON на манипуляторе, 29.10.2026 (сол 2023), 17:33:55 местного времени. Снят --shot с адреса полного снимка со страницы-первоисточника, обрезан --crop. JPL Image Use Policy: изображения с кредитом NASA/JPL-Caltech «may be used for any purpose without prior permission» (без намёка на одобрение NASA/JPL).",
+    "cropped_from": "watson-shot.png (удалён после кадрирования)",
+    "page": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
+    "license_note": "Снимок NASA, на странице не помечен как чужой копирайт. NASA Images and Media Usage Guidelines (nasa.gov/nasa-brand-center/images-and-media): «NASA content … generally are not subject to copyright in the United States»; «NASA content used in a factual manner that does not imply endorsement may be used without needing explicit permission. NASA should be acknowledged as the source». Снимки Mastcam-Z с кредитом NASA/JPL-Caltech/ASU Commons ведёт как Public domain (напр. File:NASA’s Perseverance Rover at ‘Falbreen’ (PIA26644).jpg). Проверка 24.11.2026."
+  }
+]
