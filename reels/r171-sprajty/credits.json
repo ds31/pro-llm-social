@@ -1,0 +1,75 @@
+[
+  {
+    "file": "time-lapse-thunderstorm-iss071e170351.jpg",
+    "title": "Time-lapse Thunderstorm (iss071e170351).jpg",
+    "author": "NASA Johnson Space Center / Matthew Dominick",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Time-lapse_Thunderstorm_(iss071e170351).jpg",
+    "credit": "NASA / Matthew Dominick · Public domain · Wikimedia Commons",
+    "onscreen": "NASA / Matthew Dominick · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1067
+    ],
+    "description": "iss071e170351 (6/3/2024) --- NASA astronaut Matthew Dominick captured red sprites from space station. The bright red flashes in the center of this image are a little-understood phenomenon associated with powerful lightning events and appear high above the clouds in Earth’s upper atmosphere. Red spri"
+  },
+  {
+    "file": "sprite-from-iss.jpg",
+    "title": "Sprite from ISS.jpg",
+    "author": "NASA JSC, Image Science and Analysis Laboratory (экипаж МКС-31)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Sprite_from_ISS.jpg",
+    "credit": "NASA JSC · экипаж МКС-31 · Public domain · Wikimedia Commons",
+    "onscreen": "NASA JSC · экипаж МКС-31 · Public domain · Wikimedia Commons",
+    "size": [
+      2400,
+      1597
+    ],
+    "description": "Image of a Sprite , as seen from the ISS . This is a still image from a time-lapse movie."
+  },
+  {
+    "file": "sprite-2012-wide.jpg",
+    "title": "Sprite from ISS.jpg",
+    "author": "NASA JSC, Image Science and Analysis Laboratory (экипаж МКС-31)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Sprite_from_ISS.jpg",
+    "credit": "NASA JSC · экипаж МКС-31 · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA JSC · экипаж МКС-31 · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      3140,
+      2555
+    ],
+    "description": "Image of a Sprite , as seen from the ISS . This is a still image from a time-lapse movie.",
+    "cropped_from": "sprite-from-iss.jpg"
+  },
+  {
+    "file": "sprite-2012-zoom.jpg",
+    "title": "Sprite from ISS.jpg",
+    "author": "NASA JSC, Image Science and Analysis Laboratory (экипаж МКС-31)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Sprite_from_ISS.jpg",
+    "credit": "NASA JSC · экипаж МКС-31 · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA JSC · экипаж МКС-31 · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      640,
+      640
+    ],
+    "description": "Image of a Sprite , as seen from the ISS . This is a still image from a time-lapse movie.",
+    "cropped_from": "sprite-from-iss.jpg"
+  },
+  {
+    "file": "sprites-cover.jpg",
+    "title": "Time-lapse Thunderstorm (iss071e170351).jpg",
+    "author": "NASA Johnson Space Center / Matthew Dominick",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Time-lapse_Thunderstorm_(iss071e170351).jpg",
+    "credit": "NASA / Matthew Dominick · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA / Matthew Dominick · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      380,
+      420
+    ],
+    "description": "iss071e170351 (6/3/2024) --- NASA astronaut Matthew Dominick captured red sprites from space station. The bright red flashes in the center of this image are a little-understood phenomenon associated with powerful lightning events and appear high above the clouds in Earth’s upper atmosphere. Red spri",
+    "cropped_from": "time-lapse-thunderstorm-iss071e170351.jpg"
+  }
+]

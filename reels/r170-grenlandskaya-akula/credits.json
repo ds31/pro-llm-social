@@ -1,0 +1,60 @@
+[
+  {
+    "file": "expl9984-14318817140.jpg",
+    "title": "Expl9984 (14318817140).jpg",
+    "author": "NOAA Photo Library",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Expl9984_(14318817140).jpg",
+    "credit": "NOAA Photo Library · Public domain · Wikimedia Commons",
+    "onscreen": "NOAA Photo Library · Public domain · Wikimedia Commons",
+    "size": [
+      1920,
+      1080
+    ],
+    "description": "Deep sea fish. A Greenland shark ( Somniosus microcephalus ). This was the largest fish encountered during the Northeast U.S. Canyons Expedition. Image ID: expl9984, Voyage To Inner Space - Exploring the Seas With NOAA Collect Location: Between Alvin and Nantucket Canyons, 896-778m Photo Date: 20130"
+  },
+  {
+    "file": "somniosus-microcephalus-okeanos.jpg",
+    "title": "Somniosus microcephalus okeanos.jpg",
+    "author": "NOAA Okeanos Explorer Program",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Somniosus_microcephalus_okeanos.jpg",
+    "credit": "NOAA Okeanos Explorer Program · Public domain · Wikimedia Commons",
+    "onscreen": "NOAA Okeanos Explorer Program · Public domain · Wikimedia Commons",
+    "size": [
+      1225,
+      689
+    ],
+    "description": "Greenland shark ( Somniosus microcephalus )"
+  },
+  {
+    "file": "shark-cover.jpg",
+    "title": "Somniosus microcephalus okeanos.jpg",
+    "author": "NOAA Okeanos Explorer Program",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Somniosus_microcephalus_okeanos.jpg",
+    "credit": "NOAA Okeanos Explorer Program · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NOAA Okeanos Explorer Program · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      680,
+      689
+    ],
+    "description": "Greenland shark ( Somniosus microcephalus )",
+    "cropped_from": "somniosus-microcephalus-okeanos.jpg"
+  },
+  {
+    "file": "ora-abstract-crop.jpg",
+    "title": "ORA (Oxford University Research Archive): аннотация статьи Nielsen et al., Science 2016",
+    "author": "ora.ox.ac.uk",
+    "license": "скриншот первоисточника",
+    "source": "https://ora.ox.ac.uk/objects/uuid:6c040460-9519-4720-9669-9911bdd03b09",
+    "credit": "скриншот ora.ox.ac.uk · 27.11.2026 · кадрирование",
+    "onscreen": "скриншот ora.ox.ac.uk · 27.11.2026 · кадр",
+    "size": [
+      1450,
+      525
+    ],
+    "description": "аннотация статьи на странице архива Оксфорда, кадр без логотипов",
+    "cropped_from": "ora-abstract.png"
+  }
+]

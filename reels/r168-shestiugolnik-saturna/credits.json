@@ -1,0 +1,61 @@
+[
+  {
+    "file": "saturn-north-pole-2013-07-22.jpg",
+    "title": "Saturn North Pole 2013-07-22.jpg",
+    "author": "NASA/JPL-Caltech/Space Science Institute",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Saturn_North_Pole_2013-07-22.jpg",
+    "credit": "NASA/JPL-Caltech/Space Science Institute · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL-Caltech/SSI · Public domain · Wikimedia Commons",
+    "size": [
+      1600,
+      1600
+    ],
+    "description": "The globe of Saturn, seen here in natural color, is reminiscent of a holiday ornament in this wide-angle view from NASA's Cassini spacecraft. The characteristic hexagonal shape of Saturn's northern jet stream, somewhat yellow here, is visible. At the pole lies a Saturnian version of a high-speed hur"
+  },
+  {
+    "file": "hex-2013.jpg",
+    "title": "PIA21611 - Saturn's Hexagon as Summer Solstice Approaches.gif",
+    "author": "NASA/JPL-Caltech/Space Science Institute/Hampton University",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:PIA21611_-_Saturn%27s_Hexagon_as_Summer_Solstice_Approaches.gif",
+    "credit": "NASA/JPL-Caltech/Space Science Institute/Hampton University · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/JPL-Caltech/SSI/Hampton University · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      1021,
+      1026
+    ],
+    "description": "These natural color views (and corresponding animated movie sequences) from NASA's Cassini spacecraft compare the appearance of Saturn's north-polar region in June 2013 and April 2017. In both views, Saturn's polar hexagon dominates the scene. The comparison shows how clearly the color of the region",
+    "cropped_from": "pia21611-saturn-s-hexagon-as-summer-solstic-916756.jpg"
+  },
+  {
+    "file": "hex-2017.jpg",
+    "title": "PIA21611 - Saturn's Hexagon as Summer Solstice Approaches.gif",
+    "author": "NASA/JPL-Caltech/Space Science Institute/Hampton University",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:PIA21611_-_Saturn%27s_Hexagon_as_Summer_Solstice_Approaches.gif",
+    "credit": "NASA/JPL-Caltech/Space Science Institute/Hampton University · Public domain · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA/JPL-Caltech/SSI/Hampton University · Public domain · Wikimedia Commons · кадр",
+    "size": [
+      1021,
+      1026
+    ],
+    "description": "These natural color views (and corresponding animated movie sequences) from NASA's Cassini spacecraft compare the appearance of Saturn's north-polar region in June 2013 and April 2017. In both views, Saturn's polar hexagon dominates the scene. The comparison shows how clearly the color of the region",
+    "cropped_from": "pia21611-saturn-s-hexagon-as-summer-solstic-916756.jpg"
+  },
+  {
+    "file": "decagon.jpg",
+    "title": "Decagon on Saturn’s south pole (single filter image) (heic2612b).jpg",
+    "author": "NASA, ESA, STScI, A. Sánchez-Lavega (University of the Basque Country), A. Simon (NASA-GSFC), M. Wong (UC Berkeley); Image Processing: A. Pagan (STScI)",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Decagon_on_Saturn%E2%80%99s_south_pole_(single_filter_image)_(heic2612b).jpg",
+    "credit": "NASA, ESA, STScI, A. Sánchez-Lavega (University of the Basque Country), A. Simon (NASA-GSFC), M. Wong (UC Berkeley); Image Processing: A. Pagan (STScI) · CC BY 4.0 · Wikimedia Commons · кадрирование",
+    "onscreen": "NASA, ESA, STScI, A. Sánchez-Lavega и др. · CC BY 4.0 · Wikimedia Commons · кадр",
+    "size": [
+      860,
+      720
+    ],
+    "description": "A single wavelength of light from the NASA/ESA Hubble Space Telescope provides a particularly clear view of the 10-sided atmospheric wave discovered encircling Saturn’s south pole. The feature, labeled “decagon,” is embedded within one of Saturn’s powerful jet streams. The wave is centered around 63",
+    "cropped_from": "decagon-on-saturn-s-south-pole-single-filte-50e894.jpg"
+  }
+]

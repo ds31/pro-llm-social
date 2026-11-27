@@ -1,0 +1,66 @@
+[
+  {
+    "file": "marssunset.jpg",
+    "title": "MarsSunset.jpg",
+    "author": "NASA/JPL/Texas A&M/Cornell (Pancam, Spirit)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:MarsSunset.jpg",
+    "credit": "NASA/JPL/Texas A&M/Cornell · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL/Texas A&M/Cornell · Public domain · Wikimedia Commons",
+    "size": [
+      1920,
+      1478
+    ],
+    "description": "Закат в кратере Гусев, марсоход Spirit, Pancam, 19.05.2005 (сол 489), около 18:07 местного времени. Цвета «slightly exaggerated» (NASA). Первоисточник: science.nasa.gov/photojournal/a-moment-frozen-in-time/",
+    "page": "https://science.nasa.gov/photojournal/a-moment-frozen-in-time/"
+  },
+  {
+    "file": "mars-sunset-pia01547.jpg",
+    "title": "Mars sunset PIA01547.jpg",
+    "author": "NASA/JPL-Caltech (IMP, Mars Pathfinder)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Mars_sunset_PIA01547.jpg",
+    "credit": "NASA/JPL-Caltech · Public domain · Wikimedia Commons",
+    "onscreen": "NASA/JPL-Caltech · Public domain · Wikimedia Commons",
+    "size": [
+      1920,
+      470
+    ],
+    "description": "Mars Pathfinder, сол 24 (1997), около 16:10 местного времени, четыре кадра, «true color»: «The brownish gray sky… The sky near the sun is a pale blue color». Первоисточник: science.nasa.gov/photojournal/true-color-of-mars-pathfinder-sol-24-at-4-pm/",
+    "page": "https://science.nasa.gov/photojournal/true-color-of-mars-pathfinder-sol-24-at-4-pm/"
+  },
+  {
+    "file": "curiosity-sunset.jpg",
+    "title": "PIA19400: Sunset in Mars' Gale Crater (1344×1080)",
+    "author": "NASA/JPL-Caltech/MSSS/Texas A&M Univ. (Mastcam, Curiosity)",
+    "license": "скриншот первоисточника",
+    "source": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia19/pia19400/PIA19400.jpg",
+    "credit": "NASA/JPL-Caltech/MSSS/Texas A&M Univ. · Mastcam · скриншот assets.science.nasa.gov · 27.11.2026",
+    "onscreen": "NASA/JPL-Caltech/MSSS/Texas A&M Univ. · Mastcam · скриншот assets.science.nasa.gov · 27.11.2026",
+    "size": [
+      2240,
+      1800
+    ],
+    "description": "Закат в кратере Гейл, марсоход Curiosity, левая камера Mastcam, 15.04.2015 (сол 956). Цвет откалиброван и сбалансирован по белому. Снят fetch_media.py --shot с адреса полного снимка PIA19400 и обрезан по краям картинки --crop.",
+    "cropped_from": "curiosity-shot.png (удалён после кадрирования)",
+    "page": "https://science.nasa.gov/photojournal/sunset-in-mars-gale-crater/",
+    "license_note": "Снимок NASA, на странице не помечен как чужой копирайт. NASA Images and Media Usage Guidelines: «NASA content … generally are not subject to copyright in the United States»; JPL Image Use Policy: изображения с кредитом NASA/JPL-Caltech «may be used for any purpose without prior permission» без намёка на одобрение NASA/JPL. На Commons этот файл с шаблоном JPL_Image_Copyright (без LicenseShortName), поэтому взят скриншотом с сервера NASA. Проверка 27.11.2026."
+  },
+  {
+    "file": "perseverance-sunset.jpg",
+    "title": "PIA24935: Mastcam-Z's First Martian Sunset (4884×958)",
+    "author": "NASA/JPL-Caltech/ASU/MSSS (Mastcam-Z, Perseverance)",
+    "license": "скриншот первоисточника",
+    "source": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia24/pia24935/PIA24935.jpg",
+    "credit": "NASA/JPL-Caltech/ASU/MSSS · Mastcam-Z · скриншот assets.science.nasa.gov · 27.11.2026",
+    "onscreen": "NASA/JPL-Caltech/ASU/MSSS · Mastcam-Z · скриншот assets.science.nasa.gov · 27.11.2026",
+    "size": [
+      2880,
+      564
+    ],
+    "description": "Закат в кратере Езеро, марсоход Perseverance, Mastcam-Z, 09.11.2021 (сол 257): «less dust in the atmosphere resulted in a more muted color than average». Снят --shot с адреса полного снимка PIA24935, обрезан --crop.",
+    "cropped_from": "perseverance-shot.png (удалён после кадрирования)",
+    "page": "https://science.nasa.gov/photojournal/mastcam-zs-first-martian-sunset/",
+    "license_note": "Снимок NASA, на странице не помечен как чужой копирайт. NASA Images and Media Usage Guidelines: «NASA content … generally are not subject to copyright in the United States»; JPL Image Use Policy: изображения с кредитом NASA/JPL-Caltech «may be used for any purpose without prior permission» без намёка на одобрение NASA/JPL. На Commons этот файл с шаблоном JPL_Image_Copyright (без LicenseShortName), поэтому взят скриншотом с сервера NASA. Проверка 27.11.2026."
+  }
+]
